@@ -37,8 +37,10 @@ def apiCaller(place, places, dates, times):
 
                         # Create a dictionary containing the data and the answer
                         data_dict = {
-                            'fromPlace': place['Comune'],
-                            'toPlace': row['Comune'],
+                            'fromPlaceName': place['Comune'],
+                            'fromPalceCord': from_place,
+                            'toPlaceName': row['Comune'],
+                            'toPlaceCord': to_place,
                             'date': date,
                             'time': time,
                             'ResponseData': response_data
