@@ -29,7 +29,9 @@ def apiCaller(place, places, dates, times):
                             'arriveBy': 'false',
                             'wheelchair': 'false',
                             'showIntermediateStops': 'true',
-                            'locale': 'en',
+                            'additionalParameters':'searchWindow',
+                            'locale': 'it',
+                            'searchWindow':'99999',
                         }
                         response = requests.get(api_url, params=params)
                         response.raise_for_status()  # Check if the request was successful
