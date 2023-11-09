@@ -55,5 +55,4 @@ def datasetBuilder(data):
         'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date']),
         'rawOutput': data['trip'],
     }
-    a = 9
     return (data)

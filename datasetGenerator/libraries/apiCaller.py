@@ -31,7 +31,7 @@ def apiCaller(place, places, dates, times):
                             'showIntermediateStops': 'true',
                             'additionalParameters':'searchWindow',
                             'locale': 'it',
-                            'searchWindow':'99999',
+                            'searchWindow':'18000',
                         }
                         response = requests.get(api_url, params=params)
                         response.raise_for_status()  # Check if the request was successful
