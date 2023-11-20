@@ -8,17 +8,26 @@ git clone https://github.com/apache/superset.git
 cd superset
 git checkout 3.0.0
 TAG=3.0.0 docker compose -f docker-compose-non-dev.yml up -d
-docker compose
 http://localhost:8088
 user:admin passw:admin
 
 
 ## To run apache superset:
 
-docker compose
-http://localhost:8088
+cd apacheSupersetDocker/superset
+TAG=3.0.0 docker compose -f docker-compose-non-dev.yml up -d
+http://localhost:8088 or --> http://0.0.0.0:8088
 user:admin passw:admin
 
+
+## To stop
+
+docker stop $(docker ps -aq) 
+
+
+## To reset
+
+docker stop $(docker ps -aq) && docker rm $(docker ps -aq) && docker rmi $(docker images -q) --force
 
 ## To generate dataset data:
 
