@@ -16,7 +16,7 @@ user:admin passw:admin
 
 cd apacheSupersetDocker/superset
 TAG=3.0.0 docker compose -f docker-compose-non-dev.yml up -d
-http://localhost:8088 or --> http://0.0.0.0:8088
+http://localhost:8088
 user:admin passw:admin
 
 
