@@ -14,7 +14,7 @@ user:admin passw:admin
 
 ## To run apache superset:
 
-cd apacheSupersetDocker/superset
+cd apacheSupersetDocker/superset/superset
 TAG=3.0.0 docker compose -f docker-compose-non-dev.yml up -d
 http://localhost:8088
 user:admin passw:admin
