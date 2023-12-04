@@ -1,0 +1,94 @@
+,source,target,weight
+0,Bagni di Lucca,Borgo a Mozzano,20
+1,Bagni di Lucca,Camporgiano,20
+2,Bagni di Lucca,Castelnuovo di Garfagnana,20
+3,Bagni di Lucca,Fosciandora,18
+4,Bagni di Lucca,Gallicano,20
+5,Bagni di Lucca,Lucca,19
+6,Bagni di Lucca,Molazzana,15
+7,Bagni di Lucca,Pescaglia,6
+8,Bagni di Lucca,Piazza al Serchio,20
+9,Bagni di Lucca,San Romano in Garfagnana,20
+10,Borgo a Mozzano,Bagni di Lucca,21
+11,Borgo a Mozzano,Camporgiano,21
+12,Borgo a Mozzano,Castelnuovo di Garfagnana,21
+13,Borgo a Mozzano,Fosciandora,20
+14,Borgo a Mozzano,Gallicano,21
+15,Borgo a Mozzano,Lucca,19
+16,Borgo a Mozzano,Molazzana,17
+17,Borgo a Mozzano,Piazza al Serchio,21
+18,Borgo a Mozzano,San Romano in Garfagnana,21
+19,Camporgiano,Bagni di Lucca,21
+20,Camporgiano,Borgo a Mozzano,21
+21,Camporgiano,Castelnuovo di Garfagnana,21
+22,Camporgiano,Fosciandora,21
+23,Camporgiano,Gallicano,21
+24,Camporgiano,Lucca,19
+25,Camporgiano,Molazzana,15
+26,Camporgiano,Piazza al Serchio,21
+27,Camporgiano,San Romano in Garfagnana,24
+28,Castelnuovo di Garfagnana,Bagni di Lucca,21
+29,Castelnuovo di Garfagnana,Borgo a Mozzano,21
+30,Castelnuovo di Garfagnana,Camporgiano,21
+31,Castelnuovo di Garfagnana,Fosciandora,21
+32,Castelnuovo di Garfagnana,Gallicano,21
+33,Castelnuovo di Garfagnana,Lucca,19
+34,Castelnuovo di Garfagnana,Molazzana,15
+35,Castelnuovo di Garfagnana,Piazza al Serchio,21
+36,Castelnuovo di Garfagnana,San Romano in Garfagnana,21
+37,Fosciandora,Bagni di Lucca,18
+38,Fosciandora,Borgo a Mozzano,21
+39,Fosciandora,Camporgiano,18
+40,Fosciandora,Castelnuovo di Garfagnana,21
+41,Fosciandora,Castiglione di Garfagnana,10
+42,Fosciandora,Gallicano,21
+43,Fosciandora,Lucca,16
+44,Fosciandora,Molazzana,15
+45,Fosciandora,Piazza al Serchio,18
+46,Fosciandora,San Romano in Garfagnana,18
+47,Gallicano,Bagni di Lucca,20
+48,Gallicano,Barga,5
+49,Gallicano,Borgo a Mozzano,21
+50,Gallicano,Camporgiano,21
+51,Gallicano,Castelnuovo di Garfagnana,21
+52,Gallicano,Fosciandora,20
+53,Gallicano,Lucca,19
+54,Gallicano,Molazzana,21
+55,Gallicano,Piazza al Serchio,21
+56,Gallicano,San Romano in Garfagnana,21
+57,Lucca,Bagni di Lucca,20
+58,Lucca,Borgo a Mozzano,20
+59,Lucca,Camporgiano,20
+60,Lucca,Castelnuovo di Garfagnana,20
+61,Lucca,Fosciandora,17
+62,Lucca,Gallicano,20
+63,Lucca,Molazzana,12
+64,Lucca,Piazza al Serchio,20
+65,Lucca,San Romano in Garfagnana,20
+66,Molazzana,Bagni di Lucca,12
+67,Molazzana,Borgo a Mozzano,16
+68,Molazzana,Camporgiano,16
+69,Molazzana,Castelnuovo di Garfagnana,16
+70,Molazzana,Fosciandora,15
+71,Molazzana,Gallicano,15
+72,Molazzana,Lucca,12
+73,Molazzana,Piazza al Serchio,16
+74,Molazzana,San Romano in Garfagnana,16
+75,Piazza al Serchio,Bagni di Lucca,20
+76,Piazza al Serchio,Borgo a Mozzano,21
+77,Piazza al Serchio,Camporgiano,21
+78,Piazza al Serchio,Castelnuovo di Garfagnana,21
+79,Piazza al Serchio,Fosciandora,21
+80,Piazza al Serchio,Gallicano,21
+81,Piazza al Serchio,Lucca,19
+82,Piazza al Serchio,Molazzana,15
+83,Piazza al Serchio,San Romano in Garfagnana,21
+84,San Romano in Garfagnana,Bagni di Lucca,20
+85,San Romano in Garfagnana,Borgo a Mozzano,21
+86,San Romano in Garfagnana,Camporgiano,23
+87,San Romano in Garfagnana,Castelnuovo di Garfagnana,21
+88,San Romano in Garfagnana,Fosciandora,21
+89,San Romano in Garfagnana,Gallicano,21
+90,San Romano in Garfagnana,Lucca,19
+91,San Romano in Garfagnana,Molazzana,15
+92,San Romano in Garfagnana,Piazza al Serchio,21
