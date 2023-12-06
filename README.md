@@ -37,3 +37,8 @@ docker stop $(docker ps -aq) && docker rm $(docker ps -aq) && docker rmi $(docke
 ## To plot graphs:
 
     plotter.ipynb
+
+
+# Mapbox Token
+
+pk.eyJ1Ijoiam9obmJpYW5jaGkiLCJhIjoiY2xwdHpnamFrMGpzNzJxcnpyMXM2MzYxbSJ9.yXvvrPSDgKiImreZAEU8Ng

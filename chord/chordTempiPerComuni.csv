@@ -1,0 +1,669 @@
+source,target,date,weight
+Bagni di Lucca,Barga,10-04-2023,20
+Bagni di Lucca,Borgo a Mozzano,09-07-2023,20
+Bagni di Lucca,Borgo a Mozzano,10-01-2023,20
+Bagni di Lucca,Borgo a Mozzano,10-04-2023,21
+Bagni di Lucca,Camporgiano,09-07-2023,20
+Bagni di Lucca,Camporgiano,10-01-2023,20
+Bagni di Lucca,Camporgiano,10-04-2023,21
+Bagni di Lucca,Careggine,10-04-2023,13
+Bagni di Lucca,Castelnuovo di Garfagnana,09-07-2023,20
+Bagni di Lucca,Castelnuovo di Garfagnana,10-01-2023,20
+Bagni di Lucca,Castelnuovo di Garfagnana,10-04-2023,21
+Bagni di Lucca,Castiglione di Garfagnana,10-04-2023,15
+Bagni di Lucca,Coreglia Antelminelli,10-04-2023,5
+Bagni di Lucca,Fabbriche di Vergemoli,10-04-2023,15
+Bagni di Lucca,Fosciandora,09-07-2023,15
+Bagni di Lucca,Fosciandora,10-01-2023,18
+Bagni di Lucca,Fosciandora,10-04-2023,21
+Bagni di Lucca,Gallicano,09-07-2023,20
+Bagni di Lucca,Gallicano,10-01-2023,20
+Bagni di Lucca,Gallicano,10-04-2023,21
+Bagni di Lucca,Lucca,09-07-2023,20
+Bagni di Lucca,Lucca,10-01-2023,19
+Bagni di Lucca,Lucca,10-04-2023,20
+Bagni di Lucca,Minucciano,10-04-2023,15
+Bagni di Lucca,Molazzana,10-01-2023,15
+Bagni di Lucca,Molazzana,10-04-2023,21
+Bagni di Lucca,Pescaglia,09-07-2023,24
+Bagni di Lucca,Pescaglia,10-01-2023,6
+Bagni di Lucca,Pescaglia,10-04-2023,20
+Bagni di Lucca,Piazza al Serchio,09-07-2023,20
+Bagni di Lucca,Piazza al Serchio,10-01-2023,20
+Bagni di Lucca,Piazza al Serchio,10-04-2023,21
+Bagni di Lucca,Pieve Fosciana,10-04-2023,11
+Bagni di Lucca,San Romano in Garfagnana,09-07-2023,20
+Bagni di Lucca,San Romano in Garfagnana,10-01-2023,20
+Bagni di Lucca,San Romano in Garfagnana,10-04-2023,20
+Bagni di Lucca,Sillano Giuncugnano,10-04-2023,16
+Bagni di Lucca,Villa Collemandina,10-04-2023,14
+Barga,Bagni di Lucca,10-04-2023,18
+Barga,Borgo a Mozzano,09-07-2023,24
+Barga,Borgo a Mozzano,10-04-2023,18
+Barga,Camporgiano,10-04-2023,21
+Barga,Careggine,10-04-2023,14
+Barga,Castelnuovo di Garfagnana,09-07-2023,24
+Barga,Castelnuovo di Garfagnana,10-04-2023,21
+Barga,Castiglione di Garfagnana,09-07-2023,24
+Barga,Castiglione di Garfagnana,10-04-2023,16
+Barga,Coreglia Antelminelli,09-07-2023,24
+Barga,Coreglia Antelminelli,10-04-2023,8
+Barga,Fabbriche di Vergemoli,09-07-2023,24
+Barga,Fabbriche di Vergemoli,10-04-2023,14
+Barga,Fosciandora,09-07-2023,24
+Barga,Fosciandora,10-04-2023,22
+Barga,Gallicano,09-07-2023,24
+Barga,Gallicano,10-04-2023,22
+Barga,Lucca,10-04-2023,18
+Barga,Minucciano,10-04-2023,17
+Barga,Molazzana,09-07-2023,24
+Barga,Molazzana,10-04-2023,21
+Barga,Pescaglia,10-04-2023,17
+Barga,Piazza al Serchio,10-04-2023,21
+Barga,Pieve Fosciana,09-07-2023,24
+Barga,Pieve Fosciana,10-04-2023,13
+Barga,San Romano in Garfagnana,10-04-2023,22
+Barga,Sillano Giuncugnano,10-04-2023,17
+Barga,Villa Collemandina,09-07-2023,24
+Barga,Villa Collemandina,10-04-2023,17
+Borgo a Mozzano,Bagni di Lucca,09-07-2023,20
+Borgo a Mozzano,Bagni di Lucca,10-01-2023,21
+Borgo a Mozzano,Bagni di Lucca,10-04-2023,22
+Borgo a Mozzano,Barga,09-07-2023,24
+Borgo a Mozzano,Barga,10-04-2023,20
+Borgo a Mozzano,Camporgiano,09-07-2023,20
+Borgo a Mozzano,Camporgiano,10-01-2023,21
+Borgo a Mozzano,Camporgiano,10-04-2023,21
+Borgo a Mozzano,Careggine,10-04-2023,13
+Borgo a Mozzano,Castelnuovo di Garfagnana,09-07-2023,20
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,21
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-04-2023,21
+Borgo a Mozzano,Castiglione di Garfagnana,10-04-2023,16
+Borgo a Mozzano,Coreglia Antelminelli,10-04-2023,6
+Borgo a Mozzano,Fabbriche di Vergemoli,09-07-2023,24
+Borgo a Mozzano,Fabbriche di Vergemoli,10-04-2023,16
+Borgo a Mozzano,Fosciandora,09-07-2023,15
+Borgo a Mozzano,Fosciandora,10-01-2023,20
+Borgo a Mozzano,Fosciandora,10-04-2023,21
+Borgo a Mozzano,Gallicano,09-07-2023,20
+Borgo a Mozzano,Gallicano,10-01-2023,21
+Borgo a Mozzano,Gallicano,10-04-2023,21
+Borgo a Mozzano,Lucca,09-07-2023,20
+Borgo a Mozzano,Lucca,10-01-2023,19
+Borgo a Mozzano,Lucca,10-04-2023,20
+Borgo a Mozzano,Minucciano,10-04-2023,16
+Borgo a Mozzano,Molazzana,10-01-2023,17
+Borgo a Mozzano,Molazzana,10-04-2023,21
+Borgo a Mozzano,Pescaglia,09-07-2023,24
+Borgo a Mozzano,Pescaglia,10-04-2023,16
+Borgo a Mozzano,Piazza al Serchio,09-07-2023,20
+Borgo a Mozzano,Piazza al Serchio,10-01-2023,21
+Borgo a Mozzano,Piazza al Serchio,10-04-2023,21
+Borgo a Mozzano,Pieve Fosciana,10-04-2023,12
+Borgo a Mozzano,San Romano in Garfagnana,09-07-2023,20
+Borgo a Mozzano,San Romano in Garfagnana,10-01-2023,21
+Borgo a Mozzano,San Romano in Garfagnana,10-04-2023,21
+Borgo a Mozzano,Sillano Giuncugnano,10-04-2023,16
+Borgo a Mozzano,Villa Collemandina,10-04-2023,16
+Camporgiano,Bagni di Lucca,09-07-2023,19
+Camporgiano,Bagni di Lucca,10-01-2023,21
+Camporgiano,Bagni di Lucca,10-04-2023,20
+Camporgiano,Barga,10-04-2023,21
+Camporgiano,Borgo a Mozzano,09-07-2023,19
+Camporgiano,Borgo a Mozzano,10-01-2023,21
+Camporgiano,Borgo a Mozzano,10-04-2023,21
+Camporgiano,Careggine,09-07-2023,24
+Camporgiano,Careggine,10-04-2023,15
+Camporgiano,Castelnuovo di Garfagnana,09-07-2023,19
+Camporgiano,Castelnuovo di Garfagnana,10-01-2023,21
+Camporgiano,Castelnuovo di Garfagnana,10-04-2023,22
+Camporgiano,Castiglione di Garfagnana,09-07-2023,24
+Camporgiano,Castiglione di Garfagnana,10-04-2023,18
+Camporgiano,Coreglia Antelminelli,10-04-2023,5
+Camporgiano,Fabbriche di Vergemoli,10-04-2023,17
+Camporgiano,Fosciandora,09-07-2023,15
+Camporgiano,Fosciandora,10-01-2023,21
+Camporgiano,Fosciandora,10-04-2023,22
+Camporgiano,Gallicano,09-07-2023,19
+Camporgiano,Gallicano,10-01-2023,21
+Camporgiano,Gallicano,10-04-2023,22
+Camporgiano,Lucca,09-07-2023,19
+Camporgiano,Lucca,10-01-2023,19
+Camporgiano,Lucca,10-04-2023,20
+Camporgiano,Minucciano,09-07-2023,24
+Camporgiano,Minucciano,10-04-2023,17
+Camporgiano,Molazzana,09-07-2023,24
+Camporgiano,Molazzana,10-01-2023,15
+Camporgiano,Molazzana,10-04-2023,22
+Camporgiano,Pescaglia,10-04-2023,17
+Camporgiano,Piazza al Serchio,09-07-2023,20
+Camporgiano,Piazza al Serchio,10-01-2023,21
+Camporgiano,Piazza al Serchio,10-04-2023,22
+Camporgiano,Pieve Fosciana,09-07-2023,24
+Camporgiano,Pieve Fosciana,10-04-2023,10
+Camporgiano,San Romano in Garfagnana,10-01-2023,24
+Camporgiano,San Romano in Garfagnana,10-04-2023,24
+Camporgiano,Sillano Giuncugnano,09-07-2023,24
+Camporgiano,Sillano Giuncugnano,10-04-2023,16
+Camporgiano,Villa Collemandina,09-07-2023,24
+Camporgiano,Villa Collemandina,10-04-2023,18
+Careggine,Bagni di Lucca,10-04-2023,15
+Careggine,Barga,10-04-2023,15
+Careggine,Borgo a Mozzano,10-04-2023,15
+Careggine,Camporgiano,09-07-2023,24
+Careggine,Camporgiano,10-04-2023,15
+Careggine,Castelnuovo di Garfagnana,09-07-2023,24
+Careggine,Castelnuovo di Garfagnana,10-04-2023,15
+Careggine,Castiglione di Garfagnana,09-07-2023,24
+Careggine,Castiglione di Garfagnana,10-04-2023,10
+Careggine,Coreglia Antelminelli,10-04-2023,5
+Careggine,Fabbriche di Vergemoli,10-04-2023,10
+Careggine,Fosciandora,09-07-2023,24
+Careggine,Fosciandora,10-04-2023,15
+Careggine,Gallicano,10-04-2023,15
+Careggine,Lucca,10-04-2023,15
+Careggine,Minucciano,10-04-2023,11
+Careggine,Molazzana,09-07-2023,24
+Careggine,Molazzana,10-04-2023,15
+Careggine,Pescaglia,10-04-2023,10
+Careggine,Piazza al Serchio,09-07-2023,24
+Careggine,Piazza al Serchio,10-04-2023,15
+Careggine,Pieve Fosciana,09-07-2023,24
+Careggine,Pieve Fosciana,10-04-2023,14
+Careggine,San Romano in Garfagnana,09-07-2023,24
+Careggine,San Romano in Garfagnana,10-04-2023,15
+Careggine,Sillano Giuncugnano,10-04-2023,11
+Careggine,Villa Collemandina,09-07-2023,24
+Careggine,Villa Collemandina,10-04-2023,15
+Castelnuovo di Garfagnana,Bagni di Lucca,09-07-2023,20
+Castelnuovo di Garfagnana,Bagni di Lucca,10-01-2023,21
+Castelnuovo di Garfagnana,Bagni di Lucca,10-04-2023,20
+Castelnuovo di Garfagnana,Barga,09-07-2023,24
+Castelnuovo di Garfagnana,Barga,10-04-2023,21
+Castelnuovo di Garfagnana,Borgo a Mozzano,09-07-2023,20
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2023,21
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-04-2023,21
+Castelnuovo di Garfagnana,Camporgiano,09-07-2023,21
+Castelnuovo di Garfagnana,Camporgiano,10-01-2023,21
+Castelnuovo di Garfagnana,Camporgiano,10-04-2023,21
+Castelnuovo di Garfagnana,Careggine,09-07-2023,24
+Castelnuovo di Garfagnana,Careggine,10-04-2023,13
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,09-07-2023,24
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-04-2023,18
+Castelnuovo di Garfagnana,Coreglia Antelminelli,10-04-2023,5
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-04-2023,15
+Castelnuovo di Garfagnana,Fosciandora,09-07-2023,15
+Castelnuovo di Garfagnana,Fosciandora,10-01-2023,21
+Castelnuovo di Garfagnana,Fosciandora,10-04-2023,22
+Castelnuovo di Garfagnana,Gallicano,09-07-2023,20
+Castelnuovo di Garfagnana,Gallicano,10-01-2023,21
+Castelnuovo di Garfagnana,Gallicano,10-04-2023,22
+Castelnuovo di Garfagnana,Lucca,09-07-2023,20
+Castelnuovo di Garfagnana,Lucca,10-01-2023,19
+Castelnuovo di Garfagnana,Lucca,10-04-2023,20
+Castelnuovo di Garfagnana,Minucciano,10-04-2023,16
+Castelnuovo di Garfagnana,Molazzana,09-07-2023,24
+Castelnuovo di Garfagnana,Molazzana,10-01-2023,15
+Castelnuovo di Garfagnana,Molazzana,10-04-2023,21
+Castelnuovo di Garfagnana,Pescaglia,10-04-2023,17
+Castelnuovo di Garfagnana,Piazza al Serchio,09-07-2023,21
+Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2023,21
+Castelnuovo di Garfagnana,Piazza al Serchio,10-04-2023,21
+Castelnuovo di Garfagnana,Pieve Fosciana,09-07-2023,24
+Castelnuovo di Garfagnana,Pieve Fosciana,10-04-2023,10
+Castelnuovo di Garfagnana,San Romano in Garfagnana,09-07-2023,21
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-01-2023,21
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-04-2023,21
+Castelnuovo di Garfagnana,Sillano Giuncugnano,10-04-2023,17
+Castelnuovo di Garfagnana,Villa Collemandina,09-07-2023,24
+Castelnuovo di Garfagnana,Villa Collemandina,10-04-2023,18
+Castiglione di Garfagnana,Bagni di Lucca,10-04-2023,16
+Castiglione di Garfagnana,Barga,09-07-2023,24
+Castiglione di Garfagnana,Barga,10-04-2023,16
+Castiglione di Garfagnana,Borgo a Mozzano,10-04-2023,16
+Castiglione di Garfagnana,Camporgiano,09-07-2023,24
+Castiglione di Garfagnana,Camporgiano,10-04-2023,16
+Castiglione di Garfagnana,Careggine,09-07-2023,24
+Castiglione di Garfagnana,Careggine,10-04-2023,13
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,09-07-2023,24
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-04-2023,16
+Castiglione di Garfagnana,Coreglia Antelminelli,10-04-2023,5
+Castiglione di Garfagnana,Fabbriche di Vergemoli,10-04-2023,10
+Castiglione di Garfagnana,Fosciandora,09-07-2023,24
+Castiglione di Garfagnana,Fosciandora,10-04-2023,16
+Castiglione di Garfagnana,Gallicano,09-07-2023,24
+Castiglione di Garfagnana,Gallicano,10-04-2023,16
+Castiglione di Garfagnana,Lucca,10-04-2023,16
+Castiglione di Garfagnana,Minucciano,10-04-2023,15
+Castiglione di Garfagnana,Molazzana,09-07-2023,24
+Castiglione di Garfagnana,Molazzana,10-04-2023,16
+Castiglione di Garfagnana,Pescaglia,10-04-2023,8
+Castiglione di Garfagnana,Piazza al Serchio,09-07-2023,24
+Castiglione di Garfagnana,Piazza al Serchio,10-04-2023,16
+Castiglione di Garfagnana,Pieve Fosciana,09-07-2023,24
+Castiglione di Garfagnana,Pieve Fosciana,10-04-2023,10
+Castiglione di Garfagnana,San Romano in Garfagnana,09-07-2023,24
+Castiglione di Garfagnana,San Romano in Garfagnana,10-04-2023,16
+Castiglione di Garfagnana,Sillano Giuncugnano,10-04-2023,16
+Castiglione di Garfagnana,Villa Collemandina,09-07-2023,24
+Castiglione di Garfagnana,Villa Collemandina,10-04-2023,17
+Coreglia Antelminelli,Bagni di Lucca,10-04-2023,11
+Coreglia Antelminelli,Barga,09-07-2023,24
+Coreglia Antelminelli,Barga,10-04-2023,11
+Coreglia Antelminelli,Borgo a Mozzano,10-04-2023,11
+Coreglia Antelminelli,Camporgiano,10-04-2023,11
+Coreglia Antelminelli,Careggine,10-04-2023,11
+Coreglia Antelminelli,Castelnuovo di Garfagnana,10-04-2023,11
+Coreglia Antelminelli,Castiglione di Garfagnana,10-04-2023,11
+Coreglia Antelminelli,Fabbriche di Vergemoli,09-07-2023,24
+Coreglia Antelminelli,Fabbriche di Vergemoli,10-04-2023,11
+Coreglia Antelminelli,Fosciandora,10-04-2023,11
+Coreglia Antelminelli,Gallicano,09-07-2023,24
+Coreglia Antelminelli,Gallicano,10-04-2023,11
+Coreglia Antelminelli,Lucca,10-04-2023,11
+Coreglia Antelminelli,Minucciano,10-04-2023,11
+Coreglia Antelminelli,Molazzana,10-04-2023,5
+Coreglia Antelminelli,Pescaglia,10-04-2023,11
+Coreglia Antelminelli,Piazza al Serchio,10-04-2023,11
+Coreglia Antelminelli,Pieve Fosciana,10-04-2023,6
+Coreglia Antelminelli,San Romano in Garfagnana,10-04-2023,11
+Coreglia Antelminelli,Sillano Giuncugnano,10-04-2023,11
+Coreglia Antelminelli,Villa Collemandina,10-04-2023,11
+Fabbriche di Vergemoli,Bagni di Lucca,10-04-2023,16
+Fabbriche di Vergemoli,Barga,09-07-2023,24
+Fabbriche di Vergemoli,Barga,10-04-2023,16
+Fabbriche di Vergemoli,Borgo a Mozzano,09-07-2023,24
+Fabbriche di Vergemoli,Borgo a Mozzano,10-04-2023,15
+Fabbriche di Vergemoli,Camporgiano,10-04-2023,16
+Fabbriche di Vergemoli,Careggine,10-04-2023,14
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-04-2023,16
+Fabbriche di Vergemoli,Castiglione di Garfagnana,10-04-2023,10
+Fabbriche di Vergemoli,Coreglia Antelminelli,09-07-2023,24
+Fabbriche di Vergemoli,Fosciandora,10-04-2023,16
+Fabbriche di Vergemoli,Gallicano,09-07-2023,24
+Fabbriche di Vergemoli,Gallicano,10-04-2023,16
+Fabbriche di Vergemoli,Lucca,10-04-2023,16
+Fabbriche di Vergemoli,Minucciano,10-04-2023,12
+Fabbriche di Vergemoli,Molazzana,09-07-2023,24
+Fabbriche di Vergemoli,Molazzana,10-04-2023,16
+Fabbriche di Vergemoli,Pescaglia,09-07-2023,24
+Fabbriche di Vergemoli,Pescaglia,10-04-2023,16
+Fabbriche di Vergemoli,Piazza al Serchio,10-04-2023,16
+Fabbriche di Vergemoli,Pieve Fosciana,10-04-2023,5
+Fabbriche di Vergemoli,San Romano in Garfagnana,10-04-2023,16
+Fabbriche di Vergemoli,Sillano Giuncugnano,10-04-2023,12
+Fabbriche di Vergemoli,Villa Collemandina,10-04-2023,10
+Fosciandora,Bagni di Lucca,09-07-2023,10
+Fosciandora,Bagni di Lucca,10-01-2023,18
+Fosciandora,Bagni di Lucca,10-04-2023,21
+Fosciandora,Barga,09-07-2023,24
+Fosciandora,Barga,10-04-2023,21
+Fosciandora,Borgo a Mozzano,09-07-2023,10
+Fosciandora,Borgo a Mozzano,10-01-2023,21
+Fosciandora,Borgo a Mozzano,10-04-2023,21
+Fosciandora,Camporgiano,09-07-2023,15
+Fosciandora,Camporgiano,10-01-2023,18
+Fosciandora,Camporgiano,10-04-2023,22
+Fosciandora,Careggine,09-07-2023,24
+Fosciandora,Careggine,10-04-2023,14
+Fosciandora,Castelnuovo di Garfagnana,09-07-2023,15
+Fosciandora,Castelnuovo di Garfagnana,10-01-2023,21
+Fosciandora,Castelnuovo di Garfagnana,10-04-2023,22
+Fosciandora,Castiglione di Garfagnana,09-07-2023,24
+Fosciandora,Castiglione di Garfagnana,10-01-2023,10
+Fosciandora,Castiglione di Garfagnana,10-04-2023,21
+Fosciandora,Coreglia Antelminelli,10-04-2023,8
+Fosciandora,Fabbriche di Vergemoli,10-04-2023,15
+Fosciandora,Gallicano,09-07-2023,15
+Fosciandora,Gallicano,10-01-2023,21
+Fosciandora,Gallicano,10-04-2023,21
+Fosciandora,Lucca,09-07-2023,10
+Fosciandora,Lucca,10-01-2023,16
+Fosciandora,Lucca,10-04-2023,19
+Fosciandora,Minucciano,10-04-2023,17
+Fosciandora,Molazzana,09-07-2023,24
+Fosciandora,Molazzana,10-01-2023,15
+Fosciandora,Molazzana,10-04-2023,20
+Fosciandora,Pescaglia,10-04-2023,16
+Fosciandora,Piazza al Serchio,09-07-2023,15
+Fosciandora,Piazza al Serchio,10-01-2023,18
+Fosciandora,Piazza al Serchio,10-04-2023,22
+Fosciandora,Pieve Fosciana,09-07-2023,24
+Fosciandora,Pieve Fosciana,10-04-2023,10
+Fosciandora,San Romano in Garfagnana,09-07-2023,15
+Fosciandora,San Romano in Garfagnana,10-01-2023,18
+Fosciandora,San Romano in Garfagnana,10-04-2023,22
+Fosciandora,Sillano Giuncugnano,10-04-2023,16
+Fosciandora,Villa Collemandina,09-07-2023,24
+Fosciandora,Villa Collemandina,10-04-2023,16
+Gallicano,Bagni di Lucca,09-07-2023,20
+Gallicano,Bagni di Lucca,10-01-2023,20
+Gallicano,Bagni di Lucca,10-04-2023,21
+Gallicano,Barga,09-07-2023,24
+Gallicano,Barga,10-01-2023,5
+Gallicano,Barga,10-04-2023,23
+Gallicano,Borgo a Mozzano,09-07-2023,20
+Gallicano,Borgo a Mozzano,10-01-2023,21
+Gallicano,Borgo a Mozzano,10-04-2023,21
+Gallicano,Camporgiano,09-07-2023,21
+Gallicano,Camporgiano,10-01-2023,21
+Gallicano,Camporgiano,10-04-2023,22
+Gallicano,Careggine,10-04-2023,13
+Gallicano,Castelnuovo di Garfagnana,09-07-2023,21
+Gallicano,Castelnuovo di Garfagnana,10-01-2023,21
+Gallicano,Castelnuovo di Garfagnana,10-04-2023,22
+Gallicano,Castiglione di Garfagnana,09-07-2023,24
+Gallicano,Castiglione di Garfagnana,10-04-2023,15
+Gallicano,Coreglia Antelminelli,09-07-2023,24
+Gallicano,Coreglia Antelminelli,10-04-2023,7
+Gallicano,Fabbriche di Vergemoli,09-07-2023,24
+Gallicano,Fabbriche di Vergemoli,10-04-2023,14
+Gallicano,Fosciandora,09-07-2023,17
+Gallicano,Fosciandora,10-01-2023,20
+Gallicano,Fosciandora,10-04-2023,22
+Gallicano,Lucca,09-07-2023,20
+Gallicano,Lucca,10-01-2023,19
+Gallicano,Lucca,10-04-2023,20
+Gallicano,Minucciano,10-04-2023,17
+Gallicano,Molazzana,09-07-2023,24
+Gallicano,Molazzana,10-01-2023,21
+Gallicano,Molazzana,10-04-2023,22
+Gallicano,Pescaglia,10-04-2023,16
+Gallicano,Piazza al Serchio,09-07-2023,21
+Gallicano,Piazza al Serchio,10-01-2023,21
+Gallicano,Piazza al Serchio,10-04-2023,22
+Gallicano,Pieve Fosciana,09-07-2023,24
+Gallicano,Pieve Fosciana,10-04-2023,12
+Gallicano,San Romano in Garfagnana,09-07-2023,21
+Gallicano,San Romano in Garfagnana,10-01-2023,21
+Gallicano,San Romano in Garfagnana,10-04-2023,22
+Gallicano,Sillano Giuncugnano,10-04-2023,16
+Gallicano,Villa Collemandina,09-07-2023,24
+Gallicano,Villa Collemandina,10-04-2023,16
+Lucca,Bagni di Lucca,09-07-2023,21
+Lucca,Bagni di Lucca,10-01-2023,20
+Lucca,Bagni di Lucca,10-04-2023,21
+Lucca,Barga,10-04-2023,20
+Lucca,Borgo a Mozzano,09-07-2023,21
+Lucca,Borgo a Mozzano,10-01-2023,20
+Lucca,Borgo a Mozzano,10-04-2023,21
+Lucca,Camporgiano,09-07-2023,21
+Lucca,Camporgiano,10-01-2023,20
+Lucca,Camporgiano,10-04-2023,21
+Lucca,Careggine,10-04-2023,13
+Lucca,Castelnuovo di Garfagnana,09-07-2023,21
+Lucca,Castelnuovo di Garfagnana,10-01-2023,20
+Lucca,Castelnuovo di Garfagnana,10-04-2023,21
+Lucca,Castiglione di Garfagnana,10-04-2023,14
+Lucca,Coreglia Antelminelli,10-04-2023,5
+Lucca,Fabbriche di Vergemoli,10-04-2023,16
+Lucca,Fosciandora,09-07-2023,15
+Lucca,Fosciandora,10-01-2023,17
+Lucca,Fosciandora,10-04-2023,21
+Lucca,Gallicano,09-07-2023,21
+Lucca,Gallicano,10-01-2023,20
+Lucca,Gallicano,10-04-2023,21
+Lucca,Minucciano,10-04-2023,16
+Lucca,Molazzana,10-01-2023,12
+Lucca,Molazzana,10-04-2023,21
+Lucca,Pescaglia,10-04-2023,16
+Lucca,Piazza al Serchio,09-07-2023,21
+Lucca,Piazza al Serchio,10-01-2023,20
+Lucca,Piazza al Serchio,10-04-2023,21
+Lucca,Pieve Fosciana,10-04-2023,11
+Lucca,San Romano in Garfagnana,09-07-2023,21
+Lucca,San Romano in Garfagnana,10-01-2023,20
+Lucca,San Romano in Garfagnana,10-04-2023,21
+Lucca,Sillano Giuncugnano,10-04-2023,16
+Lucca,Villa Collemandina,10-04-2023,15
+Minucciano,Bagni di Lucca,10-04-2023,19
+Minucciano,Barga,10-04-2023,19
+Minucciano,Borgo a Mozzano,10-04-2023,19
+Minucciano,Camporgiano,09-07-2023,24
+Minucciano,Camporgiano,10-04-2023,19
+Minucciano,Careggine,10-04-2023,8
+Minucciano,Castelnuovo di Garfagnana,10-04-2023,19
+Minucciano,Castiglione di Garfagnana,10-04-2023,15
+Minucciano,Coreglia Antelminelli,10-04-2023,5
+Minucciano,Fabbriche di Vergemoli,10-04-2023,8
+Minucciano,Fosciandora,10-04-2023,19
+Minucciano,Gallicano,10-04-2023,19
+Minucciano,Lucca,10-04-2023,19
+Minucciano,Molazzana,10-04-2023,19
+Minucciano,Pescaglia,10-04-2023,8
+Minucciano,Piazza al Serchio,09-07-2023,24
+Minucciano,Piazza al Serchio,10-04-2023,19
+Minucciano,Pieve Fosciana,10-04-2023,10
+Minucciano,San Romano in Garfagnana,09-07-2023,24
+Minucciano,San Romano in Garfagnana,10-04-2023,19
+Minucciano,Sillano Giuncugnano,09-07-2023,24
+Minucciano,Sillano Giuncugnano,10-04-2023,17
+Minucciano,Villa Collemandina,10-04-2023,15
+Molazzana,Bagni di Lucca,10-01-2023,12
+Molazzana,Bagni di Lucca,10-04-2023,19
+Molazzana,Barga,09-07-2023,24
+Molazzana,Barga,10-04-2023,19
+Molazzana,Borgo a Mozzano,10-01-2023,16
+Molazzana,Borgo a Mozzano,10-04-2023,21
+Molazzana,Camporgiano,09-07-2023,24
+Molazzana,Camporgiano,10-01-2023,16
+Molazzana,Camporgiano,10-04-2023,21
+Molazzana,Careggine,09-07-2023,24
+Molazzana,Careggine,10-04-2023,13
+Molazzana,Castelnuovo di Garfagnana,09-07-2023,24
+Molazzana,Castelnuovo di Garfagnana,10-01-2023,16
+Molazzana,Castelnuovo di Garfagnana,10-04-2023,21
+Molazzana,Castiglione di Garfagnana,09-07-2023,24
+Molazzana,Castiglione di Garfagnana,10-04-2023,16
+Molazzana,Coreglia Antelminelli,10-04-2023,9
+Molazzana,Fabbriche di Vergemoli,09-07-2023,24
+Molazzana,Fabbriche di Vergemoli,10-04-2023,15
+Molazzana,Fosciandora,09-07-2023,24
+Molazzana,Fosciandora,10-01-2023,15
+Molazzana,Fosciandora,10-04-2023,21
+Molazzana,Gallicano,09-07-2023,24
+Molazzana,Gallicano,10-01-2023,15
+Molazzana,Gallicano,10-04-2023,19
+Molazzana,Lucca,10-01-2023,12
+Molazzana,Lucca,10-04-2023,19
+Molazzana,Minucciano,10-04-2023,16
+Molazzana,Pescaglia,10-04-2023,17
+Molazzana,Piazza al Serchio,10-01-2023,16
+Molazzana,Piazza al Serchio,10-04-2023,21
+Molazzana,Pieve Fosciana,09-07-2023,24
+Molazzana,Pieve Fosciana,10-04-2023,12
+Molazzana,San Romano in Garfagnana,09-07-2023,24
+Molazzana,San Romano in Garfagnana,10-01-2023,16
+Molazzana,San Romano in Garfagnana,10-04-2023,21
+Molazzana,Sillano Giuncugnano,10-04-2023,16
+Molazzana,Villa Collemandina,09-07-2023,24
+Molazzana,Villa Collemandina,10-04-2023,16
+Pescaglia,Bagni di Lucca,09-07-2023,24
+Pescaglia,Bagni di Lucca,10-04-2023,16
+Pescaglia,Barga,10-04-2023,15
+Pescaglia,Borgo a Mozzano,09-07-2023,24
+Pescaglia,Borgo a Mozzano,10-04-2023,15
+Pescaglia,Camporgiano,10-04-2023,16
+Pescaglia,Careggine,10-04-2023,13
+Pescaglia,Castelnuovo di Garfagnana,10-04-2023,16
+Pescaglia,Castiglione di Garfagnana,10-04-2023,13
+Pescaglia,Coreglia Antelminelli,10-04-2023,5
+Pescaglia,Fabbriche di Vergemoli,09-07-2023,24
+Pescaglia,Fabbriche di Vergemoli,10-04-2023,17
+Pescaglia,Fosciandora,10-04-2023,15
+Pescaglia,Gallicano,10-04-2023,15
+Pescaglia,Lucca,10-04-2023,16
+Pescaglia,Minucciano,10-04-2023,13
+Pescaglia,Molazzana,10-04-2023,16
+Pescaglia,Piazza al Serchio,10-04-2023,16
+Pescaglia,Pieve Fosciana,10-04-2023,5
+Pescaglia,San Romano in Garfagnana,10-04-2023,15
+Pescaglia,Sillano Giuncugnano,10-04-2023,13
+Pescaglia,Villa Collemandina,10-04-2023,13
+Piazza al Serchio,Bagni di Lucca,09-07-2023,19
+Piazza al Serchio,Bagni di Lucca,10-01-2023,20
+Piazza al Serchio,Bagni di Lucca,10-04-2023,20
+Piazza al Serchio,Barga,10-04-2023,21
+Piazza al Serchio,Borgo a Mozzano,09-07-2023,19
+Piazza al Serchio,Borgo a Mozzano,10-01-2023,21
+Piazza al Serchio,Borgo a Mozzano,10-04-2023,21
+Piazza al Serchio,Camporgiano,09-07-2023,19
+Piazza al Serchio,Camporgiano,10-01-2023,21
+Piazza al Serchio,Camporgiano,10-04-2023,21
+Piazza al Serchio,Careggine,09-07-2023,24
+Piazza al Serchio,Careggine,10-04-2023,14
+Piazza al Serchio,Castelnuovo di Garfagnana,09-07-2023,19
+Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2023,21
+Piazza al Serchio,Castelnuovo di Garfagnana,10-04-2023,21
+Piazza al Serchio,Castiglione di Garfagnana,09-07-2023,24
+Piazza al Serchio,Castiglione di Garfagnana,10-04-2023,18
+Piazza al Serchio,Coreglia Antelminelli,10-04-2023,5
+Piazza al Serchio,Fabbriche di Vergemoli,10-04-2023,17
+Piazza al Serchio,Fosciandora,09-07-2023,16
+Piazza al Serchio,Fosciandora,10-01-2023,21
+Piazza al Serchio,Fosciandora,10-04-2023,21
+Piazza al Serchio,Gallicano,09-07-2023,19
+Piazza al Serchio,Gallicano,10-01-2023,21
+Piazza al Serchio,Gallicano,10-04-2023,21
+Piazza al Serchio,Lucca,09-07-2023,19
+Piazza al Serchio,Lucca,10-01-2023,19
+Piazza al Serchio,Lucca,10-04-2023,19
+Piazza al Serchio,Minucciano,09-07-2023,24
+Piazza al Serchio,Minucciano,10-04-2023,18
+Piazza al Serchio,Molazzana,10-01-2023,15
+Piazza al Serchio,Molazzana,10-04-2023,21
+Piazza al Serchio,Pescaglia,10-04-2023,17
+Piazza al Serchio,Pieve Fosciana,10-04-2023,10
+Piazza al Serchio,San Romano in Garfagnana,09-07-2023,19
+Piazza al Serchio,San Romano in Garfagnana,10-01-2023,21
+Piazza al Serchio,San Romano in Garfagnana,10-04-2023,21
+Piazza al Serchio,Sillano Giuncugnano,09-07-2023,24
+Piazza al Serchio,Sillano Giuncugnano,10-04-2023,17
+Piazza al Serchio,Villa Collemandina,09-07-2023,24
+Piazza al Serchio,Villa Collemandina,10-04-2023,18
+Pieve Fosciana,Bagni di Lucca,10-04-2023,10
+Pieve Fosciana,Barga,09-07-2023,24
+Pieve Fosciana,Barga,10-04-2023,10
+Pieve Fosciana,Borgo a Mozzano,10-04-2023,10
+Pieve Fosciana,Camporgiano,09-07-2023,24
+Pieve Fosciana,Camporgiano,10-04-2023,10
+Pieve Fosciana,Careggine,09-07-2023,24
+Pieve Fosciana,Careggine,10-04-2023,10
+Pieve Fosciana,Castelnuovo di Garfagnana,09-07-2023,24
+Pieve Fosciana,Castelnuovo di Garfagnana,10-04-2023,10
+Pieve Fosciana,Castiglione di Garfagnana,09-07-2023,24
+Pieve Fosciana,Castiglione di Garfagnana,10-04-2023,10
+Pieve Fosciana,Coreglia Antelminelli,10-04-2023,5
+Pieve Fosciana,Fabbriche di Vergemoli,10-04-2023,10
+Pieve Fosciana,Fosciandora,09-07-2023,24
+Pieve Fosciana,Fosciandora,10-04-2023,10
+Pieve Fosciana,Gallicano,09-07-2023,24
+Pieve Fosciana,Gallicano,10-04-2023,10
+Pieve Fosciana,Lucca,10-04-2023,10
+Pieve Fosciana,Minucciano,10-04-2023,10
+Pieve Fosciana,Molazzana,09-07-2023,24
+Pieve Fosciana,Molazzana,10-04-2023,10
+Pieve Fosciana,Pescaglia,10-04-2023,10
+Pieve Fosciana,Piazza al Serchio,10-04-2023,10
+Pieve Fosciana,San Romano in Garfagnana,09-07-2023,24
+Pieve Fosciana,San Romano in Garfagnana,10-04-2023,10
+Pieve Fosciana,Sillano Giuncugnano,10-04-2023,5
+Pieve Fosciana,Villa Collemandina,09-07-2023,24
+Pieve Fosciana,Villa Collemandina,10-04-2023,10
+San Romano in Garfagnana,Bagni di Lucca,09-07-2023,19
+San Romano in Garfagnana,Bagni di Lucca,10-01-2023,20
+San Romano in Garfagnana,Bagni di Lucca,10-04-2023,21
+San Romano in Garfagnana,Barga,10-04-2023,21
+San Romano in Garfagnana,Borgo a Mozzano,09-07-2023,19
+San Romano in Garfagnana,Borgo a Mozzano,10-01-2023,21
+San Romano in Garfagnana,Borgo a Mozzano,10-04-2023,21
+San Romano in Garfagnana,Camporgiano,10-01-2023,23
+San Romano in Garfagnana,Camporgiano,10-04-2023,23
+San Romano in Garfagnana,Careggine,09-07-2023,24
+San Romano in Garfagnana,Careggine,10-04-2023,14
+San Romano in Garfagnana,Castelnuovo di Garfagnana,09-07-2023,22
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2023,21
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-04-2023,21
+San Romano in Garfagnana,Castiglione di Garfagnana,09-07-2023,24
+San Romano in Garfagnana,Castiglione di Garfagnana,10-04-2023,18
+San Romano in Garfagnana,Coreglia Antelminelli,10-04-2023,5
+San Romano in Garfagnana,Fabbriche di Vergemoli,10-04-2023,17
+San Romano in Garfagnana,Fosciandora,09-07-2023,16
+San Romano in Garfagnana,Fosciandora,10-01-2023,21
+San Romano in Garfagnana,Fosciandora,10-04-2023,21
+San Romano in Garfagnana,Gallicano,09-07-2023,19
+San Romano in Garfagnana,Gallicano,10-01-2023,21
+San Romano in Garfagnana,Gallicano,10-04-2023,21
+San Romano in Garfagnana,Lucca,09-07-2023,19
+San Romano in Garfagnana,Lucca,10-01-2023,19
+San Romano in Garfagnana,Lucca,10-04-2023,20
+San Romano in Garfagnana,Minucciano,09-07-2023,24
+San Romano in Garfagnana,Minucciano,10-04-2023,16
+San Romano in Garfagnana,Molazzana,09-07-2023,24
+San Romano in Garfagnana,Molazzana,10-01-2023,15
+San Romano in Garfagnana,Molazzana,10-04-2023,21
+San Romano in Garfagnana,Pescaglia,10-04-2023,16
+San Romano in Garfagnana,Piazza al Serchio,09-07-2023,21
+San Romano in Garfagnana,Piazza al Serchio,10-01-2023,21
+San Romano in Garfagnana,Piazza al Serchio,10-04-2023,19
+San Romano in Garfagnana,Pieve Fosciana,09-07-2023,24
+San Romano in Garfagnana,Pieve Fosciana,10-04-2023,10
+San Romano in Garfagnana,Sillano Giuncugnano,09-07-2023,24
+San Romano in Garfagnana,Sillano Giuncugnano,10-04-2023,16
+San Romano in Garfagnana,Villa Collemandina,09-07-2023,24
+San Romano in Garfagnana,Villa Collemandina,10-04-2023,18
+Sillano Giuncugnano,Bagni di Lucca,10-04-2023,18
+Sillano Giuncugnano,Barga,10-04-2023,18
+Sillano Giuncugnano,Borgo a Mozzano,10-04-2023,18
+Sillano Giuncugnano,Camporgiano,09-07-2023,24
+Sillano Giuncugnano,Camporgiano,10-04-2023,18
+Sillano Giuncugnano,Careggine,10-04-2023,12
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-04-2023,18
+Sillano Giuncugnano,Castiglione di Garfagnana,10-04-2023,14
+Sillano Giuncugnano,Coreglia Antelminelli,10-04-2023,5
+Sillano Giuncugnano,Fabbriche di Vergemoli,10-04-2023,12
+Sillano Giuncugnano,Fosciandora,10-04-2023,18
+Sillano Giuncugnano,Gallicano,10-04-2023,18
+Sillano Giuncugnano,Lucca,10-04-2023,18
+Sillano Giuncugnano,Minucciano,09-07-2023,24
+Sillano Giuncugnano,Minucciano,10-04-2023,14
+Sillano Giuncugnano,Molazzana,10-04-2023,17
+Sillano Giuncugnano,Pescaglia,10-04-2023,11
+Sillano Giuncugnano,Piazza al Serchio,09-07-2023,24
+Sillano Giuncugnano,Piazza al Serchio,10-04-2023,18
+Sillano Giuncugnano,Pieve Fosciana,10-04-2023,5
+Sillano Giuncugnano,San Romano in Garfagnana,09-07-2023,24
+Sillano Giuncugnano,San Romano in Garfagnana,10-04-2023,17
+Sillano Giuncugnano,Villa Collemandina,09-07-2023,24
+Sillano Giuncugnano,Villa Collemandina,10-04-2023,18
+Villa Collemandina,Bagni di Lucca,10-04-2023,16
+Villa Collemandina,Barga,09-07-2023,24
+Villa Collemandina,Barga,10-04-2023,16
+Villa Collemandina,Borgo a Mozzano,10-04-2023,16
+Villa Collemandina,Camporgiano,09-07-2023,24
+Villa Collemandina,Camporgiano,10-04-2023,16
+Villa Collemandina,Careggine,09-07-2023,24
+Villa Collemandina,Careggine,10-04-2023,13
+Villa Collemandina,Castelnuovo di Garfagnana,09-07-2023,24
+Villa Collemandina,Castelnuovo di Garfagnana,10-04-2023,16
+Villa Collemandina,Castiglione di Garfagnana,09-07-2023,24
+Villa Collemandina,Castiglione di Garfagnana,10-04-2023,17
+Villa Collemandina,Coreglia Antelminelli,10-04-2023,5
+Villa Collemandina,Fabbriche di Vergemoli,10-04-2023,9
+Villa Collemandina,Fosciandora,09-07-2023,24
+Villa Collemandina,Fosciandora,10-04-2023,16
+Villa Collemandina,Gallicano,09-07-2023,24
+Villa Collemandina,Gallicano,10-04-2023,16
+Villa Collemandina,Lucca,10-04-2023,16
+Villa Collemandina,Minucciano,10-04-2023,14
+Villa Collemandina,Molazzana,09-07-2023,24
+Villa Collemandina,Molazzana,10-04-2023,16
+Villa Collemandina,Pescaglia,10-04-2023,8
+Villa Collemandina,Piazza al Serchio,09-07-2023,24
+Villa Collemandina,Piazza al Serchio,10-04-2023,16
+Villa Collemandina,Pieve Fosciana,09-07-2023,24
+Villa Collemandina,Pieve Fosciana,10-04-2023,10
+Villa Collemandina,San Romano in Garfagnana,09-07-2023,24
+Villa Collemandina,San Romano in Garfagnana,10-04-2023,16
+Villa Collemandina,Sillano Giuncugnano,09-07-2023,24
+Villa Collemandina,Sillano Giuncugnano,10-04-2023,16

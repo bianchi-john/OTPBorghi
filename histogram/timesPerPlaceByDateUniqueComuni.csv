@@ -1,0 +1,513 @@
+,fromPlaceName,toPlaceName,date,duration,interval
+36,Camporgiano,Careggine,10-04-2023,109,60-120
+114,Camporgiano,Castelnuovo di Garfagnana,10-01-2023,36,30-60
+155,Camporgiano,Castelnuovo di Garfagnana,09-07-2023,37,30-60
+234,Camporgiano,Castiglione di Garfagnana,10-04-2023,72,60-120
+235,Camporgiano,Castiglione di Garfagnana,10-04-2023,54,30-60
+402,Camporgiano,Fosciandora,10-01-2023,54,30-60
+426,Camporgiano,Fosciandora,10-04-2023,68,60-120
+512,Camporgiano,Gallicano,10-04-2023,54,30-60
+541,Camporgiano,Gallicano,09-07-2023,56,30-60
+542,Camporgiano,Gallicano,09-07-2023,55,30-60
+600,Camporgiano,Minucciano,10-04-2023,78,60-120
+613,Camporgiano,Minucciano,10-04-2023,60,60-120
+704,Camporgiano,Molazzana,10-04-2023,120,120+
+713,Camporgiano,Molazzana,10-04-2023,88,60-120
+714,Camporgiano,Molazzana,10-04-2023,89,60-120
+1002,Camporgiano,San Romano in Garfagnana,10-04-2023,36,30-60
+1003,Camporgiano,San Romano in Garfagnana,10-04-2023,35,30-60
+1099,Camporgiano,Sillano Giuncugnano,10-04-2023,66,60-120
+1100,Camporgiano,Sillano Giuncugnano,10-04-2023,54,30-60
+1194,Camporgiano,Villa Collemandina,10-04-2023,104,60-120
+1195,Camporgiano,Villa Collemandina,10-04-2023,85,60-120
+1284,Camporgiano,Bagni di Lucca,10-04-2023,81,60-120
+1307,Camporgiano,Bagni di Lucca,09-07-2023,77,60-120
+1309,Camporgiano,Bagni di Lucca,09-07-2023,79,60-120
+1310,Camporgiano,Bagni di Lucca,09-07-2023,76,60-120
+1370,Camporgiano,Barga,10-04-2023,61,60-120
+1381,Camporgiano,Barga,10-04-2023,59,30-60
+1458,Camporgiano,Borgo a Mozzano,10-01-2023,66,60-120
+1475,Camporgiano,Borgo a Mozzano,10-04-2023,64,60-120
+1499,Camporgiano,Borgo a Mozzano,09-07-2023,64,60-120
+1501,Camporgiano,Borgo a Mozzano,09-07-2023,65,60-120
+1672,Camporgiano,Pescaglia,10-04-2023,206,120+
+1764,Camporgiano,Lucca,10-04-2023,109,60-120
+1765,Camporgiano,Lucca,10-04-2023,97,60-120
+1778,Camporgiano,Lucca,09-07-2023,95,60-120
+1789,Camporgiano,Lucca,09-07-2023,97,60-120
+2250,Careggine,Fosciandora,10-04-2023,89,60-120
+2346,Careggine,Gallicano,10-04-2023,70,60-120
+2442,Careggine,Minucciano,10-04-2023,359,120+
+2533,Careggine,Molazzana,10-04-2023,105,60-120
+2634,Careggine,Piazza al Serchio,10-04-2023,136,120+
+2826,Careggine,San Romano in Garfagnana,10-04-2023,126,120+
+2922,Careggine,Sillano Giuncugnano,10-04-2023,368,120+
+3114,Careggine,Bagni di Lucca,10-04-2023,136,120+
+3210,Careggine,Barga,10-04-2023,108,60-120
+3306,Careggine,Borgo a Mozzano,10-04-2023,123,120+
+3594,Careggine,Lucca,10-04-2023,149,120+
+3690,Castelnuovo di Garfagnana,Camporgiano,10-04-2023,35,30-60
+3880,Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-04-2023,48,30-60
+3883,Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-04-2023,30,30-60
+3960,Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-04-2023,82,60-120
+4130,Castelnuovo di Garfagnana,Gallicano,10-01-2023,48,30-60
+4146,Castelnuovo di Garfagnana,Gallicano,10-01-2023,49,30-60
+4160,Castelnuovo di Garfagnana,Gallicano,10-04-2023,45,30-60
+4165,Castelnuovo di Garfagnana,Gallicano,10-04-2023,32,30-60
+4266,Castelnuovo di Garfagnana,Minucciano,10-04-2023,162,120+
+4347,Castelnuovo di Garfagnana,Molazzana,10-04-2023,61,60-120
+4352,Castelnuovo di Garfagnana,Molazzana,10-04-2023,85,60-120
+4434,Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2023,40,30-60
+4650,Castelnuovo di Garfagnana,San Romano in Garfagnana,10-04-2023,38,30-60
+4728,Castelnuovo di Garfagnana,Sillano Giuncugnano,10-04-2023,68,60-120
+4746,Castelnuovo di Garfagnana,Sillano Giuncugnano,10-04-2023,84,60-120
+4847,Castelnuovo di Garfagnana,Villa Collemandina,10-04-2023,69,60-120
+4898,Castelnuovo di Garfagnana,Bagni di Lucca,10-01-2023,69,60-120
+4946,Castelnuovo di Garfagnana,Bagni di Lucca,09-07-2023,68,60-120
+5029,Castelnuovo di Garfagnana,Barga,10-04-2023,54,30-60
+5090,Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2023,55,30-60
+5131,Castelnuovo di Garfagnana,Borgo a Mozzano,10-04-2023,56,30-60
+5155,Castelnuovo di Garfagnana,Borgo a Mozzano,09-07-2023,56,30-60
+5320,Castelnuovo di Garfagnana,Pescaglia,10-04-2023,188,120+
+5402,Castelnuovo di Garfagnana,Lucca,10-04-2023,84,60-120
+5414,Castelnuovo di Garfagnana,Lucca,10-04-2023,87,60-120
+5426,Castelnuovo di Garfagnana,Lucca,09-07-2023,84,60-120
+5438,Castelnuovo di Garfagnana,Lucca,09-07-2023,87,60-120
+5498,Castiglione di Garfagnana,Camporgiano,10-04-2023,82,60-120
+5514,Castiglione di Garfagnana,Camporgiano,10-04-2023,58,30-60
+5515,Castiglione di Garfagnana,Camporgiano,10-04-2023,73,60-120
+5516,Castiglione di Garfagnana,Camporgiano,10-04-2023,53,30-60
+5691,Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-04-2023,48,30-60
+5692,Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-04-2023,59,30-60
+5989,Castiglione di Garfagnana,Gallicano,10-04-2023,61,60-120
+6073,Castiglione di Garfagnana,Minucciano,10-04-2023,153,120+
+6090,Castiglione di Garfagnana,Minucciano,10-04-2023,185,120+
+6091,Castiglione di Garfagnana,Minucciano,10-04-2023,148,120+
+6181,Castiglione di Garfagnana,Molazzana,10-04-2023,102,60-120
+6187,Castiglione di Garfagnana,Molazzana,10-04-2023,140,120+
+6188,Castiglione di Garfagnana,Molazzana,10-04-2023,81,60-120
+6282,Castiglione di Garfagnana,Piazza al Serchio,10-04-2023,65,60-120
+6283,Castiglione di Garfagnana,Piazza al Serchio,10-04-2023,74,60-120
+6284,Castiglione di Garfagnana,Piazza al Serchio,10-04-2023,57,30-60
+6469,Castiglione di Garfagnana,San Romano in Garfagnana,10-04-2023,76,60-120
+6475,Castiglione di Garfagnana,San Romano in Garfagnana,10-04-2023,59,30-60
+6570,Castiglione di Garfagnana,Sillano Giuncugnano,10-04-2023,106,60-120
+6571,Castiglione di Garfagnana,Sillano Giuncugnano,10-04-2023,92,60-120
+6666,Castiglione di Garfagnana,Villa Collemandina,10-04-2023,13,0-30
+6748,Castiglione di Garfagnana,Bagni di Lucca,10-04-2023,127,120+
+6764,Castiglione di Garfagnana,Bagni di Lucca,10-04-2023,85,60-120
+6853,Castiglione di Garfagnana,Barga,10-04-2023,73,60-120
+6860,Castiglione di Garfagnana,Barga,10-04-2023,60,60-120
+6937,Castiglione di Garfagnana,Borgo a Mozzano,10-04-2023,86,60-120
+6940,Castiglione di Garfagnana,Borgo a Mozzano,10-04-2023,114,60-120
+6949,Castiglione di Garfagnana,Borgo a Mozzano,10-04-2023,83,60-120
+6950,Castiglione di Garfagnana,Borgo a Mozzano,10-04-2023,77,60-120
+7237,Castiglione di Garfagnana,Lucca,10-04-2023,111,60-120
+7238,Castiglione di Garfagnana,Lucca,10-04-2023,109,60-120
+7244,Castiglione di Garfagnana,Lucca,10-04-2023,106,60-120
+8301,Fabbriche di Vergemoli,San Romano in Garfagnana,10-04-2023,203,120+
+9069,Fabbriche di Vergemoli,Lucca,10-04-2023,124,120+
+9124,Fosciandora,Camporgiano,10-01-2023,96,60-120
+9146,Fosciandora,Camporgiano,10-04-2023,64,60-120
+9348,Fosciandora,Castelnuovo di Garfagnana,10-04-2023,38,30-60
+9433,Fosciandora,Castiglione di Garfagnana,10-04-2023,99,60-120
+9528,Fosciandora,Fabbriche di Vergemoli,10-04-2023,99,60-120
+9637,Fosciandora,Gallicano,10-04-2023,36,30-60
+9737,Fosciandora,Minucciano,10-04-2023,113,60-120
+9833,Fosciandora,Molazzana,10-04-2023,60,60-120
+9834,Fosciandora,Molazzana,10-04-2023,73,60-120
+9892,Fosciandora,Piazza al Serchio,10-01-2023,103,60-120
+9914,Fosciandora,Piazza al Serchio,10-04-2023,68,60-120
+9930,Fosciandora,Piazza al Serchio,10-04-2023,75,60-120
+9931,Fosciandora,Piazza al Serchio,10-04-2023,81,60-120
+9932,Fosciandora,Piazza al Serchio,10-04-2023,62,60-120
+10084,Fosciandora,San Romano in Garfagnana,10-01-2023,126,120+
+10113,Fosciandora,San Romano in Garfagnana,10-04-2023,90,60-120
+10124,Fosciandora,San Romano in Garfagnana,10-04-2023,60,60-120
+10201,Fosciandora,Sillano Giuncugnano,10-04-2023,98,60-120
+10218,Fosciandora,Sillano Giuncugnano,10-04-2023,116,60-120
+10219,Fosciandora,Sillano Giuncugnano,10-04-2023,178,120+
+10392,Fosciandora,Bagni di Lucca,10-04-2023,88,60-120
+10410,Fosciandora,Bagni di Lucca,10-04-2023,90,60-120
+10501,Fosciandora,Barga,10-04-2023,60,60-120
+10584,Fosciandora,Borgo a Mozzano,10-04-2023,72,60-120
+10602,Fosciandora,Borgo a Mozzano,10-04-2023,69,60-120
+10692,Fosciandora,Coreglia Antelminelli,10-04-2023,516,120+
+10890,Fosciandora,Lucca,10-04-2023,99,60-120
+10980,Gallicano,Camporgiano,10-04-2023,51,30-60
+10988,Gallicano,Camporgiano,10-04-2023,48,30-60
+11001,Gallicano,Camporgiano,09-07-2023,54,30-60
+11005,Gallicano,Camporgiano,09-07-2023,60,60-120
+11177,Gallicano,Castelnuovo di Garfagnana,10-04-2023,33,30-60
+11193,Gallicano,Castelnuovo di Garfagnana,09-07-2023,50,30-60
+11197,Gallicano,Castelnuovo di Garfagnana,09-07-2023,51,30-60
+11257,Gallicano,Castiglione di Garfagnana,10-04-2023,87,60-120
+11453,Gallicano,Fosciandora,10-04-2023,43,30-60
+11460,Gallicano,Fosciandora,10-04-2023,49,30-60
+11461,Gallicano,Fosciandora,10-04-2023,45,30-60
+11555,Gallicano,Minucciano,10-04-2023,118,60-120
+11556,Gallicano,Minucciano,10-04-2023,110,60-120
+11645,Gallicano,Molazzana,10-04-2023,46,30-60
+11646,Gallicano,Molazzana,10-04-2023,50,30-60
+11659,Gallicano,Molazzana,10-04-2023,41,30-60
+11712,Gallicano,Piazza al Serchio,10-01-2023,60,60-120
+11741,Gallicano,Piazza al Serchio,10-04-2023,57,30-60
+11745,Gallicano,Piazza al Serchio,10-04-2023,61,60-120
+11748,Gallicano,Piazza al Serchio,10-04-2023,67,60-120
+11765,Gallicano,Piazza al Serchio,09-07-2023,57,30-60
+11769,Gallicano,Piazza al Serchio,09-07-2023,61,60-120
+11947,Gallicano,San Romano in Garfagnana,10-04-2023,77,60-120
+11948,Gallicano,San Romano in Garfagnana,10-04-2023,55,30-60
+11961,Gallicano,San Romano in Garfagnana,09-07-2023,85,60-120
+11965,Gallicano,San Romano in Garfagnana,09-07-2023,91,60-120
+12042,Gallicano,Sillano Giuncugnano,10-04-2023,105,60-120
+12043,Gallicano,Sillano Giuncugnano,10-04-2023,109,60-120
+12204,Gallicano,Bagni di Lucca,10-01-2023,103,60-120
+12213,Gallicano,Bagni di Lucca,10-01-2023,69,60-120
+12221,Gallicano,Bagni di Lucca,10-04-2023,56,30-60
+12224,Gallicano,Bagni di Lucca,10-04-2023,93,60-120
+12228,Gallicano,Bagni di Lucca,10-04-2023,58,30-60
+12234,Gallicano,Bagni di Lucca,10-04-2023,54,30-60
+12235,Gallicano,Bagni di Lucca,10-04-2023,61,60-120
+12236,Gallicano,Bagni di Lucca,10-04-2023,53,30-60
+12317,Gallicano,Barga,10-04-2023,18,0-30
+12427,Gallicano,Borgo a Mozzano,10-04-2023,47,30-60
+12443,Gallicano,Borgo a Mozzano,09-07-2023,53,30-60
+12693,Gallicano,Lucca,10-01-2023,87,60-120
+12708,Gallicano,Lucca,10-04-2023,86,60-120
+12714,Gallicano,Lucca,10-04-2023,71,60-120
+12732,Gallicano,Lucca,09-07-2023,87,60-120
+12733,Gallicano,Lucca,09-07-2023,83,60-120
+12734,Gallicano,Lucca,09-07-2023,81,60-120
+12996,Minucciano,Castelnuovo di Garfagnana,10-04-2023,83,60-120
+12997,Minucciano,Castelnuovo di Garfagnana,10-04-2023,78,60-120
+13082,Minucciano,Castiglione di Garfagnana,10-04-2023,155,120+
+13289,Minucciano,Fosciandora,10-04-2023,127,120+
+13290,Minucciano,Fosciandora,10-04-2023,170,120+
+13481,Minucciano,Molazzana,10-04-2023,137,120+
+13482,Minucciano,Molazzana,10-04-2023,227,120+
+13572,Minucciano,Piazza al Serchio,10-04-2023,45,30-60
+13579,Minucciano,Piazza al Serchio,10-04-2023,86,60-120
+13580,Minucciano,Piazza al Serchio,10-04-2023,63,60-120
+13946,Minucciano,Villa Collemandina,10-04-2023,145,120+
+14138,Minucciano,Barga,10-04-2023,156,120+
+14153,Minucciano,Barga,10-04-2023,107,60-120
+14154,Minucciano,Barga,10-04-2023,124,120+
+14244,Minucciano,Borgo a Mozzano,10-04-2023,115,60-120
+14245,Minucciano,Borgo a Mozzano,10-04-2023,109,60-120
+14532,Minucciano,Lucca,10-04-2023,144,120+
+14533,Minucciano,Lucca,10-04-2023,142,120+
+14539,Minucciano,Lucca,10-04-2023,177,120+
+14540,Minucciano,Lucca,10-04-2023,174,120+
+14595,Molazzana,Camporgiano,10-01-2023,102,60-120
+14787,Molazzana,Castelnuovo di Garfagnana,10-01-2023,85,60-120
+14905,Molazzana,Castiglione di Garfagnana,10-04-2023,103,60-120
+14921,Molazzana,Castiglione di Garfagnana,10-04-2023,116,60-120
+15212,Molazzana,Gallicano,10-04-2023,14,0-30
+15300,Molazzana,Minucciano,10-04-2023,131,120+
+15306,Molazzana,Minucciano,10-04-2023,252,120+
+15363,Molazzana,Piazza al Serchio,10-01-2023,109,60-120
+15492,Molazzana,Pieve Fosciana,10-04-2023,124,120+
+15498,Molazzana,Pieve Fosciana,10-04-2023,178,120+
+15555,Molazzana,San Romano in Garfagnana,10-01-2023,133,120+
+15593,Molazzana,San Romano in Garfagnana,10-04-2023,100,60-120
+15594,Molazzana,San Romano in Garfagnana,10-04-2023,113,60-120
+15595,Molazzana,San Romano in Garfagnana,10-04-2023,93,60-120
+15684,Molazzana,Sillano Giuncugnano,10-04-2023,137,120+
+15690,Molazzana,Sillano Giuncugnano,10-04-2023,261,120+
+15787,Molazzana,Villa Collemandina,10-04-2023,103,60-120
+15856,Molazzana,Bagni di Lucca,10-01-2023,276,120+
+15859,Molazzana,Bagni di Lucca,10-01-2023,154,120+
+16032,Molazzana,Borgo a Mozzano,10-01-2023,113,60-120
+16056,Molazzana,Borgo a Mozzano,10-04-2023,78,60-120
+16336,Molazzana,Lucca,10-01-2023,284,120+
+16339,Molazzana,Lucca,10-01-2023,148,120+
+16356,Molazzana,Lucca,10-04-2023,111,60-120
+16364,Molazzana,Lucca,10-04-2023,118,60-120
+16367,Molazzana,Lucca,10-04-2023,124,120+
+16476,Piazza al Serchio,Camporgiano,09-07-2023,18,0-30
+16667,Piazza al Serchio,Castelnuovo di Garfagnana,09-07-2023,39,30-60
+16740,Piazza al Serchio,Castiglione di Garfagnana,10-04-2023,82,60-120
+16746,Piazza al Serchio,Castiglione di Garfagnana,10-04-2023,74,60-120
+16747,Piazza al Serchio,Castiglione di Garfagnana,10-04-2023,69,60-120
+16751,Piazza al Serchio,Castiglione di Garfagnana,10-04-2023,89,60-120
+16842,Piazza al Serchio,Fabbriche di Vergemoli,10-04-2023,168,120+
+16843,Piazza al Serchio,Fabbriche di Vergemoli,10-04-2023,108,60-120
+16847,Piazza al Serchio,Fabbriche di Vergemoli,10-04-2023,251,120+
+16938,Piazza al Serchio,Fosciandora,10-04-2023,67,60-120
+16956,Piazza al Serchio,Fosciandora,09-07-2023,55,30-60
+17009,Piazza al Serchio,Gallicano,10-01-2023,61,60-120
+17112,Piazza al Serchio,Minucciano,10-04-2023,50,30-60
+17209,Piazza al Serchio,Molazzana,10-04-2023,80,60-120
+17210,Piazza al Serchio,Molazzana,10-04-2023,95,60-120
+17224,Piazza al Serchio,Molazzana,10-04-2023,77,60-120
+17225,Piazza al Serchio,Molazzana,10-04-2023,89,60-120
+17226,Piazza al Serchio,Molazzana,10-04-2023,93,60-120
+17227,Piazza al Serchio,Molazzana,10-04-2023,79,60-120
+17407,Piazza al Serchio,San Romano in Garfagnana,10-04-2023,57,30-60
+17436,Piazza al Serchio,San Romano in Garfagnana,09-07-2023,49,30-60
+17514,Piazza al Serchio,Sillano Giuncugnano,10-04-2023,19,0-30
+17515,Piazza al Serchio,Sillano Giuncugnano,10-04-2023,33,30-60
+17516,Piazza al Serchio,Sillano Giuncugnano,10-04-2023,22,0-30
+17615,Piazza al Serchio,Villa Collemandina,10-04-2023,111,60-120
+17687,Piazza al Serchio,Bagni di Lucca,10-01-2023,141,120+
+17695,Piazza al Serchio,Bagni di Lucca,10-04-2023,131,120+
+17723,Piazza al Serchio,Bagni di Lucca,09-07-2023,79,60-120
+17734,Piazza al Serchio,Bagni di Lucca,09-07-2023,77,60-120
+17786,Piazza al Serchio,Barga,10-04-2023,63,60-120
+17796,Piazza al Serchio,Barga,10-04-2023,71,60-120
+17891,Piazza al Serchio,Borgo a Mozzano,10-04-2023,66,60-120
+17915,Piazza al Serchio,Borgo a Mozzano,09-07-2023,66,60-120
+18088,Piazza al Serchio,Pescaglia,10-04-2023,190,120+
+20207,San Romano in Garfagnana,Careggine,10-04-2023,124,120+
+20258,San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2023,63,60-120
+20272,San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2023,65,60-120
+20282,San Romano in Garfagnana,Castelnuovo di Garfagnana,10-04-2023,35,30-60
+20326,San Romano in Garfagnana,Castelnuovo di Garfagnana,09-07-2023,67,60-120
+20491,San Romano in Garfagnana,Fabbriche di Vergemoli,10-04-2023,131,120+
+20495,San Romano in Garfagnana,Fabbriche di Vergemoli,10-04-2023,234,120+
+20570,San Romano in Garfagnana,Fosciandora,10-04-2023,72,60-120
+20586,San Romano in Garfagnana,Fosciandora,10-04-2023,74,60-120
+20657,San Romano in Garfagnana,Gallicano,10-01-2023,90,60-120
+20666,San Romano in Garfagnana,Gallicano,10-04-2023,74,60-120
+20700,San Romano in Garfagnana,Gallicano,09-07-2023,87,60-120
+20701,San Romano in Garfagnana,Gallicano,09-07-2023,86,60-120
+20858,San Romano in Garfagnana,Molazzana,10-04-2023,101,60-120
+20937,San Romano in Garfagnana,Piazza al Serchio,10-01-2023,57,30-60
+20946,San Romano in Garfagnana,Piazza al Serchio,10-01-2023,49,30-60
+21157,San Romano in Garfagnana,Sillano Giuncugnano,10-04-2023,92,60-120
+21332,San Romano in Garfagnana,Bagni di Lucca,10-01-2023,114,60-120
+21335,San Romano in Garfagnana,Bagni di Lucca,10-01-2023,163,120+
+21343,San Romano in Garfagnana,Bagni di Lucca,10-04-2023,153,120+
+21353,San Romano in Garfagnana,Bagni di Lucca,10-04-2023,100,60-120
+21354,San Romano in Garfagnana,Bagni di Lucca,10-04-2023,93,60-120
+21358,San Romano in Garfagnana,Bagni di Lucca,10-04-2023,103,60-120
+21372,San Romano in Garfagnana,Bagni di Lucca,09-07-2023,109,60-120
+21373,San Romano in Garfagnana,Bagni di Lucca,09-07-2023,106,60-120
+21382,San Romano in Garfagnana,Bagni di Lucca,09-07-2023,107,60-120
+21433,San Romano in Garfagnana,Barga,10-04-2023,76,60-120
+21434,San Romano in Garfagnana,Barga,10-04-2023,91,60-120
+21451,San Romano in Garfagnana,Barga,10-04-2023,84,60-120
+21535,San Romano in Garfagnana,Borgo a Mozzano,10-04-2023,98,60-120
+21547,San Romano in Garfagnana,Borgo a Mozzano,10-04-2023,92,60-120
+21548,San Romano in Garfagnana,Borgo a Mozzano,10-04-2023,90,60-120
+21564,San Romano in Garfagnana,Borgo a Mozzano,09-07-2023,95,60-120
+21574,San Romano in Garfagnana,Borgo a Mozzano,09-07-2023,94,60-120
+21812,San Romano in Garfagnana,Lucca,10-01-2023,131,120+
+21852,San Romano in Garfagnana,Lucca,09-07-2023,132,120+
+21930,Sillano Giuncugnano,Camporgiano,10-04-2023,50,30-60
+21933,Sillano Giuncugnano,Camporgiano,10-04-2023,39,30-60
+22122,Sillano Giuncugnano,Castelnuovo di Garfagnana,10-04-2023,70,60-120
+22125,Sillano Giuncugnano,Castelnuovo di Garfagnana,10-04-2023,62,60-120
+22218,Sillano Giuncugnano,Castiglione di Garfagnana,10-04-2023,170,120+
+22410,Sillano Giuncugnano,Fosciandora,10-04-2023,135,120+
+22413,Sillano Giuncugnano,Fosciandora,10-04-2023,104,60-120
+22501,Sillano Giuncugnano,Gallicano,10-04-2023,89,60-120
+22509,Sillano Giuncugnano,Gallicano,10-04-2023,83,60-120
+22587,Sillano Giuncugnano,Minucciano,10-04-2023,145,120+
+22602,Sillano Giuncugnano,Minucciano,10-04-2023,152,120+
+22682,Sillano Giuncugnano,Molazzana,10-04-2023,127,120+
+22988,Sillano Giuncugnano,San Romano in Garfagnana,10-04-2023,90,60-120
+23082,Sillano Giuncugnano,Villa Collemandina,10-04-2023,151,120+
+23173,Sillano Giuncugnano,Bagni di Lucca,10-04-2023,109,60-120
+23181,Sillano Giuncugnano,Bagni di Lucca,10-04-2023,101,60-120
+23258,Sillano Giuncugnano,Barga,10-04-2023,83,60-120
+23274,Sillano Giuncugnano,Barga,10-04-2023,123,120+
+23653,Sillano Giuncugnano,Lucca,10-04-2023,127,120+
+23661,Sillano Giuncugnano,Lucca,10-04-2023,117,60-120
+23755,Villa Collemandina,Camporgiano,10-04-2023,85,60-120
+23756,Villa Collemandina,Camporgiano,10-04-2023,52,30-60
+23941,Villa Collemandina,Castelnuovo di Garfagnana,10-04-2023,57,30-60
+23947,Villa Collemandina,Castelnuovo di Garfagnana,10-04-2023,50,30-60
+23948,Villa Collemandina,Castelnuovo di Garfagnana,10-04-2023,41,30-60
+24138,Villa Collemandina,Fabbriche di Vergemoli,10-04-2023,148,120+
+24229,Villa Collemandina,Fosciandora,10-04-2023,77,60-120
+24325,Villa Collemandina,Gallicano,10-04-2023,83,60-120
+24410,Villa Collemandina,Minucciano,10-04-2023,210,120+
+24426,Villa Collemandina,Minucciano,10-04-2023,178,120+
+24517,Villa Collemandina,Molazzana,10-04-2023,123,120+
+24613,Villa Collemandina,Piazza al Serchio,10-04-2023,82,60-120
+24619,Villa Collemandina,Piazza al Serchio,10-04-2023,89,60-120
+24620,Villa Collemandina,Piazza al Serchio,10-04-2023,57,30-60
+24803,Villa Collemandina,San Romano in Garfagnana,10-04-2023,59,30-60
+24805,Villa Collemandina,San Romano in Garfagnana,10-04-2023,83,60-120
+24901,Villa Collemandina,Sillano Giuncugnano,10-04-2023,126,120+
+24997,Villa Collemandina,Bagni di Lucca,10-04-2023,106,60-120
+25093,Villa Collemandina,Barga,10-04-2023,96,60-120
+25099,Villa Collemandina,Barga,10-04-2023,92,60-120
+25100,Villa Collemandina,Barga,10-04-2023,91,60-120
+25477,Villa Collemandina,Lucca,10-04-2023,133,120+
+25572,Bagni di Lucca,Camporgiano,10-04-2023,93,60-120
+25587,Bagni di Lucca,Camporgiano,09-07-2023,75,60-120
+25764,Bagni di Lucca,Castelnuovo di Garfagnana,10-04-2023,83,60-120
+25765,Bagni di Lucca,Castelnuovo di Garfagnana,10-04-2023,68,60-120
+25771,Bagni di Lucca,Castelnuovo di Garfagnana,10-04-2023,61,60-120
+25772,Bagni di Lucca,Castelnuovo di Garfagnana,10-04-2023,70,60-120
+25779,Bagni di Lucca,Castelnuovo di Garfagnana,09-07-2023,69,60-120
+25850,Bagni di Lucca,Castiglione di Garfagnana,10-04-2023,133,120+
+26036,Bagni di Lucca,Fosciandora,10-01-2023,86,60-120
+26052,Bagni di Lucca,Fosciandora,10-04-2023,97,60-120
+26058,Bagni di Lucca,Fosciandora,10-04-2023,102,60-120
+26148,Bagni di Lucca,Gallicano,10-04-2023,70,60-120
+26180,Bagni di Lucca,Gallicano,09-07-2023,63,60-120
+26340,Bagni di Lucca,Molazzana,10-04-2023,103,60-120
+26346,Bagni di Lucca,Molazzana,10-04-2023,112,60-120
+26436,Bagni di Lucca,Piazza al Serchio,10-04-2023,110,60-120
+26437,Bagni di Lucca,Piazza al Serchio,10-04-2023,84,60-120
+26438,Bagni di Lucca,Piazza al Serchio,10-04-2023,73,60-120
+26444,Bagni di Lucca,Piazza al Serchio,10-04-2023,82,60-120
+26451,Bagni di Lucca,Piazza al Serchio,09-07-2023,81,60-120
+26468,Bagni di Lucca,Piazza al Serchio,09-07-2023,82,60-120
+26469,Bagni di Lucca,Piazza al Serchio,09-07-2023,80,60-120
+26538,Bagni di Lucca,Pieve Fosciana,10-04-2023,178,120+
+26629,Bagni di Lucca,San Romano in Garfagnana,10-04-2023,107,60-120
+26643,Bagni di Lucca,San Romano in Garfagnana,09-07-2023,105,60-120
+26724,Bagni di Lucca,Sillano Giuncugnano,10-04-2023,154,120+
+26725,Bagni di Lucca,Sillano Giuncugnano,10-04-2023,133,120+
+26923,Bagni di Lucca,Barga,10-04-2023,59,30-60
+26984,Bagni di Lucca,Borgo a Mozzano,10-01-2023,65,60-120
+27007,Bagni di Lucca,Borgo a Mozzano,10-04-2023,38,30-60
+27008,Bagni di Lucca,Borgo a Mozzano,10-04-2023,65,60-120
+27012,Bagni di Lucca,Borgo a Mozzano,10-04-2023,37,30-60
+27212,Bagni di Lucca,Pescaglia,10-04-2023,62,60-120
+27295,Bagni di Lucca,Lucca,10-04-2023,65,60-120
+27300,Bagni di Lucca,Lucca,10-04-2023,75,60-120
+27308,Bagni di Lucca,Lucca,10-04-2023,63,60-120
+27324,Bagni di Lucca,Lucca,09-07-2023,75,60-120
+27325,Bagni di Lucca,Lucca,09-07-2023,74,60-120
+27492,Barga,Careggine,10-04-2023,104,60-120
+27580,Barga,Castelnuovo di Garfagnana,10-04-2023,42,30-60
+27589,Barga,Castelnuovo di Garfagnana,10-04-2023,48,30-60
+27598,Barga,Castelnuovo di Garfagnana,10-04-2023,37,30-60
+27684,Barga,Castiglione di Garfagnana,10-04-2023,126,120+
+27769,Barga,Fabbriche di Vergemoli,10-04-2023,104,60-120
+27877,Barga,Fosciandora,10-04-2023,57,30-60
+27887,Barga,Fosciandora,10-04-2023,104,60-120
+27965,Barga,Gallicano,10-04-2023,31,30-60
+28068,Barga,Minucciano,10-04-2023,128,120+
+28164,Barga,Molazzana,10-04-2023,78,60-120
+28356,Barga,Pieve Fosciana,10-04-2023,145,120+
+28452,Barga,San Romano in Garfagnana,10-04-2023,92,60-120
+28453,Barga,San Romano in Garfagnana,10-04-2023,87,60-120
+28459,Barga,San Romano in Garfagnana,10-04-2023,77,60-120
+28463,Barga,San Romano in Garfagnana,10-04-2023,104,60-120
+28548,Barga,Sillano Giuncugnano,10-04-2023,156,120+
+28554,Barga,Sillano Giuncugnano,10-04-2023,110,60-120
+28555,Barga,Sillano Giuncugnano,10-04-2023,159,120+
+28733,Barga,Bagni di Lucca,10-04-2023,79,60-120
+28734,Barga,Bagni di Lucca,10-04-2023,93,60-120
+28746,Barga,Bagni di Lucca,10-04-2023,58,30-60
+28747,Barga,Bagni di Lucca,10-04-2023,78,60-120
+28829,Barga,Borgo a Mozzano,10-04-2023,66,60-120
+28830,Barga,Borgo a Mozzano,10-04-2023,80,60-120
+29033,Barga,Pescaglia,10-04-2023,178,120+
+29117,Barga,Lucca,10-04-2023,93,60-120
+29118,Barga,Lucca,10-04-2023,107,60-120
+29227,Borgo a Mozzano,Camporgiano,10-04-2023,66,60-120
+29245,Borgo a Mozzano,Camporgiano,09-07-2023,73,60-120
+29251,Borgo a Mozzano,Camporgiano,09-07-2023,66,60-120
+29380,Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,54,30-60
+29394,Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,61,60-120
+29419,Borgo a Mozzano,Castelnuovo di Garfagnana,10-04-2023,61,60-120
+29420,Borgo a Mozzano,Castelnuovo di Garfagnana,10-04-2023,57,30-60
+29437,Borgo a Mozzano,Castelnuovo di Garfagnana,09-07-2023,64,60-120
+29443,Borgo a Mozzano,Castelnuovo di Garfagnana,09-07-2023,61,60-120
+29497,Borgo a Mozzano,Castiglione di Garfagnana,10-04-2023,111,60-120
+29500,Borgo a Mozzano,Castiglione di Garfagnana,10-04-2023,461,120+
+29684,Borgo a Mozzano,Fosciandora,10-01-2023,91,60-120
+29778,Borgo a Mozzano,Gallicano,10-01-2023,55,30-60
+29821,Borgo a Mozzano,Gallicano,09-07-2023,54,30-60
+29827,Borgo a Mozzano,Gallicano,09-07-2023,55,30-60
+29828,Borgo a Mozzano,Gallicano,09-07-2023,50,30-60
+29891,Borgo a Mozzano,Minucciano,10-04-2023,131,120+
+29995,Borgo a Mozzano,Molazzana,10-04-2023,75,60-120
+30057,Borgo a Mozzano,Piazza al Serchio,10-01-2023,78,60-120
+30081,Borgo a Mozzano,Piazza al Serchio,10-04-2023,78,60-120
+30085,Borgo a Mozzano,Piazza al Serchio,10-04-2023,76,60-120
+30086,Borgo a Mozzano,Piazza al Serchio,10-04-2023,71,60-120
+30092,Borgo a Mozzano,Piazza al Serchio,10-04-2023,69,60-120
+30109,Borgo a Mozzano,Piazza al Serchio,09-07-2023,76,60-120
+30110,Borgo a Mozzano,Piazza al Serchio,09-07-2023,71,60-120
+30116,Borgo a Mozzano,Piazza al Serchio,09-07-2023,69,60-120
+30283,Borgo a Mozzano,San Romano in Garfagnana,10-04-2023,96,60-120
+30301,Borgo a Mozzano,San Romano in Garfagnana,09-07-2023,103,60-120
+30307,Borgo a Mozzano,San Romano in Garfagnana,09-07-2023,96,60-120
+30361,Borgo a Mozzano,Sillano Giuncugnano,10-04-2023,110,60-120
+30373,Borgo a Mozzano,Sillano Giuncugnano,10-04-2023,120,120+
+30379,Borgo a Mozzano,Sillano Giuncugnano,10-04-2023,122,120+
+30460,Borgo a Mozzano,Villa Collemandina,10-04-2023,483,120+
+30474,Borgo a Mozzano,Villa Collemandina,10-04-2023,163,120+
+30475,Borgo a Mozzano,Villa Collemandina,10-04-2023,95,60-120
+30537,Borgo a Mozzano,Bagni di Lucca,10-01-2023,65,60-120
+30661,Borgo a Mozzano,Barga,10-04-2023,44,30-60
+30757,Borgo a Mozzano,Coreglia Antelminelli,10-04-2023,458,120+
+30859,Borgo a Mozzano,Pescaglia,10-04-2023,79,60-120
+30948,Borgo a Mozzano,Lucca,10-04-2023,53,30-60
+30949,Borgo a Mozzano,Lucca,10-04-2023,49,30-60
+30972,Borgo a Mozzano,Lucca,09-07-2023,53,30-60
+30973,Borgo a Mozzano,Lucca,09-07-2023,52,30-60
+32857,Pescaglia,Camporgiano,10-04-2023,132,120+
+32860,Pescaglia,Camporgiano,10-04-2023,311,120+
+33052,Pescaglia,Castelnuovo di Garfagnana,10-04-2023,307,120+
+33068,Pescaglia,Castelnuovo di Garfagnana,10-04-2023,122,120+
+33145,Pescaglia,Castiglione di Garfagnana,10-04-2023,195,120+
+33259,Pescaglia,Fabbriche di Vergemoli,10-04-2023,114,60-120
+33356,Pescaglia,Fosciandora,10-04-2023,127,120+
+33452,Pescaglia,Gallicano,10-04-2023,104,60-120
+33529,Pescaglia,Minucciano,10-04-2023,258,120+
+33625,Pescaglia,Molazzana,10-04-2023,152,120+
+33628,Pescaglia,Molazzana,10-04-2023,362,120+
+33721,Pescaglia,Piazza al Serchio,10-04-2023,139,120+
+33724,Pescaglia,Piazza al Serchio,10-04-2023,318,120+
+33913,Pescaglia,San Romano in Garfagnana,10-04-2023,163,120+
+34009,Pescaglia,Sillano Giuncugnano,10-04-2023,247,120+
+34124,Pescaglia,Villa Collemandina,10-04-2023,207,120+
+34201,Pescaglia,Bagni di Lucca,10-04-2023,103,60-120
+34204,Pescaglia,Bagni di Lucca,10-04-2023,290,120+
+34316,Pescaglia,Barga,10-04-2023,100,60-120
+34412,Pescaglia,Borgo a Mozzano,10-04-2023,79,60-120
+34588,Pescaglia,Lucca,10-04-2023,261,120+
+34604,Pescaglia,Lucca,10-04-2023,99,60-120
+34673,Lucca,Camporgiano,10-01-2023,101,60-120
+34692,Lucca,Camporgiano,10-04-2023,99,60-120
+34716,Lucca,Camporgiano,09-07-2023,99,60-120
+34865,Lucca,Castelnuovo di Garfagnana,10-01-2023,96,60-120
+34872,Lucca,Castelnuovo di Garfagnana,10-04-2023,86,60-120
+34875,Lucca,Castelnuovo di Garfagnana,10-04-2023,88,60-120
+34884,Lucca,Castelnuovo di Garfagnana,10-04-2023,90,60-120
+34899,Lucca,Castelnuovo di Garfagnana,09-07-2023,88,60-120
+34908,Lucca,Castelnuovo di Garfagnana,09-07-2023,90,60-120
+34968,Lucca,Castiglione di Garfagnana,10-04-2023,146,120+
+35160,Lucca,Fosciandora,10-04-2023,98,60-120
+35161,Lucca,Fosciandora,10-04-2023,109,60-120
+35177,Lucca,Fosciandora,10-04-2023,108,60-120
+35178,Lucca,Fosciandora,10-04-2023,139,120+
+35249,Lucca,Gallicano,10-01-2023,91,60-120
+35256,Lucca,Gallicano,10-04-2023,68,60-120
+35268,Lucca,Gallicano,10-04-2023,81,60-120
+35274,Lucca,Gallicano,10-04-2023,79,60-120
+35283,Lucca,Gallicano,09-07-2023,83,60-120
+35369,Lucca,Minucciano,10-04-2023,218,120+
+35465,Lucca,Molazzana,10-04-2023,114,60-120
+35466,Lucca,Molazzana,10-04-2023,168,120+
+35467,Lucca,Molazzana,10-04-2023,103,60-120
+35537,Lucca,Piazza al Serchio,10-01-2023,105,60-120
+35556,Lucca,Piazza al Serchio,10-04-2023,102,60-120
+35580,Lucca,Piazza al Serchio,09-07-2023,102,60-120
+35658,Lucca,Pieve Fosciana,10-04-2023,191,120+
+35729,Lucca,San Romano in Garfagnana,10-01-2023,131,120+
+35748,Lucca,San Romano in Garfagnana,10-04-2023,129,120+
+35754,Lucca,San Romano in Garfagnana,10-04-2023,123,120+
+35772,Lucca,San Romano in Garfagnana,09-07-2023,129,120+
+35844,Lucca,Sillano Giuncugnano,10-04-2023,147,120+
+35850,Lucca,Sillano Giuncugnano,10-04-2023,148,120+
+36011,Lucca,Bagni di Lucca,10-01-2023,65,60-120
+36022,Lucca,Bagni di Lucca,10-01-2023,66,60-120
+36065,Lucca,Bagni di Lucca,09-07-2023,65,60-120
+36127,Lucca,Barga,10-04-2023,132,120+
+36132,Lucca,Barga,10-04-2023,79,60-120
+36209,Lucca,Borgo a Mozzano,10-01-2023,50,30-60
+36233,Lucca,Borgo a Mozzano,10-04-2023,42,30-60
+36257,Lucca,Borgo a Mozzano,09-07-2023,42,30-60
+36408,Lucca,Pescaglia,10-04-2023,61,60-120
+36409,Lucca,Pescaglia,10-04-2023,57,30-60
