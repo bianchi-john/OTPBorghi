@@ -21,12 +21,10 @@ user:admin passw:admin
 
 
 ## To stop
-
 docker stop $(docker ps -aq) 
 
 
 ## To reset
-
 docker stop $(docker ps -aq) && docker rm $(docker ps -aq) && docker rmi $(docker images -q) --force
 
 ## To generate dataset data:
