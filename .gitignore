@@ -2,3 +2,4 @@ datasetGenerator/output/routes.csv
 shapes/*
 Lecture_2_Unsupervised_Learning.ipynb
 apacheSupersetDocker/superset
+mappaPerSuperset/superSetMap.csv
