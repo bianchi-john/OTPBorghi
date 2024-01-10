@@ -3383,3 +3383,4 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,shape_id
 "2434397276","4493_482428","4493_5785","S.Anna Stazzema","","0","2434397276"
 "2850520984","4493_482620","4493_9610","San Leonardo T. Scuole","","1","2850520984"
 "2850520984","4493_482620","4493_9611","Ponte Alla Posta Scuole","","0","3493963614"
+

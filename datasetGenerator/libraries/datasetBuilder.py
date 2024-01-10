@@ -22,7 +22,7 @@ def datasetBuilder(data):
             'elevationLost': '',
             'elevationGained': '',
             'transfers': '',
-            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date']),
+            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
         }
         return (data)
     try:
@@ -46,7 +46,7 @@ def datasetBuilder(data):
             'elevationLost': '',
             'elevationGained': '',
             'transfers': '',
-            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date']),
+            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
         }
         return (data)
     data = {
@@ -67,6 +67,6 @@ def datasetBuilder(data):
         'elevationLost': data['trip']['elevationLost'],
         'elevationGained': data['trip']['elevationGained'],
         'transfers': data['trip']['transfers'],
-        'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date']),
+        'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
         }
     return (data)

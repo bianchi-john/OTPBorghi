@@ -1,6 +1,5 @@
 # OTPBorghi
 
-
 ## To install apache superset container:
 cd apacheSupersetDocker/superset
 git clone https://github.com/apache/superset.git
@@ -23,7 +22,9 @@ docker stop $(docker ps -aq)
 
 
 ## To delete apache superset container:
-docker stop $(docker ps -aq) && docker rm $(docker ps -aq) && docker rmi $(docker images -q) --force
+docker stop $(docker ps -aq) 
+docker rm $(docker ps -aq) 
+docker rmi $(docker images -q) --force
 
 
 ## To generate otp data:
