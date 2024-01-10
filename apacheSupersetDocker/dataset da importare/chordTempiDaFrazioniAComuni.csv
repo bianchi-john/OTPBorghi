@@ -1,0 +1,81 @@
+,source,target,weight
+0,Antisciana,Borgo a Mozzano,15
+1,Antisciana,Camporgiano,15
+2,Antisciana,Castelnuovo di Garfagnana,15
+3,Antisciana,Gallicano,15
+4,Antisciana,Lucca,14
+5,Antisciana,Piazza al Serchio,15
+6,Borgo a Mozzano,Antisciana,1
+7,Borgo a Mozzano,Castelvecchio Pascoli,1
+8,Borgo a Mozzano,Fornaci di Barga,1
+9,Borgo a Mozzano,Mologno,1
+10,Borgo a Mozzano,Petrognano,1
+11,Borgo a Mozzano,San Donnino,1
+12,Borgo a Mozzano,San Michele,1
+13,Camporgiano,Antisciana,1
+14,Camporgiano,Castelvecchio Pascoli,1
+15,Camporgiano,Fornaci di Barga,1
+16,Camporgiano,Gragnanella,1
+17,Camporgiano,Mologno,1
+18,Camporgiano,Monterotondo,1
+19,Camporgiano,Petrognano,1
+20,Camporgiano,San Donnino,1
+21,Camporgiano,San Michele,1
+22,Castelnuovo di Garfagnana,Antisciana,1
+23,Castelnuovo di Garfagnana,Castelvecchio Pascoli,1
+24,Castelnuovo di Garfagnana,Fornaci di Barga,1
+25,Castelnuovo di Garfagnana,Gragnanella,1
+26,Castelnuovo di Garfagnana,Mologno,1
+27,Castelnuovo di Garfagnana,Petrognano,1
+28,Castelnuovo di Garfagnana,San Donnino,1
+29,Castelnuovo di Garfagnana,San Michele,1
+30,Castelvecchio Pascoli,Borgo a Mozzano,7
+31,Castelvecchio Pascoli,Camporgiano,20
+32,Castelvecchio Pascoli,Castelnuovo di Garfagnana,15
+33,Castelvecchio Pascoli,Piazza al Serchio,20
+34,Colognola,Piazza al Serchio,23
+35,Fornaci di Barga,Borgo a Mozzano,19
+36,Fornaci di Barga,Camporgiano,21
+37,Fornaci di Barga,Castelnuovo di Garfagnana,21
+38,Fornaci di Barga,Lucca,19
+39,Fornaci di Barga,Piazza al Serchio,21
+40,Gallicano,Antisciana,1
+41,Gallicano,Mologno,1
+42,Gallicano,Petrognano,1
+43,Gallicano,San Donnino,1
+44,Gragnanella,Camporgiano,15
+45,Gragnanella,Castelnuovo di Garfagnana,15
+46,Gragnanella,Piazza al Serchio,15
+47,Lucca,Antisciana,1
+48,Lucca,Fornaci di Barga,1
+49,Lucca,Mologno,1
+50,Mologno,Borgo a Mozzano,19
+51,Mologno,Camporgiano,21
+52,Mologno,Castelnuovo di Garfagnana,20
+53,Mologno,Gallicano,23
+54,Mologno,Lucca,19
+55,Mologno,Piazza al Serchio,20
+56,Monterotondo,Camporgiano,15
+57,Petrognano,Borgo a Mozzano,15
+58,Petrognano,Camporgiano,15
+59,Petrognano,Castelnuovo di Garfagnana,15
+60,Petrognano,Gallicano,15
+61,Petrognano,Piazza al Serchio,18
+62,Piazza al Serchio,Antisciana,1
+63,Piazza al Serchio,Castelvecchio Pascoli,1
+64,Piazza al Serchio,Colognola,1
+65,Piazza al Serchio,Fornaci di Barga,1
+66,Piazza al Serchio,Gragnanella,1
+67,Piazza al Serchio,Mologno,1
+68,Piazza al Serchio,Petrognano,1
+69,Piazza al Serchio,San Donnino,1
+70,Piazza al Serchio,San Michele,1
+71,San Donnino,Borgo a Mozzano,8
+72,San Donnino,Camporgiano,21
+73,San Donnino,Castelnuovo di Garfagnana,15
+74,San Donnino,Gallicano,11
+75,San Donnino,Piazza al Serchio,24
+76,San Michele,Borgo a Mozzano,19
+77,San Michele,Camporgiano,21
+78,San Michele,Castelnuovo di Garfagnana,10
+79,San Michele,Piazza al Serchio,24
