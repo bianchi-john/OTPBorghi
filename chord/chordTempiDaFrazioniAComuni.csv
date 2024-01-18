@@ -1,0 +1,303 @@
+,source,target,weight
+1,Albiano,Barga,13
+2,Albiano,Borgo a Mozzano,5
+3,Albiano,Camporgiano,9
+4,Albiano,Castelnuovo di Garfagnana,14
+6,Albiano,Castiglione di Garfagnana,5
+10,Albiano,Lucca,5
+11,Albiano,Minucciano,5
+17,Albiano,Piazza al Serchio,9
+21,Albiano,San Romano in Garfagnana,5
+22,Albiano,Villa Collemandina,4
+24,Antisciana,Bagni di Lucca,10
+25,Antisciana,Barga,12
+26,Antisciana,Borgo a Mozzano,18
+28,Antisciana,Camporgiano,21
+29,Antisciana,Castelnuovo di Garfagnana,22
+31,Antisciana,Castiglione di Garfagnana,6
+35,Antisciana,Fabbriche di Vergemoli,6
+38,Antisciana,Gallicano,21
+43,Antisciana,Lucca,8
+44,Antisciana,Minucciano,11
+45,Antisciana,Molazzana,5
+50,Antisciana,Pescaglia,11
+53,Antisciana,Piazza al Serchio,19
+58,Antisciana,San Romano in Garfagnana,2
+60,Antisciana,Sillano Giuncugnano,8
+62,Antisciana,Villa Collemandina,5
+166,Borsigliana,Barga,10
+167,Borsigliana,Castelnuovo di Garfagnana,6
+169,Borsigliana,Fabbriche di Vergemoli,5
+170,Borsigliana,Minucciano,10
+173,Borsigliana,Piazza al Serchio,12
+177,Borsigliana,San Romano in Garfagnana,5
+178,Borsigliana,Sillano Giuncugnano,14
+179,Borsigliana,Villa Collemandina,5
+259,Castelvecchio Pascoli,Bagni di Lucca,11
+260,Castelvecchio Pascoli,Barga,13
+261,Castelvecchio Pascoli,Borgo a Mozzano,5
+262,Castelvecchio Pascoli,Camporgiano,21
+263,Castelvecchio Pascoli,Castelnuovo di Garfagnana,21
+264,Castelvecchio Pascoli,Castiglione di Garfagnana,5
+268,Castelvecchio Pascoli,Fabbriche di Vergemoli,14
+271,Castelvecchio Pascoli,Gallicano,16
+274,Castelvecchio Pascoli,Lucca,3
+275,Castelvecchio Pascoli,Minucciano,11
+276,Castelvecchio Pascoli,Molazzana,10
+281,Castelvecchio Pascoli,Pescaglia,12
+283,Castelvecchio Pascoli,Piazza al Serchio,21
+288,Castelvecchio Pascoli,San Romano in Garfagnana,17
+289,Castelvecchio Pascoli,Sillano Giuncugnano,13
+291,Castelvecchio Pascoli,Villa Collemandina,9
+328,Cogna,Barga,11
+329,Cogna,Borgo a Mozzano,1
+330,Cogna,Camporgiano,1
+331,Cogna,Castelnuovo di Garfagnana,7
+335,Cogna,Fabbriche di Vergemoli,5
+337,Cogna,Gallicano,2
+340,Cogna,Lucca,1
+341,Cogna,Minucciano,14
+345,Cogna,Piazza al Serchio,15
+350,Cogna,San Romano in Garfagnana,5
+352,Cogna,Sillano Giuncugnano,14
+354,Cogna,Villa Collemandina,5
+355,Colle,Camporgiano,5
+361,Colle,Sillano Giuncugnano,5
+364,Colognola,Bagni di Lucca,4
+365,Colognola,Barga,6
+366,Colognola,Borgo a Mozzano,5
+367,Colognola,Camporgiano,6
+368,Colognola,Castelnuovo di Garfagnana,7
+373,Colognola,Gallicano,5
+375,Colognola,Lucca,5
+376,Colognola,Minucciano,16
+382,Colognola,Piazza al Serchio,23
+387,Colognola,San Romano in Garfagnana,5
+389,Colognola,Sillano Giuncugnano,11
+391,Colognola,Villa Collemandina,4
+394,Cortia,Bagni di Lucca,5
+395,Cortia,Barga,8
+396,Cortia,Borgo a Mozzano,11
+398,Cortia,Camporgiano,14
+399,Cortia,Castelnuovo di Garfagnana,9
+401,Cortia,Castiglione di Garfagnana,5
+404,Cortia,Fabbriche di Vergemoli,5
+407,Cortia,Gallicano,9
+411,Cortia,Lucca,13
+412,Cortia,Minucciano,16
+413,Cortia,Molazzana,5
+417,Cortia,Pescaglia,5
+419,Cortia,Piazza al Serchio,18
+424,Cortia,San Romano in Garfagnana,5
+425,Cortia,Sillano Giuncugnano,10
+427,Cortia,Villa Collemandina,8
+456,Filecchio,Barga,15
+457,Filecchio,Borgo a Mozzano,1
+458,Filecchio,Camporgiano,11
+459,Filecchio,Castelnuovo di Garfagnana,13
+461,Filecchio,Castiglione di Garfagnana,5
+463,Filecchio,Fabbriche di Vergemoli,6
+465,Filecchio,Gallicano,12
+468,Filecchio,Minucciano,4
+469,Filecchio,Molazzana,6
+472,Filecchio,Pescaglia,5
+474,Filecchio,Piazza al Serchio,11
+479,Filecchio,San Romano in Garfagnana,5
+480,Filecchio,Sillano Giuncugnano,5
+482,Filecchio,Villa Collemandina,8
+485,Fornaci di Barga,Bagni di Lucca,13
+486,Fornaci di Barga,Barga,19
+487,Fornaci di Barga,Borgo a Mozzano,20
+488,Fornaci di Barga,Camporgiano,21
+489,Fornaci di Barga,Castelnuovo di Garfagnana,21
+491,Fornaci di Barga,Castiglione di Garfagnana,7
+495,Fornaci di Barga,Fabbriche di Vergemoli,13
+497,Fornaci di Barga,Gallicano,21
+502,Fornaci di Barga,Lucca,20
+503,Fornaci di Barga,Minucciano,16
+504,Fornaci di Barga,Molazzana,10
+508,Fornaci di Barga,Pescaglia,16
+511,Fornaci di Barga,Piazza al Serchio,21
+516,Fornaci di Barga,San Romano in Garfagnana,16
+517,Fornaci di Barga,Sillano Giuncugnano,13
+519,Fornaci di Barga,Villa Collemandina,6
+559,Gragnana,Bagni di Lucca,4
+560,Gragnana,Barga,5
+561,Gragnana,Borgo a Mozzano,7
+562,Gragnana,Camporgiano,9
+563,Gragnana,Castelnuovo di Garfagnana,10
+569,Gragnana,Gallicano,7
+570,Gragnana,Lucca,6
+571,Gragnana,Minucciano,17
+576,Gragnana,Piazza al Serchio,16
+581,Gragnana,San Romano in Garfagnana,5
+583,Gragnana,Sillano Giuncugnano,6
+587,Gragnanella,Bagni di Lucca,10
+588,Gragnanella,Barga,12
+589,Gragnanella,Borgo a Mozzano,9
+591,Gragnanella,Camporgiano,21
+592,Gragnanella,Castelnuovo di Garfagnana,21
+594,Gragnanella,Castiglione di Garfagnana,6
+598,Gragnanella,Fabbriche di Vergemoli,14
+601,Gragnanella,Gallicano,13
+604,Gragnanella,Lucca,5
+605,Gragnanella,Minucciano,11
+606,Gragnanella,Molazzana,5
+611,Gragnanella,Pescaglia,6
+613,Gragnanella,Piazza al Serchio,20
+618,Gragnanella,San Romano in Garfagnana,1
+619,Gragnanella,Sillano Giuncugnano,8
+621,Gragnanella,Villa Collemandina,5
+622,Livignano,Barga,10
+623,Livignano,Borgo a Mozzano,1
+624,Livignano,Camporgiano,5
+627,Livignano,Minucciano,5
+630,Livignano,Piazza al Serchio,5
+635,Livignano,San Romano in Garfagnana,13
+636,Livignano,Sillano Giuncugnano,14
+639,Loppia,Barga,17
+640,Loppia,Camporgiano,5
+641,Loppia,Castelnuovo di Garfagnana,12
+643,Loppia,Fabbriche di Vergemoli,1
+645,Loppia,Gallicano,11
+646,Loppia,Molazzana,3
+649,Loppia,Piazza al Serchio,5
+654,Loppia,San Romano in Garfagnana,3
+655,Loppia,Villa Collemandina,4
+748,Mologno,Bagni di Lucca,13
+749,Mologno,Barga,19
+750,Mologno,Borgo a Mozzano,20
+752,Mologno,Camporgiano,21
+753,Mologno,Castelnuovo di Garfagnana,22
+755,Mologno,Castiglione di Garfagnana,6
+759,Mologno,Fabbriche di Vergemoli,8
+762,Mologno,Gallicano,23
+767,Mologno,Lucca,20
+768,Mologno,Minucciano,16
+769,Mologno,Molazzana,12
+773,Mologno,Pescaglia,16
+776,Mologno,Piazza al Serchio,21
+781,Mologno,San Romano in Garfagnana,17
+782,Mologno,Sillano Giuncugnano,12
+784,Mologno,Villa Collemandina,8
+786,Monterotondo,Bagni di Lucca,5
+787,Monterotondo,Borgo a Mozzano,10
+788,Monterotondo,Camporgiano,18
+789,Monterotondo,Castelnuovo di Garfagnana,11
+793,Monterotondo,Fabbriche di Vergemoli,5
+796,Monterotondo,Gallicano,13
+800,Monterotondo,Lucca,9
+801,Monterotondo,Molazzana,5
+805,Monterotondo,Pescaglia,5
+810,Monterotondo,San Romano in Garfagnana,5
+811,Monterotondo,Sillano Giuncugnano,5
+815,Nicciano,Bagni di Lucca,3
+816,Nicciano,Barga,8
+817,Nicciano,Borgo a Mozzano,13
+819,Nicciano,Camporgiano,14
+820,Nicciano,Castelnuovo di Garfagnana,14
+822,Nicciano,Castiglione di Garfagnana,5
+826,Nicciano,Fabbriche di Vergemoli,5
+829,Nicciano,Gallicano,9
+834,Nicciano,Lucca,13
+835,Nicciano,Minucciano,16
+836,Nicciano,Molazzana,6
+839,Nicciano,Pescaglia,5
+842,Nicciano,Piazza al Serchio,18
+847,Nicciano,San Romano in Garfagnana,5
+849,Nicciano,Sillano Giuncugnano,10
+851,Nicciano,Villa Collemandina,9
+852,Palleroso,Barga,5
+853,Palleroso,Castelnuovo di Garfagnana,10
+855,Palleroso,Fabbriche di Vergemoli,1
+857,Palleroso,Gallicano,10
+893,Petrognano,Bagni di Lucca,5
+894,Petrognano,Barga,11
+895,Petrognano,Borgo a Mozzano,20
+897,Petrognano,Camporgiano,21
+898,Petrognano,Castelnuovo di Garfagnana,21
+900,Petrognano,Castiglione di Garfagnana,11
+905,Petrognano,Fabbriche di Vergemoli,7
+908,Petrognano,Gallicano,21
+912,Petrognano,Lucca,9
+913,Petrognano,Minucciano,6
+914,Petrognano,Molazzana,6
+919,Petrognano,Pescaglia,10
+921,Petrognano,Piazza al Serchio,22
+926,Petrognano,San Romano in Garfagnana,17
+928,Petrognano,Sillano Giuncugnano,14
+930,Petrognano,Villa Collemandina,5
+931,Petrognola,Barga,7
+974,Ponte all'Ania,Bagni di Lucca,12
+975,Ponte all'Ania,Barga,18
+976,Ponte all'Ania,Borgo a Mozzano,16
+977,Ponte all'Ania,Camporgiano,9
+978,Ponte all'Ania,Castelnuovo di Garfagnana,13
+983,Ponte all'Ania,Fabbriche di Vergemoli,5
+986,Ponte all'Ania,Gallicano,18
+989,Ponte all'Ania,Lucca,16
+990,Ponte all'Ania,Minucciano,3
+991,Ponte all'Ania,Molazzana,6
+994,Ponte all'Ania,Pescaglia,4
+997,Ponte all'Ania,Piazza al Serchio,7
+1001,Ponte all'Ania,San Romano in Garfagnana,16
+1002,Ponte all'Ania,Sillano Giuncugnano,8
+1004,Ponte all'Ania,Villa Collemandina,2
+1007,San Donnino,Bagni di Lucca,7
+1008,San Donnino,Barga,16
+1009,San Donnino,Borgo a Mozzano,4
+1010,San Donnino,Camporgiano,19
+1011,San Donnino,Castelnuovo di Garfagnana,21
+1013,San Donnino,Castiglione di Garfagnana,6
+1016,San Donnino,Fabbriche di Vergemoli,7
+1019,San Donnino,Gallicano,17
+1022,San Donnino,Minucciano,19
+1023,San Donnino,Molazzana,6
+1028,San Donnino,Pescaglia,15
+1031,San Donnino,Piazza al Serchio,24
+1035,San Donnino,San Romano in Garfagnana,17
+1037,San Donnino,Sillano Giuncugnano,14
+1039,San Donnino,Villa Collemandina,9
+1042,San Michele,Bagni di Lucca,5
+1043,San Michele,Barga,16
+1044,San Michele,Borgo a Mozzano,19
+1046,San Michele,Camporgiano,21
+1047,San Michele,Castelnuovo di Garfagnana,15
+1049,San Michele,Castiglione di Garfagnana,6
+1053,San Michele,Fabbriche di Vergemoli,7
+1056,San Michele,Gallicano,11
+1061,San Michele,Lucca,9
+1062,San Michele,Minucciano,16
+1063,San Michele,Molazzana,1
+1067,San Michele,Pescaglia,15
+1070,San Michele,Piazza al Serchio,24
+1074,San Michele,San Romano in Garfagnana,14
+1076,San Michele,Sillano Giuncugnano,14
+1078,San Michele,Villa Collemandina,9
+1081,San Pietro in Campo,Bagni di Lucca,1
+1082,San Pietro in Campo,Barga,18
+1083,San Pietro in Campo,Borgo a Mozzano,10
+1084,San Pietro in Campo,Camporgiano,19
+1085,San Pietro in Campo,Castelnuovo di Garfagnana,20
+1087,San Pietro in Campo,Castiglione di Garfagnana,5
+1091,San Pietro in Campo,Gallicano,14
+1095,San Pietro in Campo,Lucca,4
+1096,San Pietro in Campo,Minucciano,9
+1097,San Pietro in Campo,Molazzana,10
+1101,San Pietro in Campo,Pescaglia,5
+1103,San Pietro in Campo,Piazza al Serchio,19
+1107,San Pietro in Campo,San Romano in Garfagnana,9
+1108,San Pietro in Campo,Villa Collemandina,9
+1184,Vergnano,Barga,13
+1185,Vergnano,Borgo a Mozzano,14
+1186,Vergnano,Camporgiano,14
+1187,Vergnano,Castelnuovo di Garfagnana,14
+1192,Vergnano,Fabbriche di Vergemoli,10
+1195,Vergnano,Gallicano,12
+1197,Vergnano,Lucca,14
+1198,Vergnano,Minucciano,8
+1202,Vergnano,Pescaglia,10
+1204,Vergnano,Piazza al Serchio,14
+1209,Vergnano,San Romano in Garfagnana,5
+1210,Vergnano,Sillano Giuncugnano,15
+1211,Vergnano,Villa Collemandina,5

@@ -6,7 +6,7 @@ def datasetBuilder(data):
     if ('ResponseData' in data and 'error' in data['ResponseData'] and 'msg' in data['ResponseData']['error']):
         data = {
             'fromPlaceName': data['fromPlaceName'],
-            'fromPalceCord': data['fromPalceCord'],
+            'fromPlaceCord': data['fromPlaceCord'],
             'toPlaceName': data['toPlaceName'],
             'toPlaceCord': data['toPlaceCord'],
             'date': data['date'],
@@ -22,7 +22,7 @@ def datasetBuilder(data):
             'elevationLost': '',
             'elevationGained': '',
             'transfers': '',
-            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
+            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPlaceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
         }
         return (data)
     try:
@@ -30,7 +30,7 @@ def datasetBuilder(data):
     except:
         data = {
             'fromPlaceName': data['fromPlaceName'],
-            'fromPalceCord': data['fromPalceCord'],
+            'fromPlaceCord': data['fromPlaceCord'],
             'toPlaceName': data['toPlaceName'],
             'toPlaceCord': data['toPlaceCord'],
             'date': data['date'],
@@ -46,12 +46,12 @@ def datasetBuilder(data):
             'elevationLost': '',
             'elevationGained': '',
             'transfers': '',
-            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
+            'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPlaceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
         }
         return (data)
     data = {
         'fromPlaceName': data['fromPlaceName'],
-        'fromPalceCord': data['fromPalceCord'],
+        'fromPlaceCord': data['fromPlaceCord'],
         'toPlaceName': data['toPlaceName'],
         'toPlaceCord': data['toPlaceCord'],
         'date': data['date'],
@@ -67,6 +67,6 @@ def datasetBuilder(data):
         'elevationLost': data['trip']['elevationLost'],
         'elevationGained': data['trip']['elevationGained'],
         'transfers': data['trip']['transfers'],
-        'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPalceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
+        'url_to_watch': "http://localhost:8080/?module=planner&fromPlace=" + quote(data['fromPlaceCord']) + '&toPlace=' + quote(data['toPlaceCord']) + '&time=' + quote(data['time']) + '&date=' + quote(data['date'] + '&mode=TRANSIT%2CWALK&arriveBy=false&wheelchair=false&showIntermediateStops=true&additionalParameters=searchWindow&searchWindow=18000&locale=it&baseLayer=OSM%20Standard%20Tiles'),
         }
     return (data)
