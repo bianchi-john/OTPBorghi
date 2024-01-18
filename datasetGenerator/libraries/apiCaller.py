@@ -8,7 +8,7 @@ def apiCaller(place, places, dates, times):
     data_list = []
     # API URL
     api_url = "http://localhost:8080/otp/routers/default/plan?"
-    output_folder = 'output'  # Specific folder where you want to save the CSV files
+    output_folder = 'datasetGenerator/output'  # Specific folder where you want to save the CSV files
 
     try:
         # First loop: from_place is the single place, and to_place is each place in the list

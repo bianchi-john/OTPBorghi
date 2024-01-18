@@ -1,6 +1,7 @@
 datasetGenerator/output/routes.csv
-shapes/*
+shapes
 Lecture_2_Unsupervised_Learning.ipynb
 apacheSupersetDocker/superset
 OTPBorghi/borghi
 borghi
+.venv

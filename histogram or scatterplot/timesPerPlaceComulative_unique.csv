@@ -1,1033 +1,2337 @@
 fromPlaceName,toPlaceName,date,duration,0-30,30-60,60-120,120+
-Camporgiano,Careggine,10-10-2023,74,0,0,1,1
-Camporgiano,Careggine,10-10-2023,109,0,0,1,1
-Camporgiano,Careggine,10-10-2023,81,0,0,1,1
-Camporgiano,Castelnuovo di Garfagnana,10-01-2023,34,0,1,1,1
-Camporgiano,Castelnuovo di Garfagnana,10-01-2023,21,1,1,1,1
-Camporgiano,Castelnuovo di Garfagnana,10-01-2023,35,0,1,1,1
-Camporgiano,Castelnuovo di Garfagnana,10-01-2023,36,0,1,1,1
-Camporgiano,Castelnuovo di Garfagnana,10-10-2023,23,1,1,1,1
-Camporgiano,Castelnuovo di Garfagnana,10-10-2023,21,1,1,1,1
-Camporgiano,Castiglione di Garfagnana,10-10-2023,43,0,1,1,1
-Camporgiano,Castiglione di Garfagnana,10-10-2023,50,0,1,1,1
-Camporgiano,Castiglione di Garfagnana,10-10-2023,87,0,0,1,1
-Camporgiano,Castiglione di Garfagnana,10-10-2023,72,0,0,1,1
-Camporgiano,Castiglione di Garfagnana,10-10-2023,54,0,1,1,1
-Camporgiano,Fabbriche di Vergemoli,10-10-2023,93,0,0,1,1
-Camporgiano,Fabbriche di Vergemoli,10-10-2023,141,0,0,0,1
-Camporgiano,Fabbriche di Vergemoli,10-10-2023,235,0,0,0,1
-Camporgiano,Fabbriche di Vergemoli,10-10-2023,161,0,0,0,1
-Camporgiano,Fabbriche di Vergemoli,10-10-2023,166,0,0,0,1
-Camporgiano,Fosciandora,10-10-2023,41,0,1,1,1
-Camporgiano,Gallicano,10-01-2023,44,0,1,1,1
-Camporgiano,Gallicano,10-10-2023,44,0,1,1,1
-Camporgiano,Gallicano,10-10-2023,54,0,1,1,1
-Camporgiano,Gallicano,10-10-2023,45,0,1,1,1
-Camporgiano,Gallicano,10-10-2023,47,0,1,1,1
-Camporgiano,Minucciano,10-10-2023,78,0,0,1,1
-Camporgiano,Minucciano,10-10-2023,69,0,0,1,1
-Camporgiano,Minucciano,10-10-2023,60,0,0,1,1
-Camporgiano,Minucciano,10-10-2023,58,0,1,1,1
-Camporgiano,Minucciano,10-10-2023,109,0,0,1,1
-Camporgiano,Molazzana,10-10-2023,63,0,0,1,1
-Camporgiano,Molazzana,10-10-2023,51,0,1,1,1
-Camporgiano,Molazzana,10-10-2023,65,0,0,1,1
-Camporgiano,Piazza al Serchio,10-01-2023,17,1,1,1,1
-Camporgiano,Piazza al Serchio,10-10-2023,17,1,1,1,1
-Camporgiano,Pieve Fosciana,10-10-2023,88,0,0,1,1
-Camporgiano,San Romano in Garfagnana,10-10-2023,14,1,1,1,1
-Camporgiano,San Romano in Garfagnana,10-10-2023,25,1,1,1,1
-Camporgiano,San Romano in Garfagnana,10-10-2023,21,1,1,1,1
-Camporgiano,Sillano Giuncugnano,10-10-2023,42,0,1,1,1
-Camporgiano,Sillano Giuncugnano,10-10-2023,30,0,1,1,1
-Camporgiano,Sillano Giuncugnano,10-10-2023,51,0,1,1,1
-Camporgiano,Villa Collemandina,10-10-2023,48,0,1,1,1
-Camporgiano,Villa Collemandina,10-10-2023,54,0,1,1,1
-Camporgiano,Bagni di Lucca,10-10-2023,66,0,0,1,1
-Camporgiano,Bagni di Lucca,10-10-2023,81,0,0,1,1
-Camporgiano,Bagni di Lucca,10-10-2023,71,0,0,1,1
-Camporgiano,Barga,10-10-2023,51,0,1,1,1
-Camporgiano,Barga,10-10-2023,61,0,0,1,1
-Camporgiano,Barga,10-10-2023,65,0,0,1,1
-Camporgiano,Barga,10-10-2023,59,0,1,1,1
-Camporgiano,Barga,10-10-2023,56,0,1,1,1
-Camporgiano,Borgo a Mozzano,10-01-2023,62,0,0,1,1
-Camporgiano,Borgo a Mozzano,10-01-2023,56,0,1,1,1
-Camporgiano,Borgo a Mozzano,10-01-2023,60,0,0,1,1
-Camporgiano,Borgo a Mozzano,10-01-2023,65,0,0,1,1
-Camporgiano,Borgo a Mozzano,10-01-2023,66,0,0,1,1
-Camporgiano,Borgo a Mozzano,10-10-2023,58,0,1,1,1
-Camporgiano,Borgo a Mozzano,10-10-2023,56,0,1,1,1
-Camporgiano,Borgo a Mozzano,10-10-2023,64,0,0,1,1
-Camporgiano,Borgo a Mozzano,10-10-2023,60,0,0,1,1
-Camporgiano,Borgo a Mozzano,10-10-2023,62,0,0,1,1
-Camporgiano,Pescaglia,10-10-2023,88,0,0,1,1
-Camporgiano,Pescaglia,10-10-2023,123,0,0,0,1
-Camporgiano,Pescaglia,10-10-2023,206,0,0,0,1
-Camporgiano,Pescaglia,10-10-2023,126,0,0,0,1
-Camporgiano,Lucca,10-01-2023,88,0,0,1,1
-Camporgiano,Lucca,10-01-2023,83,0,0,1,1
-Camporgiano,Lucca,10-01-2023,96,0,0,1,1
-Camporgiano,Lucca,10-01-2023,102,0,0,1,1
-Camporgiano,Lucca,10-01-2023,99,0,0,1,1
-Camporgiano,Lucca,10-10-2023,93,0,0,1,1
-Camporgiano,Lucca,10-10-2023,83,0,0,1,1
-Camporgiano,Lucca,10-10-2023,109,0,0,1,1
-Camporgiano,Lucca,10-10-2023,97,0,0,1,1
-Camporgiano,Lucca,10-10-2023,94,0,0,1,1
-Camporgiano,Lucca,10-10-2023,86,0,0,1,1
-Careggine,Camporgiano,10-10-2023,55,0,1,1,1
-Careggine,Camporgiano,10-10-2023,82,0,0,1,1
-Careggine,Castelnuovo di Garfagnana,10-10-2023,39,0,1,1,1
-Careggine,Castelnuovo di Garfagnana,10-10-2023,76,0,0,1,1
-Careggine,Castelnuovo di Garfagnana,10-10-2023,33,0,1,1,1
-Careggine,Castiglione di Garfagnana,10-10-2023,103,0,0,1,1
-Careggine,Castiglione di Garfagnana,10-10-2023,86,0,0,1,1
-Careggine,Fabbriche di Vergemoli,10-10-2023,288,0,0,0,1
-Careggine,Fabbriche di Vergemoli,10-10-2023,417,0,0,0,1
-Careggine,Fosciandora,10-10-2023,89,0,0,1,1
-Careggine,Gallicano,10-10-2023,74,0,0,1,1
-Careggine,Gallicano,10-10-2023,69,0,0,1,1
-Careggine,Gallicano,10-10-2023,70,0,0,1,1
-Careggine,Minucciano,10-10-2023,209,0,0,0,1
-Careggine,Minucciano,10-10-2023,374,0,0,0,1
-Careggine,Molazzana,10-10-2023,85,0,0,1,1
-Careggine,Piazza al Serchio,10-10-2023,156,0,0,0,1
-Careggine,Piazza al Serchio,10-10-2023,62,0,0,1,1
-Careggine,Piazza al Serchio,10-10-2023,90,0,0,1,1
-Careggine,Piazza al Serchio,10-10-2023,136,0,0,0,1
-Careggine,San Romano in Garfagnana,10-10-2023,91,0,0,1,1
-Careggine,San Romano in Garfagnana,10-10-2023,126,0,0,0,1
-Careggine,Sillano Giuncugnano,10-10-2023,263,0,0,0,1
-Careggine,Sillano Giuncugnano,10-10-2023,131,0,0,0,1
-Careggine,Bagni di Lucca,10-10-2023,119,0,0,1,1
-Careggine,Barga,10-10-2023,94,0,0,1,1
-Careggine,Barga,10-10-2023,75,0,0,1,1
-Careggine,Barga,10-10-2023,108,0,0,1,1
-Careggine,Borgo a Mozzano,10-10-2023,101,0,0,1,1
-Careggine,Borgo a Mozzano,10-10-2023,164,0,0,0,1
-Careggine,Borgo a Mozzano,10-10-2023,123,0,0,0,1
-Careggine,Pescaglia,10-10-2023,377,0,0,0,1
-Careggine,Lucca,10-10-2023,191,0,0,0,1
-Careggine,Lucca,10-10-2023,133,0,0,0,1
-Careggine,Lucca,10-10-2023,149,0,0,0,1
-Castelnuovo di Garfagnana,Camporgiano,10-01-2023,23,1,1,1,1
-Castelnuovo di Garfagnana,Camporgiano,10-01-2023,35,0,1,1,1
-Castelnuovo di Garfagnana,Camporgiano,10-10-2023,23,1,1,1,1
-Castelnuovo di Garfagnana,Camporgiano,10-10-2023,27,1,1,1,1
-Castelnuovo di Garfagnana,Camporgiano,10-10-2023,22,1,1,1,1
-Castelnuovo di Garfagnana,Camporgiano,10-10-2023,35,0,1,1,1
-Castelnuovo di Garfagnana,Careggine,10-10-2023,40,0,1,1,1
-Castelnuovo di Garfagnana,Careggine,10-10-2023,42,0,1,1,1
-Castelnuovo di Garfagnana,Careggine,10-10-2023,29,1,1,1,1
-Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-10-2023,23,1,1,1,1
-Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-10-2023,36,0,1,1,1
-Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-10-2023,30,0,1,1,1
-Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2023,82,0,0,1,1
-Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2023,120,0,0,0,1
-Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2023,77,0,0,1,1
-Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2023,122,0,0,0,1
-Castelnuovo di Garfagnana,Fosciandora,10-10-2023,27,1,1,1,1
-Castelnuovo di Garfagnana,Fosciandora,10-10-2023,29,1,1,1,1
-Castelnuovo di Garfagnana,Fosciandora,10-10-2023,26,1,1,1,1
-Castelnuovo di Garfagnana,Fosciandora,10-10-2023,22,1,1,1,1
-Castelnuovo di Garfagnana,Gallicano,10-01-2023,35,0,1,1,1
-Castelnuovo di Garfagnana,Gallicano,10-10-2023,34,0,1,1,1
-Castelnuovo di Garfagnana,Gallicano,10-10-2023,33,0,1,1,1
-Castelnuovo di Garfagnana,Gallicano,10-10-2023,35,0,1,1,1
-Castelnuovo di Garfagnana,Gallicano,10-10-2023,32,0,1,1,1
-Castelnuovo di Garfagnana,Gallicano,10-10-2023,30,0,1,1,1
-Castelnuovo di Garfagnana,Minucciano,10-10-2023,89,0,0,1,1
-Castelnuovo di Garfagnana,Minucciano,10-10-2023,98,0,0,1,1
-Castelnuovo di Garfagnana,Minucciano,10-10-2023,79,0,0,1,1
-Castelnuovo di Garfagnana,Minucciano,10-10-2023,152,0,0,0,1
-Castelnuovo di Garfagnana,Minucciano,10-10-2023,122,0,0,0,1
-Castelnuovo di Garfagnana,Molazzana,10-10-2023,47,0,1,1,1
-Castelnuovo di Garfagnana,Molazzana,10-10-2023,44,0,1,1,1
-Castelnuovo di Garfagnana,Molazzana,10-10-2023,45,0,1,1,1
-Castelnuovo di Garfagnana,Molazzana,10-10-2023,56,0,1,1,1
-Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2023,39,0,1,1,1
-Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2023,40,0,1,1,1
-Castelnuovo di Garfagnana,Piazza al Serchio,10-10-2023,38,0,1,1,1
-Castelnuovo di Garfagnana,Piazza al Serchio,10-10-2023,39,0,1,1,1
-Castelnuovo di Garfagnana,Piazza al Serchio,10-10-2023,40,0,1,1,1
-Castelnuovo di Garfagnana,Pieve Fosciana,10-10-2023,43,0,1,1,1
-Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2023,32,0,1,1,1
-Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2023,34,0,1,1,1
-Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2023,30,0,1,1,1
-Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2023,18,1,1,1,1
-Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2023,38,0,1,1,1
-Castelnuovo di Garfagnana,Sillano Giuncugnano,10-10-2023,68,0,0,1,1
-Castelnuovo di Garfagnana,Sillano Giuncugnano,10-10-2023,55,0,1,1,1
-Castelnuovo di Garfagnana,Sillano Giuncugnano,10-10-2023,67,0,0,1,1
-Castelnuovo di Garfagnana,Sillano Giuncugnano,10-10-2023,80,0,0,1,1
-Castelnuovo di Garfagnana,Villa Collemandina,10-10-2023,34,0,1,1,1
-Castelnuovo di Garfagnana,Villa Collemandina,10-10-2023,33,0,1,1,1
-Castelnuovo di Garfagnana,Bagni di Lucca,10-10-2023,62,0,0,1,1
-Castelnuovo di Garfagnana,Bagni di Lucca,10-10-2023,61,0,0,1,1
-Castelnuovo di Garfagnana,Bagni di Lucca,10-10-2023,57,0,1,1,1
-Castelnuovo di Garfagnana,Barga,10-10-2023,34,0,1,1,1
-Castelnuovo di Garfagnana,Barga,10-10-2023,35,0,1,1,1
-Castelnuovo di Garfagnana,Barga,10-10-2023,43,0,1,1,1
-Castelnuovo di Garfagnana,Barga,10-10-2023,54,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2023,52,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2023,55,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2023,51,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2023,57,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2023,53,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2023,54,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2023,51,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2023,55,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2023,56,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2023,55,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2023,57,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2023,64,0,0,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2023,58,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2023,65,0,0,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2023,67,0,0,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2023,57,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2023,64,0,0,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2023,58,0,1,1,1
-Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2023,59,0,1,1,1
-Castelnuovo di Garfagnana,Pescaglia,10-10-2023,77,0,0,1,1
-Castelnuovo di Garfagnana,Pescaglia,10-10-2023,119,0,0,1,1
-Castelnuovo di Garfagnana,Pescaglia,10-10-2023,188,0,0,0,1
-Castelnuovo di Garfagnana,Pescaglia,10-10-2023,122,0,0,0,1
-Castelnuovo di Garfagnana,Lucca,10-10-2023,75,0,0,1,1
-Castiglione di Garfagnana,Camporgiano,10-10-2023,46,0,1,1,1
-Castiglione di Garfagnana,Camporgiano,10-10-2023,82,0,0,1,1
-Castiglione di Garfagnana,Camporgiano,10-10-2023,55,0,1,1,1
-Castiglione di Garfagnana,Camporgiano,10-10-2023,58,0,1,1,1
-Castiglione di Garfagnana,Camporgiano,10-10-2023,73,0,0,1,1
-Castiglione di Garfagnana,Camporgiano,10-10-2023,53,0,1,1,1
-Castiglione di Garfagnana,Careggine,10-10-2023,83,0,0,1,1
-Castiglione di Garfagnana,Careggine,10-10-2023,51,0,1,1,1
-Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2023,24,1,1,1,1
-Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2023,30,0,1,1,1
-Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2023,48,0,1,1,1
-Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2023,34,0,1,1,1
-Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2023,29,1,1,1,1
-Castiglione di Garfagnana,Fabbriche di Vergemoli,10-10-2023,102,0,0,1,1
-Castiglione di Garfagnana,Fosciandora,10-10-2023,55,0,1,1,1
-Castiglione di Garfagnana,Fosciandora,10-10-2023,64,0,0,1,1
-Castiglione di Garfagnana,Fosciandora,10-10-2023,54,0,1,1,1
-Castiglione di Garfagnana,Gallicano,10-10-2023,56,0,1,1,1
-Castiglione di Garfagnana,Gallicano,10-10-2023,61,0,0,1,1
-Castiglione di Garfagnana,Gallicano,10-10-2023,55,0,1,1,1
-Castiglione di Garfagnana,Gallicano,10-10-2023,57,0,1,1,1
-Castiglione di Garfagnana,Minucciano,10-10-2023,117,0,0,1,1
-Castiglione di Garfagnana,Minucciano,10-10-2023,153,0,0,0,1
-Castiglione di Garfagnana,Minucciano,10-10-2023,100,0,0,1,1
-Castiglione di Garfagnana,Minucciano,10-10-2023,185,0,0,0,1
-Castiglione di Garfagnana,Molazzana,10-10-2023,76,0,0,1,1
-Castiglione di Garfagnana,Molazzana,10-10-2023,81,0,0,1,1
-Castiglione di Garfagnana,Piazza al Serchio,10-10-2023,49,0,1,1,1
-Castiglione di Garfagnana,Piazza al Serchio,10-10-2023,59,0,1,1,1
-Castiglione di Garfagnana,Piazza al Serchio,10-10-2023,65,0,0,1,1
-Castiglione di Garfagnana,Piazza al Serchio,10-10-2023,57,0,1,1,1
-Castiglione di Garfagnana,Pieve Fosciana,10-10-2023,53,0,1,1,1
-Castiglione di Garfagnana,San Romano in Garfagnana,10-10-2023,54,0,1,1,1
-Castiglione di Garfagnana,San Romano in Garfagnana,10-10-2023,67,0,0,1,1
-Castiglione di Garfagnana,Sillano Giuncugnano,10-10-2023,104,0,0,1,1
-Castiglione di Garfagnana,Sillano Giuncugnano,10-10-2023,106,0,0,1,1
-Castiglione di Garfagnana,Villa Collemandina,10-10-2023,7,1,1,1,1
-Castiglione di Garfagnana,Villa Collemandina,10-10-2023,8,1,1,1,1
-Castiglione di Garfagnana,Villa Collemandina,10-10-2023,13,1,1,1,1
-Castiglione di Garfagnana,Bagni di Lucca,10-10-2023,83,0,0,1,1
-Castiglione di Garfagnana,Barga,10-10-2023,49,0,1,1,1
-Castiglione di Garfagnana,Barga,10-10-2023,73,0,0,1,1
-Castiglione di Garfagnana,Barga,10-10-2023,59,0,1,1,1
-Castiglione di Garfagnana,Barga,10-10-2023,60,0,0,1,1
-Castiglione di Garfagnana,Borgo a Mozzano,10-10-2023,72,0,0,1,1
-Castiglione di Garfagnana,Borgo a Mozzano,10-10-2023,86,0,0,1,1
-Castiglione di Garfagnana,Borgo a Mozzano,10-10-2023,83,0,0,1,1
-Castiglione di Garfagnana,Borgo a Mozzano,10-10-2023,77,0,0,1,1
-Castiglione di Garfagnana,Borgo a Mozzano,10-10-2023,73,0,0,1,1
-Castiglione di Garfagnana,Pescaglia,10-10-2023,96,0,0,1,1
-Castiglione di Garfagnana,Lucca,10-10-2023,91,0,0,1,1
-Castiglione di Garfagnana,Lucca,10-10-2023,111,0,0,1,1
-Castiglione di Garfagnana,Lucca,10-10-2023,109,0,0,1,1
-Castiglione di Garfagnana,Lucca,10-10-2023,99,0,0,1,1
-Castiglione di Garfagnana,Lucca,10-10-2023,106,0,0,1,1
-Fabbriche di Vergemoli,Camporgiano,10-10-2023,170,0,0,0,1
-Fabbriche di Vergemoli,Camporgiano,10-10-2023,174,0,0,0,1
-Fabbriche di Vergemoli,Camporgiano,10-10-2023,99,0,0,1,1
-Fabbriche di Vergemoli,Camporgiano,10-10-2023,104,0,0,1,1
-Fabbriche di Vergemoli,Careggine,10-10-2023,240,0,0,0,1
-Fabbriche di Vergemoli,Careggine,10-10-2023,755,0,0,0,1
-Fabbriche di Vergemoli,Careggine,10-10-2023,397,0,0,0,1
-Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2023,75,0,0,1,1
-Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2023,85,0,0,1,1
-Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2023,86,0,0,1,1
-Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2023,67,0,0,1,1
-Fabbriche di Vergemoli,Castiglione di Garfagnana,10-10-2023,127,0,0,0,1
-Fabbriche di Vergemoli,Gallicano,10-10-2023,47,0,1,1,1
-Fabbriche di Vergemoli,Gallicano,10-10-2023,57,0,1,1,1
-Fabbriche di Vergemoli,Gallicano,10-10-2023,59,0,1,1,1
-Fabbriche di Vergemoli,Gallicano,10-10-2023,31,0,1,1,1
-Fabbriche di Vergemoli,Minucciano,10-10-2023,231,0,0,0,1
-Fabbriche di Vergemoli,Minucciano,10-10-2023,226,0,0,0,1
-Fabbriche di Vergemoli,Minucciano,10-10-2023,321,0,0,0,1
-Fabbriche di Vergemoli,Piazza al Serchio,10-10-2023,180,0,0,0,1
-Fabbriche di Vergemoli,Piazza al Serchio,10-10-2023,181,0,0,0,1
-Fabbriche di Vergemoli,Piazza al Serchio,10-10-2023,106,0,0,1,1
-Fabbriche di Vergemoli,Piazza al Serchio,10-10-2023,108,0,0,1,1
-Fabbriche di Vergemoli,San Romano in Garfagnana,10-10-2023,184,0,0,0,1
-Fabbriche di Vergemoli,San Romano in Garfagnana,10-10-2023,108,0,0,1,1
-Fabbriche di Vergemoli,Sillano Giuncugnano,10-10-2023,219,0,0,0,1
-Fabbriche di Vergemoli,Sillano Giuncugnano,10-10-2023,147,0,0,0,1
-Fabbriche di Vergemoli,Villa Collemandina,10-10-2023,201,0,0,0,1
-Fabbriche di Vergemoli,Barga,10-10-2023,73,0,0,1,1
-Fabbriche di Vergemoli,Barga,10-10-2023,128,0,0,0,1
-Fabbriche di Vergemoli,Barga,10-10-2023,68,0,0,1,1
-Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2023,58,0,1,1,1
-Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2023,71,0,0,1,1
-Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2023,38,0,1,1,1
-Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2023,69,0,0,1,1
-Fabbriche di Vergemoli,Pescaglia,10-10-2023,144,0,0,0,1
-Fabbriche di Vergemoli,Pescaglia,10-10-2023,121,0,0,0,1
-Fabbriche di Vergemoli,Lucca,10-10-2023,102,0,0,1,1
-Fabbriche di Vergemoli,Lucca,10-10-2023,98,0,0,1,1
-Fabbriche di Vergemoli,Lucca,10-10-2023,71,0,0,1,1
-Fosciandora,Camporgiano,10-10-2023,64,0,0,1,1
-Fosciandora,Careggine,10-10-2023,60,0,0,1,1
-Fosciandora,Careggine,10-10-2023,43,0,1,1,1
-Fosciandora,Castelnuovo di Garfagnana,10-10-2023,26,1,1,1,1
-Fosciandora,Castelnuovo di Garfagnana,10-10-2023,31,0,1,1,1
-Fosciandora,Castelnuovo di Garfagnana,10-10-2023,30,0,1,1,1
-Fosciandora,Fabbriche di Vergemoli,10-10-2023,123,0,0,0,1
-Fosciandora,Gallicano,10-10-2023,31,0,1,1,1
-Fosciandora,Gallicano,10-10-2023,36,0,1,1,1
-Fosciandora,Gallicano,10-10-2023,33,0,1,1,1
-Fosciandora,Minucciano,10-10-2023,119,0,0,1,1
-Fosciandora,Molazzana,10-10-2023,60,0,0,1,1
-Fosciandora,Piazza al Serchio,10-10-2023,68,0,0,1,1
-Fosciandora,Pieve Fosciana,10-10-2023,67,0,0,1,1
-Fosciandora,Barga,10-10-2023,41,0,1,1,1
-Fosciandora,Barga,10-10-2023,38,0,1,1,1
-Fosciandora,Borgo a Mozzano,10-10-2023,66,0,0,1,1
-Fosciandora,Borgo a Mozzano,10-10-2023,64,0,0,1,1
-Fosciandora,Borgo a Mozzano,10-10-2023,69,0,0,1,1
-Fosciandora,Pescaglia,10-10-2023,105,0,0,1,1
-Fosciandora,Lucca,10-10-2023,93,0,0,1,1
-Fosciandora,Lucca,10-10-2023,99,0,0,1,1
-Gallicano,Camporgiano,10-01-2023,46,0,1,1,1
-Gallicano,Camporgiano,10-10-2023,46,0,1,1,1
-Gallicano,Camporgiano,10-10-2023,51,0,1,1,1
-Gallicano,Camporgiano,10-10-2023,41,0,1,1,1
-Gallicano,Camporgiano,10-10-2023,48,0,1,1,1
-Gallicano,Careggine,10-10-2023,84,0,0,1,1
-Gallicano,Careggine,10-10-2023,52,0,1,1,1
-Gallicano,Castelnuovo di Garfagnana,10-01-2023,35,0,1,1,1
-Gallicano,Castelnuovo di Garfagnana,10-10-2023,35,0,1,1,1
-Gallicano,Castelnuovo di Garfagnana,10-10-2023,34,0,1,1,1
-Gallicano,Castelnuovo di Garfagnana,10-10-2023,31,0,1,1,1
-Gallicano,Castelnuovo di Garfagnana,10-10-2023,33,0,1,1,1
-Gallicano,Castiglione di Garfagnana,10-10-2023,52,0,1,1,1
-Gallicano,Castiglione di Garfagnana,10-10-2023,87,0,0,1,1
-Gallicano,Fabbriche di Vergemoli,10-10-2023,40,0,1,1,1
-Gallicano,Fabbriche di Vergemoli,10-10-2023,92,0,0,1,1
-Gallicano,Fabbriche di Vergemoli,10-10-2023,94,0,0,1,1
-Gallicano,Fabbriche di Vergemoli,10-10-2023,44,0,1,1,1
-Gallicano,Fosciandora,10-10-2023,29,1,1,1,1
-Gallicano,Minucciano,10-10-2023,118,0,0,1,1
-Gallicano,Minucciano,10-10-2023,110,0,0,1,1
-Gallicano,Minucciano,10-10-2023,97,0,0,1,1
-Gallicano,Minucciano,10-10-2023,184,0,0,0,1
-Gallicano,Minucciano,10-10-2023,190,0,0,0,1
-Gallicano,Molazzana,10-10-2023,17,1,1,1,1
-Gallicano,Molazzana,10-10-2023,14,1,1,1,1
-Gallicano,Molazzana,10-10-2023,41,0,1,1,1
-Gallicano,Molazzana,10-10-2023,20,1,1,1,1
-Gallicano,Piazza al Serchio,10-01-2023,62,0,0,1,1
-Gallicano,Piazza al Serchio,10-10-2023,51,0,1,1,1
-Gallicano,Piazza al Serchio,10-10-2023,67,0,0,1,1
-Gallicano,Piazza al Serchio,10-10-2023,56,0,1,1,1
-Gallicano,San Romano in Garfagnana,10-10-2023,46,0,1,1,1
-Gallicano,San Romano in Garfagnana,10-10-2023,56,0,1,1,1
-Gallicano,San Romano in Garfagnana,10-10-2023,43,0,1,1,1
-Gallicano,San Romano in Garfagnana,10-10-2023,45,0,1,1,1
-Gallicano,San Romano in Garfagnana,10-10-2023,66,0,0,1,1
-Gallicano,San Romano in Garfagnana,10-10-2023,55,0,1,1,1
-Gallicano,Sillano Giuncugnano,10-10-2023,92,0,0,1,1
-Gallicano,Sillano Giuncugnano,10-10-2023,100,0,0,1,1
-Gallicano,Sillano Giuncugnano,10-10-2023,109,0,0,1,1
-Gallicano,Villa Collemandina,10-10-2023,58,0,1,1,1
-Gallicano,Villa Collemandina,10-10-2023,128,0,0,0,1
-Gallicano,Bagni di Lucca,10-10-2023,51,0,1,1,1
-Gallicano,Bagni di Lucca,10-10-2023,58,0,1,1,1
-Gallicano,Bagni di Lucca,10-10-2023,33,0,1,1,1
-Gallicano,Barga,10-10-2023,17,1,1,1,1
-Gallicano,Barga,10-10-2023,18,1,1,1,1
-Gallicano,Barga,10-10-2023,31,0,1,1,1
-Gallicano,Barga,10-10-2023,13,1,1,1,1
-Gallicano,Borgo a Mozzano,10-01-2023,37,0,1,1,1
-Gallicano,Borgo a Mozzano,10-10-2023,34,0,1,1,1
-Gallicano,Borgo a Mozzano,10-10-2023,35,0,1,1,1
-Gallicano,Borgo a Mozzano,10-10-2023,37,0,1,1,1
-Gallicano,Pescaglia,10-10-2023,112,0,0,1,1
-Gallicano,Lucca,10-10-2023,73,0,0,1,1
-Gallicano,Lucca,10-10-2023,70,0,0,1,1
-Gallicano,Lucca,10-10-2023,86,0,0,1,1
-Gallicano,Lucca,10-10-2023,68,0,0,1,1
-Gallicano,Lucca,10-10-2023,71,0,0,1,1
-Minucciano,Camporgiano,10-10-2023,47,0,1,1,1
-Minucciano,Camporgiano,10-10-2023,61,0,0,1,1
-Minucciano,Camporgiano,10-10-2023,51,0,1,1,1
-Minucciano,Camporgiano,10-10-2023,141,0,0,0,1
-Minucciano,Camporgiano,10-10-2023,95,0,0,1,1
-Minucciano,Careggine,10-10-2023,159,0,0,0,1
-Minucciano,Careggine,10-10-2023,326,0,0,0,1
-Minucciano,Careggine,10-10-2023,274,0,0,0,1
-Minucciano,Castelnuovo di Garfagnana,10-10-2023,70,0,0,1,1
-Minucciano,Castelnuovo di Garfagnana,10-10-2023,79,0,0,1,1
-Minucciano,Castelnuovo di Garfagnana,10-10-2023,71,0,0,1,1
-Minucciano,Castelnuovo di Garfagnana,10-10-2023,83,0,0,1,1
-Minucciano,Castelnuovo di Garfagnana,10-10-2023,78,0,0,1,1
-Minucciano,Castiglione di Garfagnana,10-10-2023,87,0,0,1,1
-Minucciano,Castiglione di Garfagnana,10-10-2023,135,0,0,0,1
-Minucciano,Fabbriche di Vergemoli,10-10-2023,232,0,0,0,1
-Minucciano,Fabbriche di Vergemoli,10-10-2023,293,0,0,0,1
-Minucciano,Fosciandora,10-10-2023,112,0,0,1,1
-Minucciano,Fosciandora,10-10-2023,90,0,0,1,1
-Minucciano,Gallicano,10-10-2023,87,0,0,1,1
-Minucciano,Gallicano,10-10-2023,90,0,0,1,1
-Minucciano,Gallicano,10-10-2023,95,0,0,1,1
-Minucciano,Gallicano,10-10-2023,94,0,0,1,1
-Minucciano,Gallicano,10-10-2023,139,0,0,0,1
-Minucciano,Molazzana,10-10-2023,227,0,0,0,1
-Minucciano,Molazzana,10-10-2023,159,0,0,0,1
-Minucciano,Piazza al Serchio,10-10-2023,34,0,1,1,1
-Minucciano,Piazza al Serchio,10-10-2023,29,1,1,1,1
-Minucciano,Piazza al Serchio,10-10-2023,37,0,1,1,1
-Minucciano,Piazza al Serchio,10-10-2023,45,0,1,1,1
-Minucciano,Piazza al Serchio,10-10-2023,39,0,1,1,1
-Minucciano,Piazza al Serchio,10-10-2023,53,0,1,1,1
-Minucciano,Pieve Fosciana,10-10-2023,126,0,0,0,1
-Minucciano,Pieve Fosciana,10-10-2023,250,0,0,0,1
-Minucciano,San Romano in Garfagnana,10-10-2023,73,0,0,1,1
-Minucciano,San Romano in Garfagnana,10-10-2023,136,0,0,0,1
-Minucciano,Sillano Giuncugnano,10-10-2023,77,0,0,1,1
-Minucciano,Sillano Giuncugnano,10-10-2023,85,0,0,1,1
-Minucciano,Sillano Giuncugnano,10-10-2023,62,0,0,1,1
-Minucciano,Sillano Giuncugnano,10-10-2023,74,0,0,1,1
-Minucciano,Sillano Giuncugnano,10-10-2023,159,0,0,0,1
-Minucciano,Villa Collemandina,10-10-2023,145,0,0,0,1
-Minucciano,Villa Collemandina,10-10-2023,130,0,0,0,1
-Minucciano,Bagni di Lucca,10-10-2023,103,0,0,1,1
-Minucciano,Bagni di Lucca,10-10-2023,116,0,0,1,1
-Minucciano,Bagni di Lucca,10-10-2023,108,0,0,1,1
-Minucciano,Barga,10-10-2023,98,0,0,1,1
-Minucciano,Barga,10-10-2023,156,0,0,0,1
-Minucciano,Barga,10-10-2023,157,0,0,0,1
-Minucciano,Barga,10-10-2023,106,0,0,1,1
-Minucciano,Barga,10-10-2023,107,0,0,1,1
-Minucciano,Barga,10-10-2023,109,0,0,1,1
-Minucciano,Borgo a Mozzano,10-10-2023,100,0,0,1,1
-Minucciano,Borgo a Mozzano,10-10-2023,102,0,0,1,1
-Minucciano,Borgo a Mozzano,10-10-2023,115,0,0,1,1
-Minucciano,Borgo a Mozzano,10-10-2023,109,0,0,1,1
-Minucciano,Borgo a Mozzano,10-10-2023,96,0,0,1,1
-Minucciano,Pescaglia,10-10-2023,213,0,0,0,1
-Minucciano,Pescaglia,10-10-2023,252,0,0,0,1
-Minucciano,Pescaglia,10-10-2023,287,0,0,0,1
-Minucciano,Lucca,10-10-2023,128,0,0,0,1
-Minucciano,Lucca,10-10-2023,130,0,0,0,1
-Minucciano,Lucca,10-10-2023,144,0,0,0,1
-Minucciano,Lucca,10-10-2023,142,0,0,0,1
-Minucciano,Lucca,10-10-2023,123,0,0,0,1
-Minucciano,Lucca,10-10-2023,127,0,0,0,1
-Molazzana,Camporgiano,10-10-2023,70,0,0,1,1
-Molazzana,Castelnuovo di Garfagnana,10-10-2023,50,0,1,1,1
-Molazzana,Castelnuovo di Garfagnana,10-10-2023,61,0,0,1,1
-Molazzana,Castiglione di Garfagnana,10-10-2023,116,0,0,1,1
-Molazzana,Fabbriche di Vergemoli,10-10-2023,96,0,0,1,1
-Molazzana,Gallicano,10-10-2023,22,1,1,1,1
-Molazzana,Gallicano,10-10-2023,23,1,1,1,1
-Molazzana,Gallicano,10-10-2023,13,1,1,1,1
-Molazzana,Gallicano,10-10-2023,14,1,1,1,1
-Molazzana,Minucciano,10-10-2023,114,0,0,1,1
-Molazzana,Minucciano,10-10-2023,267,0,0,0,1
-Molazzana,Piazza al Serchio,10-10-2023,95,0,0,1,1
-Molazzana,Piazza al Serchio,10-10-2023,73,0,0,1,1
-Molazzana,Pieve Fosciana,10-10-2023,107,0,0,1,1
-Molazzana,Sillano Giuncugnano,10-10-2023,118,0,0,1,1
-Molazzana,Villa Collemandina,10-10-2023,147,0,0,0,1
-Molazzana,Bagni di Lucca,10-10-2023,50,0,1,1,1
-Molazzana,Barga,10-10-2023,54,0,1,1,1
-Molazzana,Barga,10-10-2023,52,0,1,1,1
-Molazzana,Barga,10-10-2023,50,0,1,1,1
-Molazzana,Barga,10-10-2023,43,0,1,1,1
-Molazzana,Borgo a Mozzano,10-10-2023,77,0,0,1,1
-Molazzana,Borgo a Mozzano,10-10-2023,51,0,1,1,1
-Molazzana,Pescaglia,10-10-2023,269,0,0,0,1
-Molazzana,Lucca,10-10-2023,105,0,0,1,1
-Molazzana,Lucca,10-10-2023,104,0,0,1,1
-Molazzana,Lucca,10-10-2023,84,0,0,1,1
-Piazza al Serchio,Camporgiano,10-01-2023,16,1,1,1,1
-Piazza al Serchio,Camporgiano,10-01-2023,17,1,1,1,1
-Piazza al Serchio,Camporgiano,10-10-2023,16,1,1,1,1
-Piazza al Serchio,Camporgiano,10-10-2023,17,1,1,1,1
-Piazza al Serchio,Camporgiano,10-10-2023,15,1,1,1,1
-Piazza al Serchio,Careggine,10-10-2023,70,0,0,1,1
-Piazza al Serchio,Careggine,10-10-2023,76,0,0,1,1
-Piazza al Serchio,Careggine,10-10-2023,85,0,0,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2023,36,0,1,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2023,35,0,1,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2023,37,0,1,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2023,38,0,1,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2023,37,0,1,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2023,35,0,1,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2023,33,0,1,1,1
-Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2023,31,0,1,1,1
-Piazza al Serchio,Castiglione di Garfagnana,10-10-2023,45,0,1,1,1
-Piazza al Serchio,Castiglione di Garfagnana,10-10-2023,52,0,1,1,1
-Piazza al Serchio,Castiglione di Garfagnana,10-10-2023,76,0,0,1,1
-Piazza al Serchio,Castiglione di Garfagnana,10-10-2023,74,0,0,1,1
-Piazza al Serchio,Castiglione di Garfagnana,10-10-2023,69,0,0,1,1
-Piazza al Serchio,Fabbriche di Vergemoli,10-10-2023,95,0,0,1,1
-Piazza al Serchio,Fabbriche di Vergemoli,10-10-2023,143,0,0,0,1
-Piazza al Serchio,Fabbriche di Vergemoli,10-10-2023,165,0,0,0,1
-Piazza al Serchio,Fabbriche di Vergemoli,10-10-2023,168,0,0,0,1
-Piazza al Serchio,Fabbriche di Vergemoli,10-10-2023,108,0,0,1,1
-Piazza al Serchio,Fabbriche di Vergemoli,10-10-2023,251,0,0,0,1
-Piazza al Serchio,Fosciandora,10-10-2023,55,0,1,1,1
-Piazza al Serchio,Fosciandora,10-10-2023,45,0,1,1,1
-Piazza al Serchio,Gallicano,10-01-2023,60,0,0,1,1
-Piazza al Serchio,Gallicano,10-10-2023,46,0,1,1,1
-Piazza al Serchio,Gallicano,10-10-2023,60,0,0,1,1
-Piazza al Serchio,Gallicano,10-10-2023,52,0,1,1,1
-Piazza al Serchio,Gallicano,10-10-2023,49,0,1,1,1
-Piazza al Serchio,Minucciano,10-10-2023,50,0,1,1,1
-Piazza al Serchio,Minucciano,10-10-2023,42,0,1,1,1
-Piazza al Serchio,Minucciano,10-10-2023,49,0,1,1,1
-Piazza al Serchio,Minucciano,10-10-2023,61,0,0,1,1
-Piazza al Serchio,Minucciano,10-10-2023,29,1,1,1,1
-Piazza al Serchio,Molazzana,10-10-2023,74,0,0,1,1
-Piazza al Serchio,Molazzana,10-10-2023,80,0,0,1,1
-Piazza al Serchio,Molazzana,10-10-2023,67,0,0,1,1
-Piazza al Serchio,Molazzana,10-10-2023,77,0,0,1,1
-Piazza al Serchio,Molazzana,10-10-2023,79,0,0,1,1
-Piazza al Serchio,San Romano in Garfagnana,10-10-2023,19,1,1,1,1
-Piazza al Serchio,San Romano in Garfagnana,10-10-2023,14,1,1,1,1
-Piazza al Serchio,Sillano Giuncugnano,10-10-2023,15,1,1,1,1
-Piazza al Serchio,Sillano Giuncugnano,10-10-2023,23,1,1,1,1
-Piazza al Serchio,Sillano Giuncugnano,10-10-2023,18,1,1,1,1
-Piazza al Serchio,Sillano Giuncugnano,10-10-2023,19,1,1,1,1
-Piazza al Serchio,Sillano Giuncugnano,10-10-2023,33,0,1,1,1
-Piazza al Serchio,Sillano Giuncugnano,10-10-2023,22,1,1,1,1
-Piazza al Serchio,Villa Collemandina,10-10-2023,50,0,1,1,1
-Piazza al Serchio,Villa Collemandina,10-10-2023,56,0,1,1,1
-Piazza al Serchio,Villa Collemandina,10-10-2023,82,0,0,1,1
-Piazza al Serchio,Bagni di Lucca,10-10-2023,68,0,0,1,1
-Piazza al Serchio,Bagni di Lucca,10-10-2023,64,0,0,1,1
-Piazza al Serchio,Bagni di Lucca,10-10-2023,60,0,0,1,1
-Piazza al Serchio,Barga,10-10-2023,54,0,1,1,1
-Piazza al Serchio,Barga,10-10-2023,63,0,0,1,1
-Piazza al Serchio,Barga,10-10-2023,68,0,0,1,1
-Piazza al Serchio,Barga,10-10-2023,71,0,0,1,1
-Piazza al Serchio,Barga,10-10-2023,62,0,0,1,1
-Piazza al Serchio,Barga,10-10-2023,61,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-01-2023,64,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-01-2023,58,0,1,1,1
-Piazza al Serchio,Borgo a Mozzano,10-01-2023,76,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-01-2023,69,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-01-2023,68,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-01-2023,65,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-10-2023,60,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-10-2023,58,0,1,1,1
-Piazza al Serchio,Borgo a Mozzano,10-10-2023,76,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-10-2023,66,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-10-2023,55,0,1,1,1
-Piazza al Serchio,Borgo a Mozzano,10-10-2023,62,0,0,1,1
-Piazza al Serchio,Borgo a Mozzano,10-10-2023,64,0,0,1,1
-Piazza al Serchio,Pescaglia,10-10-2023,90,0,0,1,1
-Piazza al Serchio,Pescaglia,10-10-2023,125,0,0,0,1
-Piazza al Serchio,Pescaglia,10-10-2023,190,0,0,0,1
-Piazza al Serchio,Pescaglia,10-10-2023,128,0,0,0,1
-Piazza al Serchio,Lucca,10-01-2023,90,0,0,1,1
-Piazza al Serchio,Lucca,10-01-2023,85,0,0,1,1
-Piazza al Serchio,Lucca,10-01-2023,106,0,0,1,1
-Piazza al Serchio,Lucca,10-01-2023,101,0,0,1,1
-Piazza al Serchio,Lucca,10-01-2023,98,0,0,1,1
-Piazza al Serchio,Lucca,10-10-2023,95,0,0,1,1
-Piazza al Serchio,Lucca,10-10-2023,85,0,0,1,1
-Piazza al Serchio,Lucca,10-10-2023,93,0,0,1,1
-Piazza al Serchio,Lucca,10-10-2023,88,0,0,1,1
-Piazza al Serchio,Lucca,10-10-2023,79,0,0,1,1
-Pieve Fosciana,Camporgiano,10-10-2023,71,0,0,1,1
-Pieve Fosciana,Camporgiano,10-10-2023,105,0,0,1,1
-Pieve Fosciana,Fabbriche di Vergemoli,10-10-2023,330,0,0,0,1
-Pieve Fosciana,Minucciano,10-10-2023,204,0,0,0,1
-Pieve Fosciana,Minucciano,10-10-2023,357,0,0,0,1
-Pieve Fosciana,Molazzana,10-10-2023,127,0,0,0,1
-Pieve Fosciana,Molazzana,10-10-2023,95,0,0,1,1
-Pieve Fosciana,Piazza al Serchio,10-10-2023,87,0,0,1,1
-Pieve Fosciana,Piazza al Serchio,10-10-2023,119,0,0,1,1
-Pieve Fosciana,San Romano in Garfagnana,10-10-2023,61,0,0,1,1
-Pieve Fosciana,Sillano Giuncugnano,10-10-2023,143,0,0,0,1
-San Romano in Garfagnana,Camporgiano,10-10-2023,10,1,1,1,1
-San Romano in Garfagnana,Camporgiano,10-10-2023,13,1,1,1,1
-San Romano in Garfagnana,Careggine,10-10-2023,101,0,0,1,1
-San Romano in Garfagnana,Careggine,10-10-2023,124,0,0,0,1
-San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2023,27,1,1,1,1
-San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2023,35,0,1,1,1
-San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2023,30,0,1,1,1
-San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2023,24,1,1,1,1
-San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2023,31,0,1,1,1
-San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2023,38,0,1,1,1
-San Romano in Garfagnana,Castiglione di Garfagnana,10-10-2023,46,0,1,1,1
-San Romano in Garfagnana,Castiglione di Garfagnana,10-10-2023,52,0,1,1,1
-San Romano in Garfagnana,Castiglione di Garfagnana,10-10-2023,64,0,0,1,1
-San Romano in Garfagnana,Castiglione di Garfagnana,10-10-2023,57,0,1,1,1
-San Romano in Garfagnana,Fabbriche di Vergemoli,10-10-2023,120,0,0,0,1
-San Romano in Garfagnana,Fabbriche di Vergemoli,10-10-2023,234,0,0,0,1
-San Romano in Garfagnana,Fosciandora,10-10-2023,62,0,0,1,1
-San Romano in Garfagnana,Fosciandora,10-10-2023,72,0,0,1,1
-San Romano in Garfagnana,Gallicano,10-10-2023,56,0,1,1,1
-San Romano in Garfagnana,Gallicano,10-10-2023,38,0,1,1,1
-San Romano in Garfagnana,Gallicano,10-10-2023,46,0,1,1,1
-San Romano in Garfagnana,Gallicano,10-10-2023,57,0,1,1,1
-San Romano in Garfagnana,Gallicano,10-10-2023,62,0,0,1,1
-San Romano in Garfagnana,Minucciano,10-10-2023,91,0,0,1,1
-San Romano in Garfagnana,Minucciano,10-10-2023,117,0,0,1,1
-San Romano in Garfagnana,Molazzana,10-10-2023,68,0,0,1,1
-San Romano in Garfagnana,Molazzana,10-10-2023,66,0,0,1,1
-San Romano in Garfagnana,Molazzana,10-10-2023,82,0,0,1,1
-San Romano in Garfagnana,Piazza al Serchio,10-10-2023,15,1,1,1,1
-San Romano in Garfagnana,Piazza al Serchio,10-10-2023,21,1,1,1,1
-San Romano in Garfagnana,Piazza al Serchio,10-10-2023,18,1,1,1,1
-San Romano in Garfagnana,Piazza al Serchio,10-10-2023,16,1,1,1,1
-San Romano in Garfagnana,Pieve Fosciana,10-10-2023,104,0,0,1,1
-San Romano in Garfagnana,Sillano Giuncugnano,10-10-2023,35,0,1,1,1
-San Romano in Garfagnana,Sillano Giuncugnano,10-10-2023,38,0,1,1,1
-San Romano in Garfagnana,Bagni di Lucca,10-10-2023,96,0,0,1,1
-San Romano in Garfagnana,Bagni di Lucca,10-10-2023,103,0,0,1,1
-San Romano in Garfagnana,Barga,10-10-2023,75,0,0,1,1
-San Romano in Garfagnana,Barga,10-10-2023,76,0,0,1,1
-San Romano in Garfagnana,Barga,10-10-2023,62,0,0,1,1
-San Romano in Garfagnana,Barga,10-10-2023,84,0,0,1,1
-San Romano in Garfagnana,Borgo a Mozzano,10-10-2023,84,0,0,1,1
-San Romano in Garfagnana,Borgo a Mozzano,10-10-2023,86,0,0,1,1
-San Romano in Garfagnana,Borgo a Mozzano,10-10-2023,79,0,0,1,1
-San Romano in Garfagnana,Borgo a Mozzano,10-10-2023,90,0,0,1,1
-San Romano in Garfagnana,Pescaglia,10-10-2023,114,0,0,1,1
-San Romano in Garfagnana,Lucca,10-10-2023,124,0,0,0,1
-San Romano in Garfagnana,Lucca,10-10-2023,111,0,0,1,1
-Sillano Giuncugnano,Camporgiano,10-10-2023,37,0,1,1,1
-Sillano Giuncugnano,Camporgiano,10-10-2023,71,0,0,1,1
-Sillano Giuncugnano,Camporgiano,10-10-2023,48,0,1,1,1
-Sillano Giuncugnano,Camporgiano,10-10-2023,50,0,1,1,1
-Sillano Giuncugnano,Camporgiano,10-10-2023,39,0,1,1,1
-Sillano Giuncugnano,Careggine,10-10-2023,185,0,0,0,1
-Sillano Giuncugnano,Careggine,10-10-2023,709,0,0,0,1
-Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2023,57,0,1,1,1
-Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2023,89,0,0,1,1
-Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2023,64,0,0,1,1
-Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2023,70,0,0,1,1
-Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2023,62,0,0,1,1
-Sillano Giuncugnano,Castiglione di Garfagnana,10-10-2023,72,0,0,1,1
-Sillano Giuncugnano,Fabbriche di Vergemoli,10-10-2023,258,0,0,0,1
-Sillano Giuncugnano,Fosciandora,10-10-2023,98,0,0,1,1
-Sillano Giuncugnano,Fosciandora,10-10-2023,113,0,0,1,1
-Sillano Giuncugnano,Gallicano,10-10-2023,73,0,0,1,1
-Sillano Giuncugnano,Gallicano,10-10-2023,105,0,0,1,1
-Sillano Giuncugnano,Gallicano,10-10-2023,89,0,0,1,1
-Sillano Giuncugnano,Gallicano,10-10-2023,86,0,0,1,1
-Sillano Giuncugnano,Gallicano,10-10-2023,83,0,0,1,1
-Sillano Giuncugnano,Minucciano,10-10-2023,91,0,0,1,1
-Sillano Giuncugnano,Minucciano,10-10-2023,132,0,0,0,1
-Sillano Giuncugnano,Minucciano,10-10-2023,145,0,0,0,1
-Sillano Giuncugnano,Minucciano,10-10-2023,54,0,1,1,1
-Sillano Giuncugnano,Molazzana,10-10-2023,103,0,0,1,1
-Sillano Giuncugnano,Piazza al Serchio,10-10-2023,19,1,1,1,1
-Sillano Giuncugnano,Piazza al Serchio,10-10-2023,15,1,1,1,1
-Sillano Giuncugnano,Piazza al Serchio,10-10-2023,21,1,1,1,1
-Sillano Giuncugnano,Piazza al Serchio,10-10-2023,13,1,1,1,1
-Sillano Giuncugnano,San Romano in Garfagnana,10-10-2023,28,1,1,1,1
-Sillano Giuncugnano,San Romano in Garfagnana,10-10-2023,51,0,1,1,1
-Sillano Giuncugnano,San Romano in Garfagnana,10-10-2023,76,0,0,1,1
-Sillano Giuncugnano,Bagni di Lucca,10-10-2023,89,0,0,1,1
-Sillano Giuncugnano,Barga,10-10-2023,76,0,0,1,1
-Sillano Giuncugnano,Barga,10-10-2023,83,0,0,1,1
-Sillano Giuncugnano,Barga,10-10-2023,93,0,0,1,1
-Sillano Giuncugnano,Borgo a Mozzano,10-10-2023,86,0,0,1,1
-Sillano Giuncugnano,Borgo a Mozzano,10-10-2023,112,0,0,1,1
-Sillano Giuncugnano,Borgo a Mozzano,10-10-2023,95,0,0,1,1
-Sillano Giuncugnano,Pescaglia,10-10-2023,239,0,0,0,1
-Sillano Giuncugnano,Lucca,10-10-2023,115,0,0,1,1
-Sillano Giuncugnano,Lucca,10-10-2023,139,0,0,0,1
-Sillano Giuncugnano,Lucca,10-10-2023,127,0,0,0,1
-Sillano Giuncugnano,Lucca,10-10-2023,121,0,0,0,1
-Sillano Giuncugnano,Lucca,10-10-2023,117,0,0,1,1
-Villa Collemandina,Camporgiano,10-10-2023,49,0,1,1,1
-Villa Collemandina,Camporgiano,10-10-2023,78,0,0,1,1
-Villa Collemandina,Camporgiano,10-10-2023,51,0,1,1,1
-Villa Collemandina,Camporgiano,10-10-2023,52,0,1,1,1
-Villa Collemandina,Castelnuovo di Garfagnana,10-10-2023,38,0,1,1,1
-Villa Collemandina,Castelnuovo di Garfagnana,10-10-2023,28,1,1,1,1
-Villa Collemandina,Castiglione di Garfagnana,10-10-2023,6,1,1,1,1
-Villa Collemandina,Fabbriche di Vergemoli,10-10-2023,148,0,0,0,1
-Villa Collemandina,Fosciandora,10-10-2023,64,0,0,1,1
-Villa Collemandina,Gallicano,10-10-2023,59,0,1,1,1
-Villa Collemandina,Gallicano,10-10-2023,70,0,0,1,1
-Villa Collemandina,Gallicano,10-10-2023,58,0,1,1,1
-Villa Collemandina,Minucciano,10-10-2023,156,0,0,0,1
-Villa Collemandina,Minucciano,10-10-2023,178,0,0,0,1
-Villa Collemandina,Molazzana,10-10-2023,79,0,0,1,1
-Villa Collemandina,Piazza al Serchio,10-10-2023,53,0,1,1,1
-Villa Collemandina,Piazza al Serchio,10-10-2023,64,0,0,1,1
-Villa Collemandina,Piazza al Serchio,10-10-2023,59,0,1,1,1
-Villa Collemandina,Piazza al Serchio,10-10-2023,57,0,1,1,1
-Villa Collemandina,Pieve Fosciana,10-10-2023,56,0,1,1,1
-Villa Collemandina,San Romano in Garfagnana,10-10-2023,45,0,1,1,1
-Villa Collemandina,Sillano Giuncugnano,10-10-2023,81,0,0,1,1
-Villa Collemandina,Sillano Giuncugnano,10-10-2023,96,0,0,1,1
-Villa Collemandina,Sillano Giuncugnano,10-10-2023,100,0,0,1,1
-Villa Collemandina,Barga,10-10-2023,53,0,1,1,1
-Villa Collemandina,Barga,10-10-2023,80,0,0,1,1
-Villa Collemandina,Barga,10-10-2023,63,0,0,1,1
-Villa Collemandina,Barga,10-10-2023,91,0,0,1,1
-Villa Collemandina,Borgo a Mozzano,10-10-2023,89,0,0,1,1
-Villa Collemandina,Borgo a Mozzano,10-10-2023,105,0,0,1,1
-Villa Collemandina,Borgo a Mozzano,10-10-2023,70,0,0,1,1
-Villa Collemandina,Lucca,10-10-2023,94,0,0,1,1
-Villa Collemandina,Lucca,10-10-2023,102,0,0,1,1
-Bagni di Lucca,Camporgiano,10-01-2023,71,0,0,1,1
-Bagni di Lucca,Camporgiano,10-10-2023,68,0,0,1,1
-Bagni di Lucca,Camporgiano,10-10-2023,64,0,0,1,1
-Bagni di Lucca,Camporgiano,10-10-2023,66,0,0,1,1
-Bagni di Lucca,Castelnuovo di Garfagnana,10-01-2023,66,0,0,1,1
-Bagni di Lucca,Castelnuovo di Garfagnana,10-10-2023,59,0,1,1,1
-Bagni di Lucca,Castelnuovo di Garfagnana,10-10-2023,58,0,1,1,1
-Bagni di Lucca,Castelnuovo di Garfagnana,10-10-2023,53,0,1,1,1
-Bagni di Lucca,Castelnuovo di Garfagnana,10-10-2023,61,0,0,1,1
-Bagni di Lucca,Castiglione di Garfagnana,10-10-2023,115,0,0,1,1
-Bagni di Lucca,Fabbriche di Vergemoli,10-10-2023,58,0,1,1,1
-Bagni di Lucca,Fabbriche di Vergemoli,10-10-2023,99,0,0,1,1
-Bagni di Lucca,Fabbriche di Vergemoli,10-10-2023,151,0,0,0,1
-Bagni di Lucca,Fabbriche di Vergemoli,10-10-2023,128,0,0,0,1
-Bagni di Lucca,Fosciandora,10-10-2023,102,0,0,1,1
-Bagni di Lucca,Gallicano,10-10-2023,46,0,1,1,1
-Bagni di Lucca,Gallicano,10-10-2023,50,0,1,1,1
-Bagni di Lucca,Minucciano,10-10-2023,192,0,0,0,1
-Bagni di Lucca,Piazza al Serchio,10-01-2023,74,0,0,1,1
-Bagni di Lucca,Piazza al Serchio,10-10-2023,71,0,0,1,1
-Bagni di Lucca,Piazza al Serchio,10-10-2023,70,0,0,1,1
-Bagni di Lucca,Piazza al Serchio,10-10-2023,73,0,0,1,1
-Bagni di Lucca,San Romano in Garfagnana,10-10-2023,74,0,0,1,1
-Bagni di Lucca,Sillano Giuncugnano,10-10-2023,114,0,0,1,1
-Bagni di Lucca,Villa Collemandina,10-10-2023,163,0,0,0,1
-Bagni di Lucca,Barga,10-10-2023,40,0,1,1,1
-Bagni di Lucca,Barga,10-10-2023,60,0,0,1,1
-Bagni di Lucca,Barga,10-10-2023,47,0,1,1,1
-Bagni di Lucca,Barga,10-10-2023,59,0,1,1,1
-Bagni di Lucca,Borgo a Mozzano,10-01-2023,28,1,1,1,1
-Bagni di Lucca,Borgo a Mozzano,10-10-2023,28,1,1,1,1
-Bagni di Lucca,Borgo a Mozzano,10-10-2023,26,1,1,1,1
-Bagni di Lucca,Pescaglia,10-10-2023,52,0,1,1,1
-Bagni di Lucca,Pescaglia,10-10-2023,81,0,0,1,1
-Bagni di Lucca,Pescaglia,10-10-2023,95,0,0,1,1
-Bagni di Lucca,Lucca,10-01-2023,60,0,0,1,1
-Bagni di Lucca,Lucca,10-10-2023,60,0,0,1,1
-Bagni di Lucca,Lucca,10-10-2023,57,0,1,1,1
-Barga,Camporgiano,10-10-2023,45,0,1,1,1
-Barga,Camporgiano,10-10-2023,56,0,1,1,1
-Barga,Camporgiano,10-10-2023,62,0,0,1,1
-Barga,Careggine,10-10-2023,87,0,0,1,1
-Barga,Careggine,10-10-2023,128,0,0,0,1
-Barga,Careggine,10-10-2023,71,0,0,1,1
-Barga,Castelnuovo di Garfagnana,10-10-2023,35,0,1,1,1
-Barga,Castelnuovo di Garfagnana,10-10-2023,42,0,1,1,1
-Barga,Castelnuovo di Garfagnana,10-10-2023,48,0,1,1,1
-Barga,Castelnuovo di Garfagnana,10-10-2023,37,0,1,1,1
-Barga,Castiglione di Garfagnana,10-10-2023,55,0,1,1,1
-Barga,Castiglione di Garfagnana,10-10-2023,112,0,0,1,1
-Barga,Fabbriche di Vergemoli,10-10-2023,53,0,1,1,1
-Barga,Fabbriche di Vergemoli,10-10-2023,126,0,0,0,1
-Barga,Fosciandora,10-10-2023,37,0,1,1,1
-Barga,Fosciandora,10-10-2023,57,0,1,1,1
-Barga,Gallicano,10-10-2023,17,1,1,1,1
-Barga,Gallicano,10-10-2023,31,0,1,1,1
-Barga,Minucciano,10-10-2023,100,0,0,1,1
-Barga,Minucciano,10-10-2023,120,0,0,0,1
-Barga,Minucciano,10-10-2023,189,0,0,0,1
-Barga,Minucciano,10-10-2023,229,0,0,0,1
-Barga,Molazzana,10-10-2023,36,0,1,1,1
-Barga,Molazzana,10-10-2023,39,0,1,1,1
-Barga,Molazzana,10-10-2023,47,0,1,1,1
-Barga,Molazzana,10-10-2023,60,0,0,1,1
-Barga,Piazza al Serchio,10-10-2023,50,0,1,1,1
-Barga,Piazza al Serchio,10-10-2023,84,0,0,1,1
-Barga,Piazza al Serchio,10-10-2023,61,0,0,1,1
-Barga,Piazza al Serchio,10-10-2023,60,0,0,1,1
-Barga,Piazza al Serchio,10-10-2023,67,0,0,1,1
-Barga,Pieve Fosciana,10-10-2023,93,0,0,1,1
-Barga,San Romano in Garfagnana,10-10-2023,53,0,1,1,1
-Barga,San Romano in Garfagnana,10-10-2023,58,0,1,1,1
-Barga,San Romano in Garfagnana,10-10-2023,70,0,0,1,1
-Barga,San Romano in Garfagnana,10-10-2023,77,0,0,1,1
-Barga,Sillano Giuncugnano,10-10-2023,89,0,0,1,1
-Barga,Sillano Giuncugnano,10-10-2023,90,0,0,1,1
-Barga,Sillano Giuncugnano,10-10-2023,104,0,0,1,1
-Barga,Sillano Giuncugnano,10-10-2023,110,0,0,1,1
-Barga,Villa Collemandina,10-10-2023,61,0,0,1,1
-Barga,Villa Collemandina,10-10-2023,113,0,0,1,1
-Barga,Villa Collemandina,10-10-2023,109,0,0,1,1
-Barga,Bagni di Lucca,10-10-2023,38,0,1,1,1
-Barga,Bagni di Lucca,10-10-2023,54,0,1,1,1
-Barga,Bagni di Lucca,10-10-2023,41,0,1,1,1
-Barga,Bagni di Lucca,10-10-2023,58,0,1,1,1
-Barga,Bagni di Lucca,10-10-2023,78,0,0,1,1
-Barga,Borgo a Mozzano,10-10-2023,40,0,1,1,1
-Barga,Borgo a Mozzano,10-10-2023,66,0,0,1,1
-Barga,Borgo a Mozzano,10-10-2023,44,0,1,1,1
-Barga,Pescaglia,10-10-2023,70,0,0,1,1
-Barga,Pescaglia,10-10-2023,121,0,0,0,1
-Barga,Pescaglia,10-10-2023,178,0,0,0,1
-Barga,Pescaglia,10-10-2023,153,0,0,0,1
-Barga,Lucca,10-10-2023,71,0,0,1,1
-Barga,Lucca,10-10-2023,93,0,0,1,1
-Barga,Lucca,10-10-2023,80,0,0,1,1
-Borgo a Mozzano,Camporgiano,10-01-2023,62,0,0,1,1
-Borgo a Mozzano,Camporgiano,10-01-2023,66,0,0,1,1
-Borgo a Mozzano,Camporgiano,10-01-2023,59,0,1,1,1
-Borgo a Mozzano,Camporgiano,10-10-2023,58,0,1,1,1
-Borgo a Mozzano,Camporgiano,10-10-2023,59,0,1,1,1
-Borgo a Mozzano,Camporgiano,10-10-2023,62,0,0,1,1
-Borgo a Mozzano,Camporgiano,10-10-2023,64,0,0,1,1
-Borgo a Mozzano,Camporgiano,10-10-2023,66,0,0,1,1
-Borgo a Mozzano,Careggine,10-10-2023,98,0,0,1,1
-Borgo a Mozzano,Careggine,10-10-2023,125,0,0,0,1
-Borgo a Mozzano,Careggine,10-10-2023,73,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,52,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,60,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,54,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,61,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2023,57,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2023,52,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2023,54,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2023,51,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2023,61,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2023,57,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2023,61,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2023,55,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2023,57,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2023,60,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2023,67,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2023,64,0,0,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2023,57,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2023,58,0,1,1,1
-Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2023,61,0,0,1,1
-Borgo a Mozzano,Castiglione di Garfagnana,10-10-2023,66,0,0,1,1
-Borgo a Mozzano,Castiglione di Garfagnana,10-10-2023,111,0,0,1,1
-Borgo a Mozzano,Castiglione di Garfagnana,10-10-2023,118,0,0,1,1
-Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2023,36,0,1,1,1
-Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2023,50,0,1,1,1
-Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2023,102,0,0,1,1
-Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2023,89,0,0,1,1
-Borgo a Mozzano,Fosciandora,10-10-2023,57,0,1,1,1
-Borgo a Mozzano,Fosciandora,10-10-2023,59,0,1,1,1
-Borgo a Mozzano,Gallicano,10-01-2023,39,0,1,1,1
-Borgo a Mozzano,Gallicano,10-10-2023,35,0,1,1,1
-Borgo a Mozzano,Gallicano,10-10-2023,39,0,1,1,1
-Borgo a Mozzano,Minucciano,10-10-2023,123,0,0,0,1
-Borgo a Mozzano,Minucciano,10-10-2023,131,0,0,0,1
-Borgo a Mozzano,Minucciano,10-10-2023,116,0,0,1,1
-Borgo a Mozzano,Minucciano,10-10-2023,190,0,0,0,1
-Borgo a Mozzano,Minucciano,10-10-2023,203,0,0,0,1
-Borgo a Mozzano,Molazzana,10-10-2023,57,0,1,1,1
-Borgo a Mozzano,Molazzana,10-10-2023,75,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-01-2023,67,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-01-2023,69,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-01-2023,66,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-01-2023,78,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-01-2023,65,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-01-2023,76,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-01-2023,70,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,65,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,66,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,78,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,76,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,71,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,70,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,69,0,0,1,1
-Borgo a Mozzano,Piazza al Serchio,10-10-2023,67,0,0,1,1
-Borgo a Mozzano,San Romano in Garfagnana,10-10-2023,69,0,0,1,1
-Borgo a Mozzano,San Romano in Garfagnana,10-10-2023,76,0,0,1,1
-Borgo a Mozzano,San Romano in Garfagnana,10-10-2023,72,0,0,1,1
-Borgo a Mozzano,Sillano Giuncugnano,10-10-2023,110,0,0,1,1
-Borgo a Mozzano,Sillano Giuncugnano,10-10-2023,112,0,0,1,1
-Borgo a Mozzano,Sillano Giuncugnano,10-10-2023,120,0,0,0,1
-Borgo a Mozzano,Sillano Giuncugnano,10-10-2023,122,0,0,0,1
-Borgo a Mozzano,Villa Collemandina,10-10-2023,72,0,0,1,1
-Borgo a Mozzano,Villa Collemandina,10-10-2023,110,0,0,1,1
-Borgo a Mozzano,Villa Collemandina,10-10-2023,163,0,0,0,1
-Borgo a Mozzano,Villa Collemandina,10-10-2023,95,0,0,1,1
-Borgo a Mozzano,Bagni di Lucca,10-01-2023,27,1,1,1,1
-Borgo a Mozzano,Bagni di Lucca,10-10-2023,26,1,1,1,1
-Borgo a Mozzano,Bagni di Lucca,10-10-2023,27,1,1,1,1
-Borgo a Mozzano,Barga,10-10-2023,41,0,1,1,1
-Borgo a Mozzano,Barga,10-10-2023,44,0,1,1,1
-Borgo a Mozzano,Barga,10-10-2023,42,0,1,1,1
-Borgo a Mozzano,Pescaglia,10-10-2023,39,0,1,1,1
-Borgo a Mozzano,Pescaglia,10-10-2023,57,0,1,1,1
-Borgo a Mozzano,Pescaglia,10-10-2023,79,0,0,1,1
-Borgo a Mozzano,Lucca,10-01-2023,41,0,1,1,1
-Borgo a Mozzano,Lucca,10-01-2023,42,0,1,1,1
-Borgo a Mozzano,Lucca,10-01-2023,45,0,1,1,1
-Borgo a Mozzano,Lucca,10-01-2023,52,0,1,1,1
-Borgo a Mozzano,Lucca,10-01-2023,48,0,1,1,1
-Borgo a Mozzano,Lucca,10-10-2023,44,0,1,1,1
-Borgo a Mozzano,Lucca,10-10-2023,42,0,1,1,1
-Borgo a Mozzano,Lucca,10-10-2023,53,0,1,1,1
-Borgo a Mozzano,Lucca,10-10-2023,49,0,1,1,1
-Borgo a Mozzano,Lucca,10-10-2023,43,0,1,1,1
-Borgo a Mozzano,Lucca,10-10-2023,41,0,1,1,1
-Borgo a Mozzano,Lucca,10-10-2023,47,0,1,1,1
-Borgo a Mozzano,Lucca,07-09-2023,41,0,1,1,1
-Borgo a Mozzano,Lucca,07-09-2023,42,0,1,1,1
-Borgo a Mozzano,Lucca,07-09-2023,43,0,1,1,1
-Borgo a Mozzano,Lucca,07-09-2023,52,0,1,1,1
-Borgo a Mozzano,Lucca,07-09-2023,46,0,1,1,1
-Borgo a Mozzano,Lucca,07-05-2023,47,0,1,1,1
-Borgo a Mozzano,Lucca,07-05-2023,42,0,1,1,1
-Borgo a Mozzano,Lucca,07-05-2023,45,0,1,1,1
-Borgo a Mozzano,Lucca,07-05-2023,51,0,1,1,1
-Borgo a Mozzano,Lucca,07-05-2023,43,0,1,1,1
-Pescaglia,Camporgiano,10-10-2023,127,0,0,0,1
-Pescaglia,Camporgiano,10-10-2023,132,0,0,0,1
-Pescaglia,Camporgiano,10-10-2023,291,0,0,0,1
-Pescaglia,Camporgiano,10-10-2023,89,0,0,1,1
-Pescaglia,Camporgiano,10-10-2023,256,0,0,0,1
-Pescaglia,Careggine,10-10-2023,199,0,0,0,1
-Pescaglia,Castelnuovo di Garfagnana,10-10-2023,106,0,0,1,1
-Pescaglia,Castelnuovo di Garfagnana,10-10-2023,202,0,0,0,1
-Pescaglia,Castelnuovo di Garfagnana,10-10-2023,76,0,0,1,1
-Pescaglia,Castelnuovo di Garfagnana,10-10-2023,174,0,0,0,1
-Pescaglia,Castiglione di Garfagnana,10-10-2023,175,0,0,0,1
-Pescaglia,Castiglione di Garfagnana,10-10-2023,252,0,0,0,1
-Pescaglia,Fabbriche di Vergemoli,10-10-2023,94,0,0,1,1
-Pescaglia,Fabbriche di Vergemoli,10-10-2023,122,0,0,0,1
-Pescaglia,Fabbriche di Vergemoli,10-10-2023,119,0,0,1,1
-Pescaglia,Gallicano,10-10-2023,174,0,0,0,1
-Pescaglia,Gallicano,10-10-2023,55,0,1,1,1
-Pescaglia,Gallicano,10-10-2023,120,0,0,0,1
-Pescaglia,Minucciano,10-10-2023,234,0,0,0,1
-Pescaglia,Minucciano,10-10-2023,258,0,0,0,1
-Pescaglia,Minucciano,10-10-2023,216,0,0,0,1
-Pescaglia,Minucciano,10-10-2023,393,0,0,0,1
-Pescaglia,Molazzana,10-10-2023,332,0,0,0,1
-Pescaglia,Piazza al Serchio,10-10-2023,130,0,0,0,1
-Pescaglia,Piazza al Serchio,10-10-2023,139,0,0,0,1
-Pescaglia,Piazza al Serchio,10-10-2023,298,0,0,0,1
-Pescaglia,Piazza al Serchio,10-10-2023,96,0,0,1,1
-Pescaglia,Piazza al Serchio,10-10-2023,259,0,0,0,1
-Pescaglia,San Romano in Garfagnana,10-10-2023,98,0,0,1,1
-Pescaglia,Sillano Giuncugnano,10-10-2023,173,0,0,0,1
-Pescaglia,Sillano Giuncugnano,10-10-2023,247,0,0,0,1
-Pescaglia,Sillano Giuncugnano,10-10-2023,137,0,0,0,1
-Pescaglia,Sillano Giuncugnano,10-10-2023,312,0,0,0,1
-Pescaglia,Villa Collemandina,10-10-2023,185,0,0,0,1
-Pescaglia,Villa Collemandina,10-10-2023,291,0,0,0,1
-Pescaglia,Bagni di Lucca,10-10-2023,98,0,0,1,1
-Pescaglia,Bagni di Lucca,10-10-2023,103,0,0,1,1
-Pescaglia,Bagni di Lucca,10-10-2023,65,0,0,1,1
-Pescaglia,Barga,10-10-2023,77,0,0,1,1
-Pescaglia,Barga,10-10-2023,245,0,0,0,1
-Pescaglia,Barga,10-10-2023,58,0,1,1,1
-Pescaglia,Barga,10-10-2023,112,0,0,1,1
-Pescaglia,Barga,10-10-2023,100,0,0,1,1
-Pescaglia,Borgo a Mozzano,10-10-2023,56,0,1,1,1
-Pescaglia,Borgo a Mozzano,10-10-2023,188,0,0,0,1
-Pescaglia,Borgo a Mozzano,10-10-2023,33,0,1,1,1
-Pescaglia,Borgo a Mozzano,10-10-2023,42,0,1,1,1
-Pescaglia,Borgo a Mozzano,10-10-2023,79,0,0,1,1
-Pescaglia,Lucca,10-10-2023,84,0,0,1,1
-Pescaglia,Lucca,10-10-2023,60,0,0,1,1
-Pescaglia,Lucca,10-10-2023,69,0,0,1,1
-Pescaglia,Lucca,10-10-2023,99,0,0,1,1
-Lucca,Camporgiano,10-01-2023,93,0,0,1,1
-Lucca,Camporgiano,10-01-2023,99,0,0,1,1
-Lucca,Camporgiano,10-01-2023,101,0,0,1,1
-Lucca,Camporgiano,10-01-2023,90,0,0,1,1
-Lucca,Camporgiano,10-10-2023,91,0,0,1,1
-Lucca,Camporgiano,10-10-2023,93,0,0,1,1
-Lucca,Camporgiano,10-10-2023,88,0,0,1,1
-Lucca,Camporgiano,10-10-2023,99,0,0,1,1
-Lucca,Camporgiano,10-10-2023,92,0,0,1,1
-Lucca,Careggine,10-10-2023,158,0,0,0,1
-Lucca,Careggine,10-10-2023,559,0,0,0,1
-Lucca,Careggine,10-10-2023,123,0,0,0,1
-Lucca,Castelnuovo di Garfagnana,10-10-2023,87,0,0,1,1
-Lucca,Castelnuovo di Garfagnana,10-10-2023,78,0,0,1,1
-Lucca,Castiglione di Garfagnana,10-10-2023,146,0,0,0,1
-Lucca,Castiglione di Garfagnana,10-10-2023,91,0,0,1,1
-Lucca,Castiglione di Garfagnana,10-10-2023,144,0,0,0,1
-Lucca,Fabbriche di Vergemoli,10-10-2023,90,0,0,1,1
-Lucca,Fabbriche di Vergemoli,10-10-2023,139,0,0,0,1
-Lucca,Fabbriche di Vergemoli,10-10-2023,183,0,0,0,1
-Lucca,Fosciandora,10-10-2023,84,0,0,1,1
-Lucca,Fosciandora,10-10-2023,99,0,0,1,1
-Lucca,Gallicano,10-10-2023,68,0,0,1,1
-Lucca,Gallicano,10-10-2023,74,0,0,1,1
-Lucca,Gallicano,10-10-2023,67,0,0,1,1
-Lucca,Gallicano,10-10-2023,71,0,0,1,1
-Lucca,Gallicano,10-10-2023,79,0,0,1,1
-Lucca,Minucciano,10-10-2023,149,0,0,0,1
-Lucca,Minucciano,10-10-2023,143,0,0,0,1
-Lucca,Minucciano,10-10-2023,218,0,0,0,1
-Lucca,Minucciano,10-10-2023,230,0,0,0,1
-Lucca,Minucciano,10-10-2023,157,0,0,0,1
-Lucca,Molazzana,10-10-2023,90,0,0,1,1
-Lucca,Molazzana,10-10-2023,110,0,0,1,1
-Lucca,Molazzana,10-10-2023,168,0,0,0,1
-Lucca,Piazza al Serchio,10-01-2023,96,0,0,1,1
-Lucca,Piazza al Serchio,10-01-2023,100,0,0,1,1
-Lucca,Piazza al Serchio,10-01-2023,102,0,0,1,1
-Lucca,Piazza al Serchio,10-01-2023,105,0,0,1,1
-Lucca,Piazza al Serchio,10-01-2023,93,0,0,1,1
-Lucca,Piazza al Serchio,10-10-2023,97,0,0,1,1
-Lucca,Piazza al Serchio,10-10-2023,98,0,0,1,1
-Lucca,Piazza al Serchio,10-10-2023,95,0,0,1,1
-Lucca,Piazza al Serchio,10-10-2023,102,0,0,1,1
-Lucca,Piazza al Serchio,10-10-2023,96,0,0,1,1
-Lucca,San Romano in Garfagnana,10-10-2023,101,0,0,1,1
-Lucca,San Romano in Garfagnana,10-10-2023,94,0,0,1,1
-Lucca,San Romano in Garfagnana,10-10-2023,99,0,0,1,1
-Lucca,Sillano Giuncugnano,10-10-2023,137,0,0,0,1
-Lucca,Sillano Giuncugnano,10-10-2023,147,0,0,0,1
-Lucca,Sillano Giuncugnano,10-10-2023,139,0,0,0,1
-Lucca,Sillano Giuncugnano,10-10-2023,148,0,0,0,1
-Lucca,Villa Collemandina,10-10-2023,97,0,0,1,1
-Lucca,Villa Collemandina,10-10-2023,198,0,0,0,1
-Lucca,Bagni di Lucca,10-01-2023,58,0,1,1,1
-Lucca,Bagni di Lucca,10-10-2023,55,0,1,1,1
-Lucca,Bagni di Lucca,10-10-2023,58,0,1,1,1
-Lucca,Bagni di Lucca,10-10-2023,53,0,1,1,1
-Lucca,Barga,10-10-2023,70,0,0,1,1
-Lucca,Barga,10-10-2023,72,0,0,1,1
-Lucca,Barga,10-10-2023,79,0,0,1,1
-Lucca,Barga,10-10-2023,69,0,0,1,1
-Lucca,Borgo a Mozzano,10-01-2023,42,0,1,1,1
-Lucca,Borgo a Mozzano,10-01-2023,41,0,1,1,1
-Lucca,Borgo a Mozzano,10-01-2023,49,0,1,1,1
-Lucca,Borgo a Mozzano,10-01-2023,50,0,1,1,1
-Lucca,Borgo a Mozzano,10-01-2023,43,0,1,1,1
-Lucca,Borgo a Mozzano,10-10-2023,40,0,1,1,1
-Lucca,Borgo a Mozzano,10-10-2023,41,0,1,1,1
-Lucca,Borgo a Mozzano,10-10-2023,42,0,1,1,1
-Lucca,Borgo a Mozzano,07-09-2023,42,0,1,1,1
-Lucca,Borgo a Mozzano,07-09-2023,41,0,1,1,1
-Lucca,Borgo a Mozzano,07-09-2023,49,0,1,1,1
-Lucca,Borgo a Mozzano,07-09-2023,45,0,1,1,1
-Lucca,Borgo a Mozzano,07-09-2023,43,0,1,1,1
-Lucca,Borgo a Mozzano,07-05-2023,41,0,1,1,1
-Lucca,Borgo a Mozzano,07-05-2023,43,0,1,1,1
-Lucca,Borgo a Mozzano,07-05-2023,49,0,1,1,1
-Lucca,Borgo a Mozzano,07-05-2023,42,0,1,1,1
-Lucca,Pescaglia,10-10-2023,61,0,0,1,1
-Lucca,Pescaglia,10-10-2023,57,0,1,1,1
-Lucca,Pescaglia,10-10-2023,63,0,0,1,1
-Lucca,Pescaglia,10-10-2023,49,0,1,1,1
-Lucca,Pescaglia,10-10-2023,131,0,0,0,1
+Camporgiano,Castelnuovo di Garfagnana,10-01-2024,23,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,10-01-2024,21,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,10-10-2024,23,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,10-10-2024,21,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-09-2024,23,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-09-2024,35,0,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-09-2024,21,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-09-2024,20,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-05-2024,23,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-05-2024,35,0,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-05-2024,21,1,1,1,1
+Camporgiano,Castelnuovo di Garfagnana,07-05-2024,20,1,1,1,1
+Camporgiano,Castiglione di Garfagnana,10-01-2024,43,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,10-01-2024,54,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,10-10-2024,43,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,10-10-2024,54,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,07-09-2024,48,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,07-09-2024,110,0,0,1,1
+Camporgiano,Castiglione di Garfagnana,07-09-2024,59,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,07-09-2024,69,0,0,1,1
+Camporgiano,Castiglione di Garfagnana,07-05-2024,48,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,07-05-2024,110,0,0,1,1
+Camporgiano,Castiglione di Garfagnana,07-05-2024,59,0,1,1,1
+Camporgiano,Castiglione di Garfagnana,07-05-2024,69,0,0,1,1
+Camporgiano,Fabbriche di Vergemoli,10-01-2024,93,0,0,1,1
+Camporgiano,Fabbriche di Vergemoli,10-01-2024,141,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-01-2024,235,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-01-2024,161,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-01-2024,166,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-10-2024,93,0,0,1,1
+Camporgiano,Fabbriche di Vergemoli,10-10-2024,134,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-10-2024,141,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-10-2024,235,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-10-2024,161,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,10-10-2024,166,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,07-09-2024,268,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,07-09-2024,217,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,07-05-2024,268,0,0,0,1
+Camporgiano,Fabbriche di Vergemoli,07-05-2024,217,0,0,0,1
+Camporgiano,Gallicano,10-01-2024,44,0,1,1,1
+Camporgiano,Gallicano,10-01-2024,54,0,1,1,1
+Camporgiano,Gallicano,10-01-2024,45,0,1,1,1
+Camporgiano,Gallicano,10-01-2024,47,0,1,1,1
+Camporgiano,Gallicano,10-10-2024,44,0,1,1,1
+Camporgiano,Gallicano,10-10-2024,54,0,1,1,1
+Camporgiano,Gallicano,10-10-2024,45,0,1,1,1
+Camporgiano,Gallicano,10-10-2024,47,0,1,1,1
+Camporgiano,Gallicano,07-09-2024,50,0,1,1,1
+Camporgiano,Gallicano,07-09-2024,44,0,1,1,1
+Camporgiano,Gallicano,07-09-2024,54,0,1,1,1
+Camporgiano,Gallicano,07-09-2024,38,0,1,1,1
+Camporgiano,Gallicano,07-05-2024,50,0,1,1,1
+Camporgiano,Gallicano,07-05-2024,44,0,1,1,1
+Camporgiano,Gallicano,07-05-2024,54,0,1,1,1
+Camporgiano,Gallicano,07-05-2024,38,0,1,1,1
+Camporgiano,Minucciano,10-01-2024,78,0,0,1,1
+Camporgiano,Minucciano,10-01-2024,69,0,0,1,1
+Camporgiano,Minucciano,10-01-2024,60,0,0,1,1
+Camporgiano,Minucciano,10-01-2024,58,0,1,1,1
+Camporgiano,Minucciano,10-01-2024,109,0,0,1,1
+Camporgiano,Minucciano,10-10-2024,78,0,0,1,1
+Camporgiano,Minucciano,10-10-2024,69,0,0,1,1
+Camporgiano,Minucciano,10-10-2024,60,0,0,1,1
+Camporgiano,Minucciano,10-10-2024,58,0,1,1,1
+Camporgiano,Minucciano,10-10-2024,109,0,0,1,1
+Camporgiano,Minucciano,07-09-2024,62,0,0,1,1
+Camporgiano,Minucciano,07-09-2024,63,0,0,1,1
+Camporgiano,Minucciano,07-09-2024,77,0,0,1,1
+Camporgiano,Minucciano,07-05-2024,62,0,0,1,1
+Camporgiano,Minucciano,07-05-2024,63,0,0,1,1
+Camporgiano,Minucciano,07-05-2024,77,0,0,1,1
+Camporgiano,Molazzana,10-01-2024,72,0,0,1,1
+Camporgiano,Molazzana,10-01-2024,65,0,0,1,1
+Camporgiano,Molazzana,10-10-2024,72,0,0,1,1
+Camporgiano,Molazzana,10-10-2024,65,0,0,1,1
+Camporgiano,Piazza al Serchio,10-01-2024,17,1,1,1,1
+Camporgiano,Piazza al Serchio,10-10-2024,17,1,1,1,1
+Camporgiano,Piazza al Serchio,07-09-2024,17,1,1,1,1
+Camporgiano,Piazza al Serchio,07-05-2024,17,1,1,1,1
+Camporgiano,San Romano in Garfagnana,10-01-2024,14,1,1,1,1
+Camporgiano,San Romano in Garfagnana,10-01-2024,25,1,1,1,1
+Camporgiano,San Romano in Garfagnana,10-01-2024,20,1,1,1,1
+Camporgiano,San Romano in Garfagnana,10-10-2024,17,1,1,1,1
+Camporgiano,San Romano in Garfagnana,10-10-2024,31,0,1,1,1
+Camporgiano,San Romano in Garfagnana,10-10-2024,25,1,1,1,1
+Camporgiano,San Romano in Garfagnana,07-09-2024,26,1,1,1,1
+Camporgiano,San Romano in Garfagnana,07-05-2024,26,1,1,1,1
+Camporgiano,Sillano Giuncugnano,10-01-2024,54,0,1,1,1
+Camporgiano,Sillano Giuncugnano,10-01-2024,61,0,0,1,1
+Camporgiano,Sillano Giuncugnano,10-01-2024,51,0,1,1,1
+Camporgiano,Sillano Giuncugnano,10-10-2024,54,0,1,1,1
+Camporgiano,Sillano Giuncugnano,10-10-2024,81,0,0,1,1
+Camporgiano,Sillano Giuncugnano,10-10-2024,51,0,1,1,1
+Camporgiano,Sillano Giuncugnano,07-09-2024,29,1,1,1,1
+Camporgiano,Sillano Giuncugnano,07-09-2024,28,1,1,1,1
+Camporgiano,Sillano Giuncugnano,07-05-2024,29,1,1,1,1
+Camporgiano,Sillano Giuncugnano,07-05-2024,28,1,1,1,1
+Camporgiano,Villa Collemandina,10-01-2024,48,0,1,1,1
+Camporgiano,Villa Collemandina,10-01-2024,111,0,0,1,1
+Camporgiano,Villa Collemandina,10-10-2024,48,0,1,1,1
+Camporgiano,Villa Collemandina,10-10-2024,111,0,0,1,1
+Camporgiano,Villa Collemandina,07-09-2024,112,0,0,1,1
+Camporgiano,Villa Collemandina,07-09-2024,82,0,0,1,1
+Camporgiano,Villa Collemandina,07-05-2024,112,0,0,1,1
+Camporgiano,Villa Collemandina,07-05-2024,82,0,0,1,1
+Camporgiano,Bagni di Lucca,10-01-2024,81,0,0,1,1
+Camporgiano,Bagni di Lucca,10-01-2024,66,0,0,1,1
+Camporgiano,Bagni di Lucca,10-01-2024,71,0,0,1,1
+Camporgiano,Bagni di Lucca,10-10-2024,81,0,0,1,1
+Camporgiano,Bagni di Lucca,10-10-2024,66,0,0,1,1
+Camporgiano,Bagni di Lucca,10-10-2024,71,0,0,1,1
+Camporgiano,Bagni di Lucca,07-09-2024,70,0,0,1,1
+Camporgiano,Bagni di Lucca,07-09-2024,71,0,0,1,1
+Camporgiano,Bagni di Lucca,07-05-2024,70,0,0,1,1
+Camporgiano,Bagni di Lucca,07-05-2024,71,0,0,1,1
+Camporgiano,Barga,10-01-2024,49,0,1,1,1
+Camporgiano,Barga,10-01-2024,65,0,0,1,1
+Camporgiano,Barga,10-01-2024,59,0,1,1,1
+Camporgiano,Barga,10-01-2024,56,0,1,1,1
+Camporgiano,Barga,10-01-2024,51,0,1,1,1
+Camporgiano,Barga,10-10-2024,49,0,1,1,1
+Camporgiano,Barga,10-10-2024,65,0,0,1,1
+Camporgiano,Barga,10-10-2024,59,0,1,1,1
+Camporgiano,Barga,10-10-2024,56,0,1,1,1
+Camporgiano,Barga,10-10-2024,51,0,1,1,1
+Camporgiano,Barga,07-09-2024,43,0,1,1,1
+Camporgiano,Barga,07-09-2024,52,0,1,1,1
+Camporgiano,Barga,07-09-2024,44,0,1,1,1
+Camporgiano,Barga,07-05-2024,43,0,1,1,1
+Camporgiano,Barga,07-05-2024,52,0,1,1,1
+Camporgiano,Barga,07-05-2024,44,0,1,1,1
+Camporgiano,Borgo a Mozzano,10-01-2024,58,0,1,1,1
+Camporgiano,Borgo a Mozzano,10-01-2024,56,0,1,1,1
+Camporgiano,Borgo a Mozzano,10-01-2024,64,0,0,1,1
+Camporgiano,Borgo a Mozzano,10-01-2024,60,0,0,1,1
+Camporgiano,Borgo a Mozzano,10-01-2024,62,0,0,1,1
+Camporgiano,Borgo a Mozzano,10-10-2024,58,0,1,1,1
+Camporgiano,Borgo a Mozzano,10-10-2024,56,0,1,1,1
+Camporgiano,Borgo a Mozzano,10-10-2024,64,0,0,1,1
+Camporgiano,Borgo a Mozzano,10-10-2024,60,0,0,1,1
+Camporgiano,Borgo a Mozzano,10-10-2024,62,0,0,1,1
+Camporgiano,Borgo a Mozzano,07-09-2024,58,0,1,1,1
+Camporgiano,Borgo a Mozzano,07-09-2024,56,0,1,1,1
+Camporgiano,Borgo a Mozzano,07-09-2024,64,0,0,1,1
+Camporgiano,Borgo a Mozzano,07-09-2024,60,0,0,1,1
+Camporgiano,Borgo a Mozzano,07-09-2024,62,0,0,1,1
+Camporgiano,Borgo a Mozzano,07-05-2024,58,0,1,1,1
+Camporgiano,Borgo a Mozzano,07-05-2024,56,0,1,1,1
+Camporgiano,Borgo a Mozzano,07-05-2024,64,0,0,1,1
+Camporgiano,Borgo a Mozzano,07-05-2024,60,0,0,1,1
+Camporgiano,Borgo a Mozzano,07-05-2024,62,0,0,1,1
+Camporgiano,Pescaglia,10-01-2024,88,0,0,1,1
+Camporgiano,Pescaglia,10-01-2024,123,0,0,0,1
+Camporgiano,Pescaglia,10-01-2024,206,0,0,0,1
+Camporgiano,Pescaglia,10-01-2024,126,0,0,0,1
+Camporgiano,Pescaglia,10-01-2024,222,0,0,0,1
+Camporgiano,Pescaglia,10-10-2024,88,0,0,1,1
+Camporgiano,Pescaglia,10-10-2024,123,0,0,0,1
+Camporgiano,Pescaglia,10-10-2024,206,0,0,0,1
+Camporgiano,Pescaglia,10-10-2024,126,0,0,0,1
+Camporgiano,Pescaglia,10-10-2024,222,0,0,0,1
+Camporgiano,Pescaglia,07-09-2024,88,0,0,1,1
+Camporgiano,Pescaglia,07-09-2024,121,0,0,0,1
+Camporgiano,Pescaglia,07-09-2024,173,0,0,0,1
+Camporgiano,Pescaglia,07-05-2024,88,0,0,1,1
+Camporgiano,Pescaglia,07-05-2024,121,0,0,0,1
+Camporgiano,Pescaglia,07-05-2024,173,0,0,0,1
+Camporgiano,Lucca,10-01-2024,91,0,0,1,1
+Camporgiano,Lucca,10-01-2024,93,0,0,1,1
+Camporgiano,Lucca,10-01-2024,83,0,0,1,1
+Camporgiano,Lucca,10-01-2024,107,0,0,1,1
+Camporgiano,Lucca,10-01-2024,97,0,0,1,1
+Camporgiano,Lucca,10-01-2024,94,0,0,1,1
+Camporgiano,Lucca,10-01-2024,86,0,0,1,1
+Camporgiano,Lucca,10-01-2024,92,0,0,1,1
+Camporgiano,Lucca,10-10-2024,91,0,0,1,1
+Camporgiano,Lucca,10-10-2024,93,0,0,1,1
+Camporgiano,Lucca,10-10-2024,83,0,0,1,1
+Camporgiano,Lucca,10-10-2024,107,0,0,1,1
+Camporgiano,Lucca,10-10-2024,97,0,0,1,1
+Camporgiano,Lucca,10-10-2024,94,0,0,1,1
+Camporgiano,Lucca,10-10-2024,86,0,0,1,1
+Camporgiano,Lucca,10-10-2024,92,0,0,1,1
+Camporgiano,Lucca,07-09-2024,91,0,0,1,1
+Camporgiano,Lucca,07-09-2024,95,0,0,1,1
+Camporgiano,Lucca,07-09-2024,83,0,0,1,1
+Camporgiano,Lucca,07-09-2024,107,0,0,1,1
+Camporgiano,Lucca,07-09-2024,97,0,0,1,1
+Camporgiano,Lucca,07-09-2024,94,0,0,1,1
+Camporgiano,Lucca,07-09-2024,86,0,0,1,1
+Camporgiano,Lucca,07-09-2024,92,0,0,1,1
+Camporgiano,Lucca,07-05-2024,91,0,0,1,1
+Camporgiano,Lucca,07-05-2024,95,0,0,1,1
+Camporgiano,Lucca,07-05-2024,83,0,0,1,1
+Camporgiano,Lucca,07-05-2024,107,0,0,1,1
+Camporgiano,Lucca,07-05-2024,97,0,0,1,1
+Camporgiano,Lucca,07-05-2024,94,0,0,1,1
+Camporgiano,Lucca,07-05-2024,86,0,0,1,1
+Camporgiano,Lucca,07-05-2024,92,0,0,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-01-2024,23,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-01-2024,27,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-01-2024,22,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-01-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-10-2024,23,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-10-2024,27,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-10-2024,22,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,10-10-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,07-09-2024,23,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,07-09-2024,26,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,07-09-2024,22,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,07-05-2024,23,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,07-05-2024,26,1,1,1,1
+Castelnuovo di Garfagnana,Camporgiano,07-05-2024,22,1,1,1,1
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-01-2024,23,1,1,1,1
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,10-10-2024,23,1,1,1,1
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,07-09-2024,31,0,1,1,1
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,07-09-2024,36,0,1,1,1
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,07-05-2024,31,0,1,1,1
+Castelnuovo di Garfagnana,Castiglione di Garfagnana,07-05-2024,36,0,1,1,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-01-2024,82,0,0,1,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-01-2024,120,0,0,0,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-01-2024,77,0,0,1,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-01-2024,122,0,0,0,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2024,82,0,0,1,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2024,120,0,0,0,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2024,77,0,0,1,1
+Castelnuovo di Garfagnana,Fabbriche di Vergemoli,10-10-2024,122,0,0,0,1
+Castelnuovo di Garfagnana,Fosciandora,07-09-2024,31,0,1,1,1
+Castelnuovo di Garfagnana,Fosciandora,07-05-2024,31,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,10-01-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,10-01-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,10-01-2024,30,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,10-10-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,10-10-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,10-10-2024,30,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,07-09-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,07-09-2024,30,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,07-05-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Gallicano,07-05-2024,30,0,1,1,1
+Castelnuovo di Garfagnana,Minucciano,10-01-2024,89,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,10-01-2024,98,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,10-01-2024,79,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,10-01-2024,152,0,0,0,1
+Castelnuovo di Garfagnana,Minucciano,10-01-2024,122,0,0,0,1
+Castelnuovo di Garfagnana,Minucciano,10-10-2024,89,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,10-10-2024,98,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,10-10-2024,79,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,10-10-2024,152,0,0,0,1
+Castelnuovo di Garfagnana,Minucciano,10-10-2024,122,0,0,0,1
+Castelnuovo di Garfagnana,Minucciano,07-09-2024,86,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,07-09-2024,83,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,07-09-2024,88,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,07-05-2024,86,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,07-05-2024,83,0,0,1,1
+Castelnuovo di Garfagnana,Minucciano,07-05-2024,88,0,0,1,1
+Castelnuovo di Garfagnana,Molazzana,10-01-2024,56,0,1,1,1
+Castelnuovo di Garfagnana,Molazzana,10-01-2024,45,0,1,1,1
+Castelnuovo di Garfagnana,Molazzana,10-10-2024,56,0,1,1,1
+Castelnuovo di Garfagnana,Molazzana,10-10-2024,45,0,1,1,1
+Castelnuovo di Garfagnana,Molazzana,07-09-2024,53,0,1,1,1
+Castelnuovo di Garfagnana,Molazzana,07-05-2024,53,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2024,36,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2024,39,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2024,40,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-01-2024,38,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-10-2024,36,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-10-2024,39,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-10-2024,40,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,10-10-2024,38,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,07-09-2024,39,0,1,1,1
+Castelnuovo di Garfagnana,Piazza al Serchio,07-05-2024,39,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-01-2024,32,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-01-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-01-2024,18,1,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-01-2024,38,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2024,32,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2024,18,1,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,10-10-2024,38,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-09-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-09-2024,33,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-09-2024,47,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-09-2024,32,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-09-2024,29,1,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-05-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-05-2024,33,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-05-2024,47,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-05-2024,32,0,1,1,1
+Castelnuovo di Garfagnana,San Romano in Garfagnana,07-05-2024,29,1,1,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,10-01-2024,83,0,0,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,10-01-2024,67,0,0,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,10-01-2024,80,0,0,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,10-10-2024,103,0,0,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,10-10-2024,67,0,0,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,10-10-2024,80,0,0,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,07-09-2024,52,0,1,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,07-09-2024,48,0,1,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,07-05-2024,52,0,1,1,1
+Castelnuovo di Garfagnana,Sillano Giuncugnano,07-05-2024,48,0,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,10-01-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,10-01-2024,33,0,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,10-10-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,10-10-2024,33,0,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,07-09-2024,38,0,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,07-09-2024,29,1,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,07-05-2024,38,0,1,1,1
+Castelnuovo di Garfagnana,Villa Collemandina,07-05-2024,29,1,1,1,1
+Castelnuovo di Garfagnana,Bagni di Lucca,10-01-2024,62,0,0,1,1
+Castelnuovo di Garfagnana,Bagni di Lucca,10-10-2024,62,0,0,1,1
+Castelnuovo di Garfagnana,Bagni di Lucca,07-09-2024,64,0,0,1,1
+Castelnuovo di Garfagnana,Bagni di Lucca,07-05-2024,64,0,0,1,1
+Castelnuovo di Garfagnana,Barga,10-01-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,Barga,10-01-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Barga,10-01-2024,39,0,1,1,1
+Castelnuovo di Garfagnana,Barga,10-01-2024,62,0,0,1,1
+Castelnuovo di Garfagnana,Barga,10-01-2024,54,0,1,1,1
+Castelnuovo di Garfagnana,Barga,10-10-2024,34,0,1,1,1
+Castelnuovo di Garfagnana,Barga,10-10-2024,35,0,1,1,1
+Castelnuovo di Garfagnana,Barga,10-10-2024,39,0,1,1,1
+Castelnuovo di Garfagnana,Barga,10-10-2024,62,0,0,1,1
+Castelnuovo di Garfagnana,Barga,10-10-2024,54,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-09-2024,40,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-09-2024,44,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-09-2024,47,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-09-2024,42,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-09-2024,41,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-05-2024,40,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-05-2024,44,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-05-2024,47,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-05-2024,42,0,1,1,1
+Castelnuovo di Garfagnana,Barga,07-05-2024,41,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2024,53,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2024,54,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2024,51,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2024,55,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-01-2024,56,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2024,53,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2024,54,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2024,51,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2024,55,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,10-10-2024,56,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2024,54,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2024,51,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2024,57,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2024,53,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2024,55,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-09-2024,56,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2024,54,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2024,51,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2024,57,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2024,53,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2024,55,0,1,1,1
+Castelnuovo di Garfagnana,Borgo a Mozzano,07-05-2024,56,0,1,1,1
+Castelnuovo di Garfagnana,Pescaglia,10-01-2024,77,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,10-01-2024,119,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,10-01-2024,188,0,0,0,1
+Castelnuovo di Garfagnana,Pescaglia,10-01-2024,122,0,0,0,1
+Castelnuovo di Garfagnana,Pescaglia,10-10-2024,77,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,10-10-2024,119,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,10-10-2024,188,0,0,0,1
+Castelnuovo di Garfagnana,Pescaglia,10-10-2024,122,0,0,0,1
+Castelnuovo di Garfagnana,Pescaglia,07-09-2024,82,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,07-09-2024,117,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,07-09-2024,169,0,0,0,1
+Castelnuovo di Garfagnana,Pescaglia,07-05-2024,82,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,07-05-2024,117,0,0,1,1
+Castelnuovo di Garfagnana,Pescaglia,07-05-2024,169,0,0,0,1
+Castelnuovo di Garfagnana,Lucca,10-01-2024,73,0,0,1,1
+Castelnuovo di Garfagnana,Lucca,10-10-2024,73,0,0,1,1
+Castiglione di Garfagnana,Camporgiano,10-01-2024,46,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,10-01-2024,84,0,0,1,1
+Castiglione di Garfagnana,Camporgiano,10-01-2024,55,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,10-01-2024,58,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,10-01-2024,53,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,10-10-2024,46,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,10-10-2024,84,0,0,1,1
+Castiglione di Garfagnana,Camporgiano,10-10-2024,55,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,10-10-2024,58,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,10-10-2024,53,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,07-09-2024,59,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,07-09-2024,52,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,07-05-2024,59,0,1,1,1
+Castiglione di Garfagnana,Camporgiano,07-05-2024,52,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-01-2024,27,1,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-01-2024,30,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-01-2024,34,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-01-2024,35,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2024,27,1,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2024,30,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2024,34,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,10-10-2024,35,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,07-09-2024,31,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,07-09-2024,30,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,07-05-2024,31,0,1,1,1
+Castiglione di Garfagnana,Castelnuovo di Garfagnana,07-05-2024,30,0,1,1,1
+Castiglione di Garfagnana,Fabbriche di Vergemoli,10-01-2024,102,0,0,1,1
+Castiglione di Garfagnana,Fabbriche di Vergemoli,10-01-2024,224,0,0,0,1
+Castiglione di Garfagnana,Fabbriche di Vergemoli,10-10-2024,102,0,0,1,1
+Castiglione di Garfagnana,Fabbriche di Vergemoli,10-10-2024,178,0,0,0,1
+Castiglione di Garfagnana,Fabbriche di Vergemoli,10-10-2024,224,0,0,0,1
+Castiglione di Garfagnana,Fabbriche di Vergemoli,07-09-2024,360,0,0,0,1
+Castiglione di Garfagnana,Fabbriche di Vergemoli,07-05-2024,360,0,0,0,1
+Castiglione di Garfagnana,Fosciandora,07-09-2024,45,0,1,1,1
+Castiglione di Garfagnana,Fosciandora,07-05-2024,45,0,1,1,1
+Castiglione di Garfagnana,Gallicano,10-01-2024,58,0,1,1,1
+Castiglione di Garfagnana,Gallicano,10-01-2024,127,0,0,0,1
+Castiglione di Garfagnana,Gallicano,10-01-2024,61,0,0,1,1
+Castiglione di Garfagnana,Gallicano,10-01-2024,55,0,1,1,1
+Castiglione di Garfagnana,Gallicano,10-10-2024,58,0,1,1,1
+Castiglione di Garfagnana,Gallicano,10-10-2024,127,0,0,0,1
+Castiglione di Garfagnana,Gallicano,10-10-2024,61,0,0,1,1
+Castiglione di Garfagnana,Gallicano,10-10-2024,55,0,1,1,1
+Castiglione di Garfagnana,Gallicano,07-09-2024,44,0,1,1,1
+Castiglione di Garfagnana,Gallicano,07-09-2024,64,0,0,1,1
+Castiglione di Garfagnana,Gallicano,07-09-2024,56,0,1,1,1
+Castiglione di Garfagnana,Gallicano,07-05-2024,44,0,1,1,1
+Castiglione di Garfagnana,Gallicano,07-05-2024,64,0,0,1,1
+Castiglione di Garfagnana,Gallicano,07-05-2024,56,0,1,1,1
+Castiglione di Garfagnana,Minucciano,10-01-2024,117,0,0,1,1
+Castiglione di Garfagnana,Minucciano,10-01-2024,153,0,0,0,1
+Castiglione di Garfagnana,Minucciano,10-01-2024,210,0,0,0,1
+Castiglione di Garfagnana,Minucciano,10-01-2024,100,0,0,1,1
+Castiglione di Garfagnana,Minucciano,10-01-2024,185,0,0,0,1
+Castiglione di Garfagnana,Minucciano,10-10-2024,117,0,0,1,1
+Castiglione di Garfagnana,Minucciano,10-10-2024,153,0,0,0,1
+Castiglione di Garfagnana,Minucciano,10-10-2024,210,0,0,0,1
+Castiglione di Garfagnana,Minucciano,10-10-2024,100,0,0,1,1
+Castiglione di Garfagnana,Minucciano,10-10-2024,185,0,0,0,1
+Castiglione di Garfagnana,Minucciano,07-09-2024,154,0,0,0,1
+Castiglione di Garfagnana,Minucciano,07-09-2024,114,0,0,1,1
+Castiglione di Garfagnana,Minucciano,07-05-2024,154,0,0,0,1
+Castiglione di Garfagnana,Minucciano,07-05-2024,114,0,0,1,1
+Castiglione di Garfagnana,Molazzana,10-01-2024,81,0,0,1,1
+Castiglione di Garfagnana,Molazzana,10-10-2024,81,0,0,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-01-2024,49,0,1,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-01-2024,89,0,0,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-01-2024,59,0,1,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-01-2024,63,0,0,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-01-2024,57,0,1,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-10-2024,49,0,1,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-10-2024,89,0,0,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-10-2024,59,0,1,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-10-2024,63,0,0,1,1
+Castiglione di Garfagnana,Piazza al Serchio,10-10-2024,57,0,1,1,1
+Castiglione di Garfagnana,Piazza al Serchio,07-09-2024,63,0,0,1,1
+Castiglione di Garfagnana,Piazza al Serchio,07-09-2024,57,0,1,1,1
+Castiglione di Garfagnana,Piazza al Serchio,07-05-2024,63,0,0,1,1
+Castiglione di Garfagnana,Piazza al Serchio,07-05-2024,57,0,1,1,1
+Castiglione di Garfagnana,Pieve Fosciana,07-09-2024,42,0,1,1,1
+Castiglione di Garfagnana,Pieve Fosciana,07-09-2024,80,0,0,1,1
+Castiglione di Garfagnana,Pieve Fosciana,07-05-2024,42,0,1,1,1
+Castiglione di Garfagnana,Pieve Fosciana,07-05-2024,80,0,0,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,10-01-2024,54,0,1,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,10-01-2024,67,0,0,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,10-10-2024,54,0,1,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,10-10-2024,67,0,0,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,07-09-2024,64,0,0,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,07-09-2024,55,0,1,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,07-05-2024,64,0,0,1,1
+Castiglione di Garfagnana,San Romano in Garfagnana,07-05-2024,55,0,1,1,1
+Castiglione di Garfagnana,Sillano Giuncugnano,10-01-2024,92,0,0,1,1
+Castiglione di Garfagnana,Sillano Giuncugnano,10-01-2024,104,0,0,1,1
+Castiglione di Garfagnana,Sillano Giuncugnano,10-10-2024,113,0,0,1,1
+Castiglione di Garfagnana,Sillano Giuncugnano,10-10-2024,104,0,0,1,1
+Castiglione di Garfagnana,Sillano Giuncugnano,07-09-2024,121,0,0,0,1
+Castiglione di Garfagnana,Sillano Giuncugnano,07-05-2024,121,0,0,0,1
+Castiglione di Garfagnana,Villa Collemandina,10-01-2024,7,1,1,1,1
+Castiglione di Garfagnana,Villa Collemandina,10-01-2024,8,1,1,1,1
+Castiglione di Garfagnana,Villa Collemandina,10-01-2024,13,1,1,1,1
+Castiglione di Garfagnana,Villa Collemandina,10-10-2024,7,1,1,1,1
+Castiglione di Garfagnana,Villa Collemandina,10-10-2024,8,1,1,1,1
+Castiglione di Garfagnana,Villa Collemandina,10-10-2024,13,1,1,1,1
+Castiglione di Garfagnana,Villa Collemandina,07-09-2024,7,1,1,1,1
+Castiglione di Garfagnana,Villa Collemandina,07-05-2024,7,1,1,1,1
+Castiglione di Garfagnana,Bagni di Lucca,10-01-2024,83,0,0,1,1
+Castiglione di Garfagnana,Bagni di Lucca,10-10-2024,83,0,0,1,1
+Castiglione di Garfagnana,Bagni di Lucca,07-09-2024,75,0,0,1,1
+Castiglione di Garfagnana,Bagni di Lucca,07-05-2024,75,0,0,1,1
+Castiglione di Garfagnana,Barga,10-01-2024,49,0,1,1,1
+Castiglione di Garfagnana,Barga,10-01-2024,148,0,0,0,1
+Castiglione di Garfagnana,Barga,10-01-2024,73,0,0,1,1
+Castiglione di Garfagnana,Barga,10-01-2024,59,0,1,1,1
+Castiglione di Garfagnana,Barga,10-01-2024,60,0,0,1,1
+Castiglione di Garfagnana,Barga,10-10-2024,49,0,1,1,1
+Castiglione di Garfagnana,Barga,10-10-2024,148,0,0,0,1
+Castiglione di Garfagnana,Barga,10-10-2024,73,0,0,1,1
+Castiglione di Garfagnana,Barga,10-10-2024,59,0,1,1,1
+Castiglione di Garfagnana,Barga,10-10-2024,60,0,0,1,1
+Castiglione di Garfagnana,Barga,07-09-2024,183,0,0,0,1
+Castiglione di Garfagnana,Barga,07-09-2024,64,0,0,1,1
+Castiglione di Garfagnana,Barga,07-05-2024,183,0,0,0,1
+Castiglione di Garfagnana,Barga,07-05-2024,64,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-01-2024,72,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-01-2024,86,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-01-2024,140,0,0,0,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-01-2024,82,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-01-2024,76,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-10-2024,72,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-10-2024,86,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-10-2024,140,0,0,0,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-10-2024,82,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,10-10-2024,76,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,07-09-2024,71,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,07-09-2024,70,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,07-09-2024,65,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,07-05-2024,71,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,07-05-2024,70,0,0,1,1
+Castiglione di Garfagnana,Borgo a Mozzano,07-05-2024,65,0,0,1,1
+Castiglione di Garfagnana,Pescaglia,10-01-2024,96,0,0,1,1
+Castiglione di Garfagnana,Pescaglia,10-01-2024,205,0,0,0,1
+Castiglione di Garfagnana,Pescaglia,10-10-2024,96,0,0,1,1
+Castiglione di Garfagnana,Pescaglia,10-10-2024,205,0,0,0,1
+Castiglione di Garfagnana,Pescaglia,07-09-2024,176,0,0,0,1
+Castiglione di Garfagnana,Pescaglia,07-09-2024,126,0,0,0,1
+Castiglione di Garfagnana,Pescaglia,07-05-2024,176,0,0,0,1
+Castiglione di Garfagnana,Pescaglia,07-05-2024,126,0,0,0,1
+Castiglione di Garfagnana,Lucca,10-01-2024,91,0,0,1,1
+Castiglione di Garfagnana,Lucca,10-01-2024,180,0,0,0,1
+Castiglione di Garfagnana,Lucca,10-01-2024,111,0,0,1,1
+Castiglione di Garfagnana,Lucca,10-01-2024,109,0,0,1,1
+Castiglione di Garfagnana,Lucca,10-01-2024,104,0,0,1,1
+Castiglione di Garfagnana,Lucca,10-10-2024,91,0,0,1,1
+Castiglione di Garfagnana,Lucca,10-10-2024,180,0,0,0,1
+Castiglione di Garfagnana,Lucca,10-10-2024,111,0,0,1,1
+Castiglione di Garfagnana,Lucca,10-10-2024,109,0,0,1,1
+Castiglione di Garfagnana,Lucca,10-10-2024,104,0,0,1,1
+Castiglione di Garfagnana,Lucca,07-09-2024,148,0,0,0,1
+Castiglione di Garfagnana,Lucca,07-09-2024,103,0,0,1,1
+Castiglione di Garfagnana,Lucca,07-09-2024,96,0,0,1,1
+Castiglione di Garfagnana,Lucca,07-05-2024,148,0,0,0,1
+Castiglione di Garfagnana,Lucca,07-05-2024,103,0,0,1,1
+Castiglione di Garfagnana,Lucca,07-05-2024,96,0,0,1,1
+Fabbriche di Vergemoli,Camporgiano,10-01-2024,173,0,0,0,1
+Fabbriche di Vergemoli,Camporgiano,10-01-2024,174,0,0,0,1
+Fabbriche di Vergemoli,Camporgiano,10-01-2024,99,0,0,1,1
+Fabbriche di Vergemoli,Camporgiano,10-01-2024,104,0,0,1,1
+Fabbriche di Vergemoli,Camporgiano,10-10-2024,173,0,0,0,1
+Fabbriche di Vergemoli,Camporgiano,10-10-2024,174,0,0,0,1
+Fabbriche di Vergemoli,Camporgiano,10-10-2024,99,0,0,1,1
+Fabbriche di Vergemoli,Camporgiano,10-10-2024,104,0,0,1,1
+Fabbriche di Vergemoli,Camporgiano,07-09-2024,78,0,0,1,1
+Fabbriche di Vergemoli,Camporgiano,07-05-2024,78,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-01-2024,75,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-01-2024,85,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-01-2024,86,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-01-2024,67,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2024,75,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2024,85,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2024,86,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,10-10-2024,67,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,07-09-2024,67,0,0,1,1
+Fabbriche di Vergemoli,Castelnuovo di Garfagnana,07-05-2024,67,0,0,1,1
+Fabbriche di Vergemoli,Castiglione di Garfagnana,07-09-2024,129,0,0,0,1
+Fabbriche di Vergemoli,Castiglione di Garfagnana,07-05-2024,129,0,0,0,1
+Fabbriche di Vergemoli,Gallicano,10-01-2024,47,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,10-01-2024,57,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,10-01-2024,59,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,10-01-2024,31,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,10-10-2024,47,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,10-10-2024,57,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,10-10-2024,59,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,10-10-2024,31,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,07-09-2024,53,0,1,1,1
+Fabbriche di Vergemoli,Gallicano,07-05-2024,53,0,1,1,1
+Fabbriche di Vergemoli,Minucciano,10-01-2024,231,0,0,0,1
+Fabbriche di Vergemoli,Minucciano,10-01-2024,226,0,0,0,1
+Fabbriche di Vergemoli,Minucciano,10-01-2024,321,0,0,0,1
+Fabbriche di Vergemoli,Minucciano,10-10-2024,231,0,0,0,1
+Fabbriche di Vergemoli,Minucciano,10-10-2024,226,0,0,0,1
+Fabbriche di Vergemoli,Minucciano,10-10-2024,321,0,0,0,1
+Fabbriche di Vergemoli,Minucciano,07-09-2024,387,0,0,0,1
+Fabbriche di Vergemoli,Minucciano,07-05-2024,387,0,0,0,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-01-2024,178,0,0,0,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-01-2024,179,0,0,0,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-01-2024,104,0,0,1,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-01-2024,108,0,0,1,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-10-2024,178,0,0,0,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-10-2024,179,0,0,0,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-10-2024,104,0,0,1,1
+Fabbriche di Vergemoli,Piazza al Serchio,10-10-2024,108,0,0,1,1
+Fabbriche di Vergemoli,Piazza al Serchio,07-09-2024,87,0,0,1,1
+Fabbriche di Vergemoli,Piazza al Serchio,07-05-2024,87,0,0,1,1
+Fabbriche di Vergemoli,San Romano in Garfagnana,10-01-2024,184,0,0,0,1
+Fabbriche di Vergemoli,San Romano in Garfagnana,10-01-2024,108,0,0,1,1
+Fabbriche di Vergemoli,San Romano in Garfagnana,10-10-2024,184,0,0,0,1
+Fabbriche di Vergemoli,San Romano in Garfagnana,10-10-2024,108,0,0,1,1
+Fabbriche di Vergemoli,San Romano in Garfagnana,07-09-2024,93,0,0,1,1
+Fabbriche di Vergemoli,San Romano in Garfagnana,07-05-2024,93,0,0,1,1
+Fabbriche di Vergemoli,Sillano Giuncugnano,10-01-2024,329,0,0,0,1
+Fabbriche di Vergemoli,Sillano Giuncugnano,10-10-2024,329,0,0,0,1
+Fabbriche di Vergemoli,Sillano Giuncugnano,07-09-2024,353,0,0,0,1
+Fabbriche di Vergemoli,Sillano Giuncugnano,07-05-2024,353,0,0,0,1
+Fabbriche di Vergemoli,Villa Collemandina,10-01-2024,201,0,0,0,1
+Fabbriche di Vergemoli,Villa Collemandina,10-10-2024,201,0,0,0,1
+Fabbriche di Vergemoli,Barga,10-01-2024,73,0,0,1,1
+Fabbriche di Vergemoli,Barga,10-01-2024,128,0,0,0,1
+Fabbriche di Vergemoli,Barga,10-01-2024,68,0,0,1,1
+Fabbriche di Vergemoli,Barga,10-10-2024,73,0,0,1,1
+Fabbriche di Vergemoli,Barga,10-10-2024,128,0,0,0,1
+Fabbriche di Vergemoli,Barga,10-10-2024,68,0,0,1,1
+Fabbriche di Vergemoli,Barga,07-09-2024,46,0,1,1,1
+Fabbriche di Vergemoli,Barga,07-05-2024,46,0,1,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-01-2024,58,0,1,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-01-2024,71,0,0,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-01-2024,38,0,1,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-01-2024,69,0,0,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2024,58,0,1,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2024,71,0,0,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2024,38,0,1,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,10-10-2024,69,0,0,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,07-09-2024,67,0,0,1,1
+Fabbriche di Vergemoli,Borgo a Mozzano,07-05-2024,67,0,0,1,1
+Fabbriche di Vergemoli,Pescaglia,10-01-2024,144,0,0,0,1
+Fabbriche di Vergemoli,Pescaglia,10-01-2024,121,0,0,0,1
+Fabbriche di Vergemoli,Pescaglia,10-10-2024,134,0,0,0,1
+Fabbriche di Vergemoli,Pescaglia,10-10-2024,121,0,0,0,1
+Fabbriche di Vergemoli,Pescaglia,07-09-2024,91,0,0,1,1
+Fabbriche di Vergemoli,Pescaglia,07-05-2024,91,0,0,1,1
+Fabbriche di Vergemoli,Lucca,10-01-2024,102,0,0,1,1
+Fabbriche di Vergemoli,Lucca,10-01-2024,98,0,0,1,1
+Fabbriche di Vergemoli,Lucca,10-01-2024,71,0,0,1,1
+Fabbriche di Vergemoli,Lucca,10-10-2024,102,0,0,1,1
+Fabbriche di Vergemoli,Lucca,10-10-2024,98,0,0,1,1
+Fabbriche di Vergemoli,Lucca,10-10-2024,71,0,0,1,1
+Fabbriche di Vergemoli,Lucca,07-09-2024,99,0,0,1,1
+Fabbriche di Vergemoli,Lucca,07-05-2024,99,0,0,1,1
+Fosciandora,Castelnuovo di Garfagnana,07-09-2024,31,0,1,1,1
+Fosciandora,Castelnuovo di Garfagnana,07-05-2024,31,0,1,1,1
+Fosciandora,Piazza al Serchio,07-09-2024,60,0,0,1,1
+Fosciandora,Piazza al Serchio,07-05-2024,60,0,0,1,1
+Fosciandora,San Romano in Garfagnana,07-09-2024,45,0,1,1,1
+Fosciandora,San Romano in Garfagnana,07-05-2024,45,0,1,1,1
+Gallicano,Camporgiano,10-01-2024,46,0,1,1,1
+Gallicano,Camporgiano,10-01-2024,51,0,1,1,1
+Gallicano,Camporgiano,10-01-2024,48,0,1,1,1
+Gallicano,Camporgiano,10-10-2024,46,0,1,1,1
+Gallicano,Camporgiano,10-10-2024,47,0,1,1,1
+Gallicano,Camporgiano,10-10-2024,51,0,1,1,1
+Gallicano,Camporgiano,10-10-2024,48,0,1,1,1
+Gallicano,Camporgiano,07-09-2024,46,0,1,1,1
+Gallicano,Camporgiano,07-09-2024,56,0,1,1,1
+Gallicano,Camporgiano,07-09-2024,41,0,1,1,1
+Gallicano,Camporgiano,07-05-2024,46,0,1,1,1
+Gallicano,Camporgiano,07-05-2024,56,0,1,1,1
+Gallicano,Camporgiano,07-05-2024,41,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,10-01-2024,35,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,10-01-2024,31,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,10-10-2024,35,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,10-10-2024,31,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,07-09-2024,35,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,07-09-2024,31,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,07-05-2024,35,0,1,1,1
+Gallicano,Castelnuovo di Garfagnana,07-05-2024,31,0,1,1,1
+Gallicano,Castiglione di Garfagnana,10-01-2024,52,0,1,1,1
+Gallicano,Castiglione di Garfagnana,10-10-2024,52,0,1,1,1
+Gallicano,Castiglione di Garfagnana,07-09-2024,83,0,0,1,1
+Gallicano,Castiglione di Garfagnana,07-09-2024,76,0,0,1,1
+Gallicano,Castiglione di Garfagnana,07-05-2024,83,0,0,1,1
+Gallicano,Castiglione di Garfagnana,07-05-2024,76,0,0,1,1
+Gallicano,Fabbriche di Vergemoli,10-01-2024,40,0,1,1,1
+Gallicano,Fabbriche di Vergemoli,10-01-2024,92,0,0,1,1
+Gallicano,Fabbriche di Vergemoli,10-01-2024,94,0,0,1,1
+Gallicano,Fabbriche di Vergemoli,10-01-2024,44,0,1,1,1
+Gallicano,Fabbriche di Vergemoli,10-10-2024,36,0,1,1,1
+Gallicano,Fabbriche di Vergemoli,10-10-2024,40,0,1,1,1
+Gallicano,Fabbriche di Vergemoli,10-10-2024,94,0,0,1,1
+Gallicano,Fabbriche di Vergemoli,10-10-2024,44,0,1,1,1
+Gallicano,Fosciandora,07-09-2024,34,0,1,1,1
+Gallicano,Fosciandora,07-05-2024,34,0,1,1,1
+Gallicano,Minucciano,10-01-2024,118,0,0,1,1
+Gallicano,Minucciano,10-01-2024,110,0,0,1,1
+Gallicano,Minucciano,10-01-2024,97,0,0,1,1
+Gallicano,Minucciano,10-01-2024,184,0,0,0,1
+Gallicano,Minucciano,10-01-2024,190,0,0,0,1
+Gallicano,Minucciano,10-10-2024,102,0,0,1,1
+Gallicano,Minucciano,10-10-2024,118,0,0,1,1
+Gallicano,Minucciano,10-10-2024,110,0,0,1,1
+Gallicano,Minucciano,10-10-2024,97,0,0,1,1
+Gallicano,Minucciano,10-10-2024,184,0,0,0,1
+Gallicano,Minucciano,10-10-2024,190,0,0,0,1
+Gallicano,Minucciano,07-09-2024,141,0,0,0,1
+Gallicano,Minucciano,07-09-2024,117,0,0,1,1
+Gallicano,Minucciano,07-09-2024,125,0,0,0,1
+Gallicano,Minucciano,07-05-2024,141,0,0,0,1
+Gallicano,Minucciano,07-05-2024,117,0,0,1,1
+Gallicano,Minucciano,07-05-2024,125,0,0,0,1
+Gallicano,Molazzana,10-01-2024,20,1,1,1,1
+Gallicano,Molazzana,10-01-2024,17,1,1,1,1
+Gallicano,Molazzana,10-01-2024,41,0,1,1,1
+Gallicano,Molazzana,10-10-2024,20,1,1,1,1
+Gallicano,Molazzana,10-10-2024,17,1,1,1,1
+Gallicano,Molazzana,10-10-2024,41,0,1,1,1
+Gallicano,Molazzana,07-09-2024,14,1,1,1,1
+Gallicano,Molazzana,07-05-2024,14,1,1,1,1
+Gallicano,Piazza al Serchio,10-01-2024,51,0,1,1,1
+Gallicano,Piazza al Serchio,10-01-2024,67,0,0,1,1
+Gallicano,Piazza al Serchio,10-01-2024,56,0,1,1,1
+Gallicano,Piazza al Serchio,10-10-2024,51,0,1,1,1
+Gallicano,Piazza al Serchio,10-10-2024,67,0,0,1,1
+Gallicano,Piazza al Serchio,10-10-2024,56,0,1,1,1
+Gallicano,Piazza al Serchio,07-09-2024,50,0,1,1,1
+Gallicano,Piazza al Serchio,07-09-2024,62,0,0,1,1
+Gallicano,Piazza al Serchio,07-05-2024,50,0,1,1,1
+Gallicano,Piazza al Serchio,07-05-2024,62,0,0,1,1
+Gallicano,Pieve Fosciana,07-09-2024,144,0,0,0,1
+Gallicano,Pieve Fosciana,07-05-2024,144,0,0,0,1
+Gallicano,San Romano in Garfagnana,10-01-2024,46,0,1,1,1
+Gallicano,San Romano in Garfagnana,10-01-2024,56,0,1,1,1
+Gallicano,San Romano in Garfagnana,10-01-2024,45,0,1,1,1
+Gallicano,San Romano in Garfagnana,10-01-2024,66,0,0,1,1
+Gallicano,San Romano in Garfagnana,10-01-2024,55,0,1,1,1
+Gallicano,San Romano in Garfagnana,10-10-2024,46,0,1,1,1
+Gallicano,San Romano in Garfagnana,10-10-2024,55,0,1,1,1
+Gallicano,San Romano in Garfagnana,10-10-2024,45,0,1,1,1
+Gallicano,San Romano in Garfagnana,10-10-2024,66,0,0,1,1
+Gallicano,San Romano in Garfagnana,07-09-2024,66,0,0,1,1
+Gallicano,San Romano in Garfagnana,07-09-2024,54,0,1,1,1
+Gallicano,San Romano in Garfagnana,07-09-2024,81,0,0,1,1
+Gallicano,San Romano in Garfagnana,07-09-2024,71,0,0,1,1
+Gallicano,San Romano in Garfagnana,07-09-2024,58,0,1,1,1
+Gallicano,San Romano in Garfagnana,07-09-2024,57,0,1,1,1
+Gallicano,San Romano in Garfagnana,07-09-2024,59,0,1,1,1
+Gallicano,San Romano in Garfagnana,07-05-2024,66,0,0,1,1
+Gallicano,San Romano in Garfagnana,07-05-2024,54,0,1,1,1
+Gallicano,San Romano in Garfagnana,07-05-2024,81,0,0,1,1
+Gallicano,San Romano in Garfagnana,07-05-2024,71,0,0,1,1
+Gallicano,San Romano in Garfagnana,07-05-2024,58,0,1,1,1
+Gallicano,San Romano in Garfagnana,07-05-2024,57,0,1,1,1
+Gallicano,San Romano in Garfagnana,07-05-2024,59,0,1,1,1
+Gallicano,Sillano Giuncugnano,10-01-2024,94,0,0,1,1
+Gallicano,Sillano Giuncugnano,10-01-2024,100,0,0,1,1
+Gallicano,Sillano Giuncugnano,10-01-2024,109,0,0,1,1
+Gallicano,Sillano Giuncugnano,10-10-2024,114,0,0,1,1
+Gallicano,Sillano Giuncugnano,10-10-2024,100,0,0,1,1
+Gallicano,Sillano Giuncugnano,10-10-2024,109,0,0,1,1
+Gallicano,Sillano Giuncugnano,07-09-2024,69,0,0,1,1
+Gallicano,Sillano Giuncugnano,07-09-2024,90,0,0,1,1
+Gallicano,Sillano Giuncugnano,07-05-2024,69,0,0,1,1
+Gallicano,Sillano Giuncugnano,07-05-2024,90,0,0,1,1
+Gallicano,Villa Collemandina,10-01-2024,58,0,1,1,1
+Gallicano,Villa Collemandina,10-01-2024,128,0,0,0,1
+Gallicano,Villa Collemandina,10-10-2024,58,0,1,1,1
+Gallicano,Villa Collemandina,10-10-2024,128,0,0,0,1
+Gallicano,Villa Collemandina,07-09-2024,86,0,0,1,1
+Gallicano,Villa Collemandina,07-09-2024,88,0,0,1,1
+Gallicano,Villa Collemandina,07-05-2024,86,0,0,1,1
+Gallicano,Villa Collemandina,07-05-2024,88,0,0,1,1
+Gallicano,Bagni di Lucca,10-01-2024,51,0,1,1,1
+Gallicano,Bagni di Lucca,10-01-2024,58,0,1,1,1
+Gallicano,Bagni di Lucca,10-01-2024,33,0,1,1,1
+Gallicano,Bagni di Lucca,10-10-2024,51,0,1,1,1
+Gallicano,Bagni di Lucca,10-10-2024,58,0,1,1,1
+Gallicano,Bagni di Lucca,10-10-2024,33,0,1,1,1
+Gallicano,Bagni di Lucca,07-09-2024,50,0,1,1,1
+Gallicano,Bagni di Lucca,07-09-2024,38,0,1,1,1
+Gallicano,Bagni di Lucca,07-05-2024,50,0,1,1,1
+Gallicano,Bagni di Lucca,07-05-2024,38,0,1,1,1
+Gallicano,Barga,10-01-2024,17,1,1,1,1
+Gallicano,Barga,10-01-2024,26,1,1,1,1
+Gallicano,Barga,10-01-2024,31,0,1,1,1
+Gallicano,Barga,10-01-2024,13,1,1,1,1
+Gallicano,Barga,10-10-2024,17,1,1,1,1
+Gallicano,Barga,10-10-2024,26,1,1,1,1
+Gallicano,Barga,10-10-2024,31,0,1,1,1
+Gallicano,Barga,10-10-2024,13,1,1,1,1
+Gallicano,Barga,07-09-2024,17,1,1,1,1
+Gallicano,Barga,07-09-2024,26,1,1,1,1
+Gallicano,Barga,07-09-2024,38,0,1,1,1
+Gallicano,Barga,07-09-2024,31,0,1,1,1
+Gallicano,Barga,07-05-2024,17,1,1,1,1
+Gallicano,Barga,07-05-2024,26,1,1,1,1
+Gallicano,Barga,07-05-2024,38,0,1,1,1
+Gallicano,Barga,07-05-2024,31,0,1,1,1
+Gallicano,Borgo a Mozzano,10-01-2024,34,0,1,1,1
+Gallicano,Borgo a Mozzano,10-01-2024,35,0,1,1,1
+Gallicano,Borgo a Mozzano,10-01-2024,37,0,1,1,1
+Gallicano,Borgo a Mozzano,10-10-2024,34,0,1,1,1
+Gallicano,Borgo a Mozzano,10-10-2024,35,0,1,1,1
+Gallicano,Borgo a Mozzano,10-10-2024,37,0,1,1,1
+Gallicano,Borgo a Mozzano,07-09-2024,35,0,1,1,1
+Gallicano,Borgo a Mozzano,07-09-2024,37,0,1,1,1
+Gallicano,Borgo a Mozzano,07-09-2024,39,0,1,1,1
+Gallicano,Borgo a Mozzano,07-05-2024,35,0,1,1,1
+Gallicano,Borgo a Mozzano,07-05-2024,37,0,1,1,1
+Gallicano,Borgo a Mozzano,07-05-2024,39,0,1,1,1
+Gallicano,Pescaglia,10-01-2024,112,0,0,1,1
+Gallicano,Pescaglia,10-01-2024,183,0,0,0,1
+Gallicano,Pescaglia,10-10-2024,112,0,0,1,1
+Gallicano,Pescaglia,10-10-2024,183,0,0,0,1
+Gallicano,Pescaglia,07-09-2024,111,0,0,1,1
+Gallicano,Pescaglia,07-05-2024,111,0,0,1,1
+Gallicano,Lucca,10-01-2024,73,0,0,1,1
+Gallicano,Lucca,10-01-2024,84,0,0,1,1
+Gallicano,Lucca,10-01-2024,68,0,0,1,1
+Gallicano,Lucca,10-01-2024,71,0,0,1,1
+Gallicano,Lucca,10-10-2024,73,0,0,1,1
+Gallicano,Lucca,10-10-2024,84,0,0,1,1
+Gallicano,Lucca,10-10-2024,68,0,0,1,1
+Gallicano,Lucca,10-10-2024,71,0,0,1,1
+Gallicano,Lucca,07-09-2024,80,0,0,1,1
+Gallicano,Lucca,07-05-2024,80,0,0,1,1
+Minucciano,Camporgiano,10-01-2024,47,0,1,1,1
+Minucciano,Camporgiano,10-01-2024,61,0,0,1,1
+Minucciano,Camporgiano,10-01-2024,51,0,1,1,1
+Minucciano,Camporgiano,10-01-2024,141,0,0,0,1
+Minucciano,Camporgiano,10-01-2024,97,0,0,1,1
+Minucciano,Camporgiano,10-10-2024,51,0,1,1,1
+Minucciano,Camporgiano,10-10-2024,61,0,0,1,1
+Minucciano,Camporgiano,10-10-2024,163,0,0,0,1
+Minucciano,Camporgiano,10-10-2024,97,0,0,1,1
+Minucciano,Camporgiano,07-09-2024,172,0,0,0,1
+Minucciano,Camporgiano,07-09-2024,62,0,0,1,1
+Minucciano,Camporgiano,07-05-2024,172,0,0,0,1
+Minucciano,Camporgiano,07-05-2024,62,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-01-2024,70,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-01-2024,79,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-01-2024,71,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-01-2024,83,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-01-2024,78,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-10-2024,71,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-10-2024,79,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-10-2024,83,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-10-2024,78,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,10-10-2024,184,0,0,0,1
+Minucciano,Castelnuovo di Garfagnana,10-10-2024,120,0,0,0,1
+Minucciano,Castelnuovo di Garfagnana,07-09-2024,195,0,0,0,1
+Minucciano,Castelnuovo di Garfagnana,07-09-2024,85,0,0,1,1
+Minucciano,Castelnuovo di Garfagnana,07-05-2024,195,0,0,0,1
+Minucciano,Castelnuovo di Garfagnana,07-05-2024,85,0,0,1,1
+Minucciano,Castiglione di Garfagnana,10-01-2024,243,0,0,0,1
+Minucciano,Castiglione di Garfagnana,10-10-2024,243,0,0,0,1
+Minucciano,Castiglione di Garfagnana,07-09-2024,206,0,0,0,1
+Minucciano,Castiglione di Garfagnana,07-09-2024,121,0,0,0,1
+Minucciano,Castiglione di Garfagnana,07-05-2024,206,0,0,0,1
+Minucciano,Castiglione di Garfagnana,07-05-2024,121,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,10-01-2024,232,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,10-01-2024,293,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,10-10-2024,171,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,10-10-2024,232,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,10-10-2024,293,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,07-09-2024,399,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,07-09-2024,1504,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,07-05-2024,399,0,0,0,1
+Minucciano,Fabbriche di Vergemoli,07-05-2024,1504,0,0,0,1
+Minucciano,Gallicano,10-01-2024,87,0,0,1,1
+Minucciano,Gallicano,10-01-2024,90,0,0,1,1
+Minucciano,Gallicano,10-01-2024,95,0,0,1,1
+Minucciano,Gallicano,10-01-2024,94,0,0,1,1
+Minucciano,Gallicano,10-01-2024,141,0,0,0,1
+Minucciano,Gallicano,10-10-2024,87,0,0,1,1
+Minucciano,Gallicano,10-10-2024,95,0,0,1,1
+Minucciano,Gallicano,10-10-2024,94,0,0,1,1
+Minucciano,Gallicano,10-10-2024,208,0,0,0,1
+Minucciano,Gallicano,10-10-2024,141,0,0,0,1
+Minucciano,Gallicano,07-09-2024,210,0,0,0,1
+Minucciano,Gallicano,07-09-2024,103,0,0,1,1
+Minucciano,Gallicano,07-05-2024,210,0,0,0,1
+Minucciano,Gallicano,07-05-2024,103,0,0,1,1
+Minucciano,Molazzana,10-01-2024,227,0,0,0,1
+Minucciano,Molazzana,10-10-2024,227,0,0,0,1
+Minucciano,Piazza al Serchio,10-01-2024,34,0,1,1,1
+Minucciano,Piazza al Serchio,10-01-2024,29,1,1,1,1
+Minucciano,Piazza al Serchio,10-01-2024,37,0,1,1,1
+Minucciano,Piazza al Serchio,10-01-2024,45,0,1,1,1
+Minucciano,Piazza al Serchio,10-01-2024,39,0,1,1,1
+Minucciano,Piazza al Serchio,10-01-2024,53,0,1,1,1
+Minucciano,Piazza al Serchio,10-10-2024,37,0,1,1,1
+Minucciano,Piazza al Serchio,10-10-2024,29,1,1,1,1
+Minucciano,Piazza al Serchio,10-10-2024,45,0,1,1,1
+Minucciano,Piazza al Serchio,10-10-2024,39,0,1,1,1
+Minucciano,Piazza al Serchio,10-10-2024,63,0,0,1,1
+Minucciano,Piazza al Serchio,07-09-2024,129,0,0,0,1
+Minucciano,Piazza al Serchio,07-09-2024,49,0,1,1,1
+Minucciano,Piazza al Serchio,07-05-2024,129,0,0,0,1
+Minucciano,Piazza al Serchio,07-05-2024,49,0,1,1,1
+Minucciano,Pieve Fosciana,07-09-2024,366,0,0,0,1
+Minucciano,Pieve Fosciana,07-09-2024,1186,0,0,0,1
+Minucciano,Pieve Fosciana,07-05-2024,366,0,0,0,1
+Minucciano,Pieve Fosciana,07-05-2024,1186,0,0,0,1
+Minucciano,San Romano in Garfagnana,10-01-2024,73,0,0,1,1
+Minucciano,San Romano in Garfagnana,10-01-2024,136,0,0,0,1
+Minucciano,San Romano in Garfagnana,10-10-2024,73,0,0,1,1
+Minucciano,San Romano in Garfagnana,10-10-2024,188,0,0,0,1
+Minucciano,Sillano Giuncugnano,10-01-2024,85,0,0,1,1
+Minucciano,Sillano Giuncugnano,10-01-2024,62,0,0,1,1
+Minucciano,Sillano Giuncugnano,10-01-2024,97,0,0,1,1
+Minucciano,Sillano Giuncugnano,10-01-2024,207,0,0,0,1
+Minucciano,Sillano Giuncugnano,10-10-2024,106,0,0,1,1
+Minucciano,Sillano Giuncugnano,10-10-2024,62,0,0,1,1
+Minucciano,Sillano Giuncugnano,10-10-2024,97,0,0,1,1
+Minucciano,Sillano Giuncugnano,10-10-2024,207,0,0,0,1
+Minucciano,Villa Collemandina,10-01-2024,130,0,0,0,1
+Minucciano,Villa Collemandina,10-01-2024,247,0,0,0,1
+Minucciano,Villa Collemandina,10-10-2024,228,0,0,0,1
+Minucciano,Villa Collemandina,10-10-2024,247,0,0,0,1
+Minucciano,Bagni di Lucca,10-01-2024,116,0,0,1,1
+Minucciano,Bagni di Lucca,10-10-2024,116,0,0,1,1
+Minucciano,Barga,10-01-2024,156,0,0,0,1
+Minucciano,Barga,10-01-2024,157,0,0,0,1
+Minucciano,Barga,10-01-2024,106,0,0,1,1
+Minucciano,Barga,10-01-2024,107,0,0,1,1
+Minucciano,Barga,10-01-2024,109,0,0,1,1
+Minucciano,Barga,10-10-2024,156,0,0,0,1
+Minucciano,Barga,10-10-2024,106,0,0,1,1
+Minucciano,Barga,10-10-2024,107,0,0,1,1
+Minucciano,Barga,10-10-2024,124,0,0,0,1
+Minucciano,Barga,10-10-2024,132,0,0,0,1
+Minucciano,Barga,07-09-2024,242,0,0,0,1
+Minucciano,Barga,07-09-2024,103,0,0,1,1
+Minucciano,Barga,07-05-2024,242,0,0,0,1
+Minucciano,Barga,07-05-2024,103,0,0,1,1
+Minucciano,Borgo a Mozzano,10-01-2024,100,0,0,1,1
+Minucciano,Borgo a Mozzano,10-01-2024,102,0,0,1,1
+Minucciano,Borgo a Mozzano,10-01-2024,115,0,0,1,1
+Minucciano,Borgo a Mozzano,10-01-2024,109,0,0,1,1
+Minucciano,Borgo a Mozzano,10-01-2024,96,0,0,1,1
+Minucciano,Borgo a Mozzano,10-10-2024,100,0,0,1,1
+Minucciano,Borgo a Mozzano,10-10-2024,102,0,0,1,1
+Minucciano,Borgo a Mozzano,10-10-2024,115,0,0,1,1
+Minucciano,Borgo a Mozzano,10-10-2024,109,0,0,1,1
+Minucciano,Borgo a Mozzano,10-10-2024,96,0,0,1,1
+Minucciano,Borgo a Mozzano,10-10-2024,169,0,0,0,1
+Minucciano,Borgo a Mozzano,07-09-2024,244,0,0,0,1
+Minucciano,Borgo a Mozzano,07-09-2024,109,0,0,1,1
+Minucciano,Borgo a Mozzano,07-05-2024,244,0,0,0,1
+Minucciano,Borgo a Mozzano,07-05-2024,109,0,0,1,1
+Minucciano,Pescaglia,10-01-2024,213,0,0,0,1
+Minucciano,Pescaglia,10-01-2024,252,0,0,0,1
+Minucciano,Pescaglia,10-01-2024,287,0,0,0,1
+Minucciano,Pescaglia,10-10-2024,213,0,0,0,1
+Minucciano,Pescaglia,10-10-2024,350,0,0,0,1
+Minucciano,Pescaglia,10-10-2024,287,0,0,0,1
+Minucciano,Pescaglia,07-09-2024,416,0,0,0,1
+Minucciano,Pescaglia,07-09-2024,462,0,0,0,1
+Minucciano,Pescaglia,07-05-2024,416,0,0,0,1
+Minucciano,Pescaglia,07-05-2024,462,0,0,0,1
+Minucciano,Lucca,10-01-2024,128,0,0,0,1
+Minucciano,Lucca,10-01-2024,130,0,0,0,1
+Minucciano,Lucca,10-01-2024,144,0,0,0,1
+Minucciano,Lucca,10-01-2024,142,0,0,0,1
+Minucciano,Lucca,10-01-2024,123,0,0,0,1
+Minucciano,Lucca,10-01-2024,125,0,0,0,1
+Minucciano,Lucca,10-10-2024,130,0,0,0,1
+Minucciano,Lucca,10-10-2024,144,0,0,0,1
+Minucciano,Lucca,10-10-2024,142,0,0,0,1
+Minucciano,Lucca,10-10-2024,123,0,0,0,1
+Minucciano,Lucca,10-10-2024,174,0,0,0,1
+Minucciano,Lucca,07-09-2024,249,0,0,0,1
+Minucciano,Lucca,07-09-2024,142,0,0,0,1
+Minucciano,Lucca,07-05-2024,249,0,0,0,1
+Minucciano,Lucca,07-05-2024,142,0,0,0,1
+Molazzana,Camporgiano,07-09-2024,64,0,0,1,1
+Molazzana,Camporgiano,07-05-2024,64,0,0,1,1
+Molazzana,Castelnuovo di Garfagnana,07-09-2024,53,0,1,1,1
+Molazzana,Castelnuovo di Garfagnana,07-05-2024,53,0,1,1,1
+Molazzana,Castiglione di Garfagnana,07-09-2024,91,0,0,1,1
+Molazzana,Castiglione di Garfagnana,07-05-2024,91,0,0,1,1
+Molazzana,Fabbriche di Vergemoli,10-01-2024,96,0,0,1,1
+Molazzana,Gallicano,10-01-2024,22,1,1,1,1
+Molazzana,Gallicano,10-01-2024,14,1,1,1,1
+Molazzana,Gallicano,10-10-2024,22,1,1,1,1
+Molazzana,Gallicano,10-10-2024,14,1,1,1,1
+Molazzana,Gallicano,07-09-2024,17,1,1,1,1
+Molazzana,Gallicano,07-05-2024,17,1,1,1,1
+Molazzana,Minucciano,10-01-2024,267,0,0,0,1
+Molazzana,Minucciano,10-10-2024,267,0,0,0,1
+Molazzana,Piazza al Serchio,07-09-2024,80,0,0,1,1
+Molazzana,Piazza al Serchio,07-05-2024,80,0,0,1,1
+Molazzana,Sillano Giuncugnano,10-01-2024,275,0,0,0,1
+Molazzana,Sillano Giuncugnano,10-10-2024,275,0,0,0,1
+Molazzana,Villa Collemandina,10-01-2024,147,0,0,0,1
+Molazzana,Villa Collemandina,10-10-2024,147,0,0,0,1
+Molazzana,Barga,10-01-2024,54,0,1,1,1
+Molazzana,Barga,10-01-2024,43,0,1,1,1
+Molazzana,Barga,10-10-2024,54,0,1,1,1
+Molazzana,Barga,10-10-2024,43,0,1,1,1
+Molazzana,Barga,07-09-2024,66,0,0,1,1
+Molazzana,Barga,07-05-2024,66,0,0,1,1
+Molazzana,Pescaglia,10-01-2024,269,0,0,0,1
+Molazzana,Pescaglia,10-10-2024,269,0,0,0,1
+Molazzana,Lucca,10-01-2024,105,0,0,1,1
+Molazzana,Lucca,10-10-2024,105,0,0,1,1
+Piazza al Serchio,Camporgiano,10-01-2024,16,1,1,1,1
+Piazza al Serchio,Camporgiano,10-01-2024,17,1,1,1,1
+Piazza al Serchio,Camporgiano,10-01-2024,15,1,1,1,1
+Piazza al Serchio,Camporgiano,10-10-2024,16,1,1,1,1
+Piazza al Serchio,Camporgiano,10-10-2024,17,1,1,1,1
+Piazza al Serchio,Camporgiano,10-10-2024,15,1,1,1,1
+Piazza al Serchio,Camporgiano,07-09-2024,16,1,1,1,1
+Piazza al Serchio,Camporgiano,07-09-2024,17,1,1,1,1
+Piazza al Serchio,Camporgiano,07-09-2024,15,1,1,1,1
+Piazza al Serchio,Camporgiano,07-05-2024,16,1,1,1,1
+Piazza al Serchio,Camporgiano,07-05-2024,17,1,1,1,1
+Piazza al Serchio,Camporgiano,07-05-2024,15,1,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2024,37,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2024,35,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2024,33,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-01-2024,31,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2024,37,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2024,35,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2024,33,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,10-10-2024,31,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,07-09-2024,37,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,07-09-2024,35,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,07-09-2024,33,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,07-05-2024,37,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,07-05-2024,35,0,1,1,1
+Piazza al Serchio,Castelnuovo di Garfagnana,07-05-2024,33,0,1,1,1
+Piazza al Serchio,Castiglione di Garfagnana,10-01-2024,45,0,1,1,1
+Piazza al Serchio,Castiglione di Garfagnana,10-01-2024,69,0,0,1,1
+Piazza al Serchio,Castiglione di Garfagnana,10-10-2024,45,0,1,1,1
+Piazza al Serchio,Castiglione di Garfagnana,10-10-2024,69,0,0,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-09-2024,50,0,1,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-09-2024,112,0,0,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-09-2024,76,0,0,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-09-2024,40,0,1,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-05-2024,50,0,1,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-05-2024,112,0,0,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-05-2024,76,0,0,1,1
+Piazza al Serchio,Castiglione di Garfagnana,07-05-2024,40,0,1,1,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-01-2024,95,0,0,1,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-01-2024,143,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-01-2024,165,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-01-2024,168,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-01-2024,108,0,0,1,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-01-2024,251,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-10-2024,95,0,0,1,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-10-2024,136,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-10-2024,143,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-10-2024,165,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-10-2024,168,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-10-2024,108,0,0,1,1
+Piazza al Serchio,Fabbriche di Vergemoli,10-10-2024,251,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,07-09-2024,188,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,07-09-2024,526,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,07-05-2024,188,0,0,0,1
+Piazza al Serchio,Fabbriche di Vergemoli,07-05-2024,526,0,0,0,1
+Piazza al Serchio,Fosciandora,07-09-2024,60,0,0,1,1
+Piazza al Serchio,Fosciandora,07-05-2024,60,0,0,1,1
+Piazza al Serchio,Gallicano,10-01-2024,46,0,1,1,1
+Piazza al Serchio,Gallicano,10-01-2024,60,0,0,1,1
+Piazza al Serchio,Gallicano,10-01-2024,52,0,1,1,1
+Piazza al Serchio,Gallicano,10-01-2024,49,0,1,1,1
+Piazza al Serchio,Gallicano,10-10-2024,46,0,1,1,1
+Piazza al Serchio,Gallicano,10-10-2024,60,0,0,1,1
+Piazza al Serchio,Gallicano,10-10-2024,52,0,1,1,1
+Piazza al Serchio,Gallicano,10-10-2024,49,0,1,1,1
+Piazza al Serchio,Gallicano,07-09-2024,52,0,1,1,1
+Piazza al Serchio,Gallicano,07-09-2024,60,0,0,1,1
+Piazza al Serchio,Gallicano,07-05-2024,52,0,1,1,1
+Piazza al Serchio,Gallicano,07-05-2024,60,0,0,1,1
+Piazza al Serchio,Minucciano,10-01-2024,50,0,1,1,1
+Piazza al Serchio,Minucciano,10-01-2024,42,0,1,1,1
+Piazza al Serchio,Minucciano,10-01-2024,49,0,1,1,1
+Piazza al Serchio,Minucciano,10-01-2024,61,0,0,1,1
+Piazza al Serchio,Minucciano,10-01-2024,29,1,1,1,1
+Piazza al Serchio,Minucciano,10-10-2024,50,0,1,1,1
+Piazza al Serchio,Minucciano,10-10-2024,42,0,1,1,1
+Piazza al Serchio,Minucciano,10-10-2024,49,0,1,1,1
+Piazza al Serchio,Minucciano,10-10-2024,61,0,0,1,1
+Piazza al Serchio,Minucciano,10-10-2024,29,1,1,1,1
+Piazza al Serchio,Minucciano,07-09-2024,50,0,1,1,1
+Piazza al Serchio,Minucciano,07-09-2024,47,0,1,1,1
+Piazza al Serchio,Minucciano,07-09-2024,44,0,1,1,1
+Piazza al Serchio,Minucciano,07-05-2024,50,0,1,1,1
+Piazza al Serchio,Minucciano,07-05-2024,47,0,1,1,1
+Piazza al Serchio,Minucciano,07-05-2024,44,0,1,1,1
+Piazza al Serchio,Molazzana,10-01-2024,74,0,0,1,1
+Piazza al Serchio,Molazzana,10-01-2024,79,0,0,1,1
+Piazza al Serchio,Molazzana,10-10-2024,74,0,0,1,1
+Piazza al Serchio,Molazzana,10-10-2024,79,0,0,1,1
+Piazza al Serchio,San Romano in Garfagnana,10-01-2024,19,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,10-01-2024,14,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,10-10-2024,12,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,10-10-2024,19,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,10-10-2024,14,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,07-09-2024,14,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,07-09-2024,15,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,07-09-2024,19,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,07-05-2024,14,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,07-05-2024,15,1,1,1,1
+Piazza al Serchio,San Romano in Garfagnana,07-05-2024,19,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-01-2024,15,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-01-2024,18,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-01-2024,19,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-01-2024,22,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-10-2024,15,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-10-2024,18,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-10-2024,19,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,10-10-2024,22,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,07-09-2024,14,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,07-09-2024,12,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,07-05-2024,14,1,1,1,1
+Piazza al Serchio,Sillano Giuncugnano,07-05-2024,12,1,1,1,1
+Piazza al Serchio,Villa Collemandina,10-01-2024,50,0,1,1,1
+Piazza al Serchio,Villa Collemandina,10-01-2024,82,0,0,1,1
+Piazza al Serchio,Villa Collemandina,10-10-2024,50,0,1,1,1
+Piazza al Serchio,Villa Collemandina,10-10-2024,82,0,0,1,1
+Piazza al Serchio,Villa Collemandina,07-09-2024,114,0,0,1,1
+Piazza al Serchio,Villa Collemandina,07-05-2024,114,0,0,1,1
+Piazza al Serchio,Bagni di Lucca,10-01-2024,64,0,0,1,1
+Piazza al Serchio,Bagni di Lucca,10-01-2024,73,0,0,1,1
+Piazza al Serchio,Bagni di Lucca,10-10-2024,64,0,0,1,1
+Piazza al Serchio,Bagni di Lucca,10-10-2024,73,0,0,1,1
+Piazza al Serchio,Bagni di Lucca,07-09-2024,73,0,0,1,1
+Piazza al Serchio,Bagni di Lucca,07-05-2024,73,0,0,1,1
+Piazza al Serchio,Barga,10-01-2024,52,0,1,1,1
+Piazza al Serchio,Barga,10-01-2024,68,0,0,1,1
+Piazza al Serchio,Barga,10-01-2024,71,0,0,1,1
+Piazza al Serchio,Barga,10-01-2024,62,0,0,1,1
+Piazza al Serchio,Barga,10-01-2024,61,0,0,1,1
+Piazza al Serchio,Barga,10-01-2024,54,0,1,1,1
+Piazza al Serchio,Barga,10-10-2024,52,0,1,1,1
+Piazza al Serchio,Barga,10-10-2024,68,0,0,1,1
+Piazza al Serchio,Barga,10-10-2024,71,0,0,1,1
+Piazza al Serchio,Barga,10-10-2024,62,0,0,1,1
+Piazza al Serchio,Barga,10-10-2024,61,0,0,1,1
+Piazza al Serchio,Barga,10-10-2024,54,0,1,1,1
+Piazza al Serchio,Barga,07-09-2024,46,0,1,1,1
+Piazza al Serchio,Barga,07-09-2024,55,0,1,1,1
+Piazza al Serchio,Barga,07-09-2024,47,0,1,1,1
+Piazza al Serchio,Barga,07-05-2024,46,0,1,1,1
+Piazza al Serchio,Barga,07-05-2024,55,0,1,1,1
+Piazza al Serchio,Barga,07-05-2024,47,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,10-01-2024,60,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-01-2024,58,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,10-01-2024,76,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-01-2024,66,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-01-2024,55,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,10-01-2024,62,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-01-2024,64,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-10-2024,60,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-10-2024,58,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,10-10-2024,76,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-10-2024,66,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-10-2024,55,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,10-10-2024,62,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,10-10-2024,64,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-09-2024,60,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-09-2024,58,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,07-09-2024,76,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-09-2024,66,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-09-2024,55,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,07-09-2024,62,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-09-2024,64,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-05-2024,60,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-05-2024,58,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,07-05-2024,76,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-05-2024,66,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-05-2024,55,0,1,1,1
+Piazza al Serchio,Borgo a Mozzano,07-05-2024,62,0,0,1,1
+Piazza al Serchio,Borgo a Mozzano,07-05-2024,64,0,0,1,1
+Piazza al Serchio,Pescaglia,10-01-2024,90,0,0,1,1
+Piazza al Serchio,Pescaglia,10-01-2024,125,0,0,0,1
+Piazza al Serchio,Pescaglia,10-01-2024,190,0,0,0,1
+Piazza al Serchio,Pescaglia,10-01-2024,128,0,0,0,1
+Piazza al Serchio,Pescaglia,10-10-2024,90,0,0,1,1
+Piazza al Serchio,Pescaglia,10-10-2024,125,0,0,0,1
+Piazza al Serchio,Pescaglia,10-10-2024,190,0,0,0,1
+Piazza al Serchio,Pescaglia,10-10-2024,128,0,0,0,1
+Piazza al Serchio,Pescaglia,07-09-2024,90,0,0,1,1
+Piazza al Serchio,Pescaglia,07-09-2024,123,0,0,0,1
+Piazza al Serchio,Pescaglia,07-09-2024,175,0,0,0,1
+Piazza al Serchio,Pescaglia,07-05-2024,90,0,0,1,1
+Piazza al Serchio,Pescaglia,07-05-2024,123,0,0,0,1
+Piazza al Serchio,Pescaglia,07-05-2024,175,0,0,0,1
+Piazza al Serchio,Lucca,10-01-2024,93,0,0,1,1
+Piazza al Serchio,Lucca,10-01-2024,85,0,0,1,1
+Piazza al Serchio,Lucca,10-01-2024,91,0,0,1,1
+Piazza al Serchio,Lucca,10-01-2024,88,0,0,1,1
+Piazza al Serchio,Lucca,10-01-2024,77,0,0,1,1
+Piazza al Serchio,Lucca,10-10-2024,93,0,0,1,1
+Piazza al Serchio,Lucca,10-10-2024,85,0,0,1,1
+Piazza al Serchio,Lucca,10-10-2024,91,0,0,1,1
+Piazza al Serchio,Lucca,10-10-2024,88,0,0,1,1
+Piazza al Serchio,Lucca,10-10-2024,77,0,0,1,1
+Piazza al Serchio,Lucca,07-09-2024,93,0,0,1,1
+Piazza al Serchio,Lucca,07-09-2024,85,0,0,1,1
+Piazza al Serchio,Lucca,07-09-2024,91,0,0,1,1
+Piazza al Serchio,Lucca,07-09-2024,88,0,0,1,1
+Piazza al Serchio,Lucca,07-09-2024,77,0,0,1,1
+Piazza al Serchio,Lucca,07-05-2024,93,0,0,1,1
+Piazza al Serchio,Lucca,07-05-2024,85,0,0,1,1
+Piazza al Serchio,Lucca,07-05-2024,91,0,0,1,1
+Piazza al Serchio,Lucca,07-05-2024,88,0,0,1,1
+Piazza al Serchio,Lucca,07-05-2024,77,0,0,1,1
+Pieve Fosciana,Camporgiano,07-09-2024,162,0,0,0,1
+Pieve Fosciana,Camporgiano,07-05-2024,162,0,0,0,1
+Pieve Fosciana,Castiglione di Garfagnana,07-09-2024,68,0,0,1,1
+Pieve Fosciana,Castiglione di Garfagnana,07-05-2024,68,0,0,1,1
+Pieve Fosciana,Gallicano,07-09-2024,81,0,0,1,1
+Pieve Fosciana,Gallicano,07-05-2024,81,0,0,1,1
+Pieve Fosciana,Minucciano,07-09-2024,471,0,0,0,1
+Pieve Fosciana,Minucciano,07-09-2024,286,0,0,0,1
+Pieve Fosciana,Minucciano,07-05-2024,471,0,0,0,1
+Pieve Fosciana,Minucciano,07-05-2024,286,0,0,0,1
+Pieve Fosciana,Piazza al Serchio,07-09-2024,171,0,0,0,1
+Pieve Fosciana,Piazza al Serchio,07-05-2024,171,0,0,0,1
+Pieve Fosciana,San Romano in Garfagnana,07-09-2024,176,0,0,0,1
+Pieve Fosciana,San Romano in Garfagnana,07-05-2024,176,0,0,0,1
+Pieve Fosciana,Sillano Giuncugnano,07-09-2024,437,0,0,0,1
+Pieve Fosciana,Sillano Giuncugnano,07-09-2024,350,0,0,0,1
+Pieve Fosciana,Sillano Giuncugnano,07-05-2024,437,0,0,0,1
+Pieve Fosciana,Sillano Giuncugnano,07-05-2024,350,0,0,0,1
+Pieve Fosciana,Barga,07-09-2024,94,0,0,1,1
+Pieve Fosciana,Barga,07-05-2024,94,0,0,1,1
+San Romano in Garfagnana,Camporgiano,10-01-2024,10,1,1,1,1
+San Romano in Garfagnana,Camporgiano,10-01-2024,13,1,1,1,1
+San Romano in Garfagnana,Camporgiano,10-10-2024,10,1,1,1,1
+San Romano in Garfagnana,Camporgiano,10-10-2024,13,1,1,1,1
+San Romano in Garfagnana,Camporgiano,07-09-2024,36,0,1,1,1
+San Romano in Garfagnana,Camporgiano,07-09-2024,31,0,1,1,1
+San Romano in Garfagnana,Camporgiano,07-05-2024,36,0,1,1,1
+San Romano in Garfagnana,Camporgiano,07-05-2024,31,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2024,27,1,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2024,35,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2024,24,1,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2024,31,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-01-2024,38,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2024,27,1,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2024,35,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2024,24,1,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2024,31,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,10-10-2024,38,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-09-2024,38,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-09-2024,58,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-09-2024,33,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-09-2024,32,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-05-2024,38,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-05-2024,58,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-05-2024,33,0,1,1,1
+San Romano in Garfagnana,Castelnuovo di Garfagnana,07-05-2024,32,0,1,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,10-01-2024,69,0,0,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,10-01-2024,57,0,1,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,10-01-2024,52,0,1,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,10-10-2024,69,0,0,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,10-10-2024,57,0,1,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,10-10-2024,52,0,1,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,07-09-2024,70,0,0,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,07-09-2024,65,0,0,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,07-05-2024,70,0,0,1,1
+San Romano in Garfagnana,Castiglione di Garfagnana,07-05-2024,65,0,0,1,1
+San Romano in Garfagnana,Fabbriche di Vergemoli,10-01-2024,119,0,0,1,1
+San Romano in Garfagnana,Fabbriche di Vergemoli,10-01-2024,234,0,0,0,1
+San Romano in Garfagnana,Fabbriche di Vergemoli,10-10-2024,119,0,0,1,1
+San Romano in Garfagnana,Fabbriche di Vergemoli,10-10-2024,234,0,0,0,1
+San Romano in Garfagnana,Fabbriche di Vergemoli,07-09-2024,234,0,0,0,1
+San Romano in Garfagnana,Fabbriche di Vergemoli,07-05-2024,234,0,0,0,1
+San Romano in Garfagnana,Gallicano,10-01-2024,56,0,1,1,1
+San Romano in Garfagnana,Gallicano,10-01-2024,46,0,1,1,1
+San Romano in Garfagnana,Gallicano,10-01-2024,57,0,1,1,1
+San Romano in Garfagnana,Gallicano,10-01-2024,62,0,0,1,1
+San Romano in Garfagnana,Gallicano,10-10-2024,56,0,1,1,1
+San Romano in Garfagnana,Gallicano,10-10-2024,46,0,1,1,1
+San Romano in Garfagnana,Gallicano,10-10-2024,57,0,1,1,1
+San Romano in Garfagnana,Gallicano,10-10-2024,62,0,0,1,1
+San Romano in Garfagnana,Gallicano,07-09-2024,74,0,0,1,1
+San Romano in Garfagnana,Gallicano,07-09-2024,48,0,1,1,1
+San Romano in Garfagnana,Gallicano,07-09-2024,61,0,0,1,1
+San Romano in Garfagnana,Gallicano,07-05-2024,74,0,0,1,1
+San Romano in Garfagnana,Gallicano,07-05-2024,48,0,1,1,1
+San Romano in Garfagnana,Gallicano,07-05-2024,61,0,0,1,1
+San Romano in Garfagnana,Minucciano,10-01-2024,91,0,0,1,1
+San Romano in Garfagnana,Minucciano,10-01-2024,117,0,0,1,1
+San Romano in Garfagnana,Minucciano,10-10-2024,91,0,0,1,1
+San Romano in Garfagnana,Minucciano,10-10-2024,117,0,0,1,1
+San Romano in Garfagnana,Minucciano,07-09-2024,58,0,1,1,1
+San Romano in Garfagnana,Minucciano,07-09-2024,62,0,0,1,1
+San Romano in Garfagnana,Minucciano,07-05-2024,58,0,1,1,1
+San Romano in Garfagnana,Minucciano,07-05-2024,62,0,0,1,1
+San Romano in Garfagnana,Molazzana,10-01-2024,82,0,0,1,1
+San Romano in Garfagnana,Molazzana,10-10-2024,82,0,0,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-01-2024,15,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-01-2024,21,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-01-2024,18,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-01-2024,16,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-10-2024,15,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-10-2024,21,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-10-2024,18,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,10-10-2024,16,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,07-09-2024,17,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,07-09-2024,15,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,07-05-2024,17,1,1,1,1
+San Romano in Garfagnana,Piazza al Serchio,07-05-2024,15,1,1,1,1
+San Romano in Garfagnana,Sillano Giuncugnano,10-01-2024,35,0,1,1,1
+San Romano in Garfagnana,Sillano Giuncugnano,10-01-2024,84,0,0,1,1
+San Romano in Garfagnana,Sillano Giuncugnano,10-10-2024,35,0,1,1,1
+San Romano in Garfagnana,Sillano Giuncugnano,10-10-2024,104,0,0,1,1
+San Romano in Garfagnana,Sillano Giuncugnano,07-09-2024,22,1,1,1,1
+San Romano in Garfagnana,Sillano Giuncugnano,07-05-2024,22,1,1,1,1
+San Romano in Garfagnana,Bagni di Lucca,10-01-2024,96,0,0,1,1
+San Romano in Garfagnana,Bagni di Lucca,10-10-2024,96,0,0,1,1
+San Romano in Garfagnana,Barga,10-01-2024,74,0,0,1,1
+San Romano in Garfagnana,Barga,10-01-2024,76,0,0,1,1
+San Romano in Garfagnana,Barga,10-01-2024,62,0,0,1,1
+San Romano in Garfagnana,Barga,10-10-2024,74,0,0,1,1
+San Romano in Garfagnana,Barga,10-10-2024,76,0,0,1,1
+San Romano in Garfagnana,Barga,10-10-2024,62,0,0,1,1
+San Romano in Garfagnana,Barga,07-09-2024,70,0,0,1,1
+San Romano in Garfagnana,Barga,07-05-2024,70,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-01-2024,84,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-01-2024,86,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-01-2024,79,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-01-2024,89,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-10-2024,84,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-10-2024,86,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-10-2024,79,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,10-10-2024,89,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,07-09-2024,91,0,0,1,1
+San Romano in Garfagnana,Borgo a Mozzano,07-05-2024,91,0,0,1,1
+San Romano in Garfagnana,Pescaglia,10-01-2024,113,0,0,1,1
+San Romano in Garfagnana,Pescaglia,10-01-2024,221,0,0,0,1
+San Romano in Garfagnana,Pescaglia,10-10-2024,113,0,0,1,1
+San Romano in Garfagnana,Pescaglia,10-10-2024,221,0,0,0,1
+San Romano in Garfagnana,Pescaglia,07-09-2024,122,0,0,0,1
+San Romano in Garfagnana,Pescaglia,07-05-2024,122,0,0,0,1
+San Romano in Garfagnana,Lucca,10-01-2024,122,0,0,0,1
+San Romano in Garfagnana,Lucca,10-01-2024,111,0,0,1,1
+San Romano in Garfagnana,Lucca,10-10-2024,122,0,0,0,1
+San Romano in Garfagnana,Lucca,10-10-2024,111,0,0,1,1
+San Romano in Garfagnana,Lucca,07-09-2024,113,0,0,1,1
+San Romano in Garfagnana,Lucca,07-09-2024,123,0,0,0,1
+San Romano in Garfagnana,Lucca,07-05-2024,113,0,0,1,1
+San Romano in Garfagnana,Lucca,07-05-2024,123,0,0,0,1
+Sillano Giuncugnano,Camporgiano,10-01-2024,37,0,1,1,1
+Sillano Giuncugnano,Camporgiano,10-01-2024,48,0,1,1,1
+Sillano Giuncugnano,Camporgiano,10-01-2024,50,0,1,1,1
+Sillano Giuncugnano,Camporgiano,10-01-2024,161,0,0,0,1
+Sillano Giuncugnano,Camporgiano,10-01-2024,41,0,1,1,1
+Sillano Giuncugnano,Camporgiano,10-10-2024,37,0,1,1,1
+Sillano Giuncugnano,Camporgiano,10-10-2024,48,0,1,1,1
+Sillano Giuncugnano,Camporgiano,10-10-2024,50,0,1,1,1
+Sillano Giuncugnano,Camporgiano,10-10-2024,161,0,0,0,1
+Sillano Giuncugnano,Camporgiano,10-10-2024,41,0,1,1,1
+Sillano Giuncugnano,Camporgiano,07-09-2024,31,0,1,1,1
+Sillano Giuncugnano,Camporgiano,07-09-2024,33,0,1,1,1
+Sillano Giuncugnano,Camporgiano,07-05-2024,31,0,1,1,1
+Sillano Giuncugnano,Camporgiano,07-05-2024,33,0,1,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-01-2024,57,0,1,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-01-2024,64,0,0,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-01-2024,70,0,0,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-01-2024,99,0,0,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2024,57,0,1,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2024,64,0,0,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2024,70,0,0,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,10-10-2024,99,0,0,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,07-09-2024,54,0,1,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,07-09-2024,56,0,1,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,07-05-2024,54,0,1,1,1
+Sillano Giuncugnano,Castelnuovo di Garfagnana,07-05-2024,56,0,1,1,1
+Sillano Giuncugnano,Castiglione di Garfagnana,07-09-2024,95,0,0,1,1
+Sillano Giuncugnano,Castiglione di Garfagnana,07-09-2024,92,0,0,1,1
+Sillano Giuncugnano,Castiglione di Garfagnana,07-05-2024,95,0,0,1,1
+Sillano Giuncugnano,Castiglione di Garfagnana,07-05-2024,92,0,0,1,1
+Sillano Giuncugnano,Fabbriche di Vergemoli,10-01-2024,258,0,0,0,1
+Sillano Giuncugnano,Fabbriche di Vergemoli,10-01-2024,313,0,0,0,1
+Sillano Giuncugnano,Fabbriche di Vergemoli,10-10-2024,157,0,0,0,1
+Sillano Giuncugnano,Fabbriche di Vergemoli,10-10-2024,313,0,0,0,1
+Sillano Giuncugnano,Fabbriche di Vergemoli,07-09-2024,371,0,0,0,1
+Sillano Giuncugnano,Fabbriche di Vergemoli,07-05-2024,371,0,0,0,1
+Sillano Giuncugnano,Gallicano,10-01-2024,73,0,0,1,1
+Sillano Giuncugnano,Gallicano,10-01-2024,89,0,0,1,1
+Sillano Giuncugnano,Gallicano,10-01-2024,86,0,0,1,1
+Sillano Giuncugnano,Gallicano,10-01-2024,84,0,0,1,1
+Sillano Giuncugnano,Gallicano,10-10-2024,73,0,0,1,1
+Sillano Giuncugnano,Gallicano,10-10-2024,89,0,0,1,1
+Sillano Giuncugnano,Gallicano,10-10-2024,86,0,0,1,1
+Sillano Giuncugnano,Gallicano,10-10-2024,84,0,0,1,1
+Sillano Giuncugnano,Gallicano,07-09-2024,99,0,0,1,1
+Sillano Giuncugnano,Gallicano,07-09-2024,75,0,0,1,1
+Sillano Giuncugnano,Gallicano,07-05-2024,99,0,0,1,1
+Sillano Giuncugnano,Gallicano,07-05-2024,75,0,0,1,1
+Sillano Giuncugnano,Minucciano,10-01-2024,132,0,0,0,1
+Sillano Giuncugnano,Minucciano,10-01-2024,54,0,1,1,1
+Sillano Giuncugnano,Minucciano,10-01-2024,152,0,0,0,1
+Sillano Giuncugnano,Minucciano,10-10-2024,132,0,0,0,1
+Sillano Giuncugnano,Minucciano,10-10-2024,54,0,1,1,1
+Sillano Giuncugnano,Minucciano,10-10-2024,152,0,0,0,1
+Sillano Giuncugnano,Piazza al Serchio,10-01-2024,19,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,10-01-2024,21,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,10-01-2024,13,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,10-10-2024,19,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,10-10-2024,21,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,10-10-2024,13,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,07-09-2024,18,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,07-09-2024,19,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,07-05-2024,18,1,1,1,1
+Sillano Giuncugnano,Piazza al Serchio,07-05-2024,19,1,1,1,1
+Sillano Giuncugnano,Pieve Fosciana,07-09-2024,337,0,0,0,1
+Sillano Giuncugnano,Pieve Fosciana,07-05-2024,337,0,0,0,1
+Sillano Giuncugnano,San Romano in Garfagnana,10-01-2024,28,1,1,1,1
+Sillano Giuncugnano,San Romano in Garfagnana,10-01-2024,156,0,0,0,1
+Sillano Giuncugnano,San Romano in Garfagnana,10-10-2024,28,1,1,1,1
+Sillano Giuncugnano,San Romano in Garfagnana,10-10-2024,156,0,0,0,1
+Sillano Giuncugnano,San Romano in Garfagnana,07-09-2024,27,1,1,1,1
+Sillano Giuncugnano,San Romano in Garfagnana,07-09-2024,29,1,1,1,1
+Sillano Giuncugnano,San Romano in Garfagnana,07-05-2024,27,1,1,1,1
+Sillano Giuncugnano,San Romano in Garfagnana,07-05-2024,29,1,1,1,1
+Sillano Giuncugnano,Villa Collemandina,10-01-2024,151,0,0,0,1
+Sillano Giuncugnano,Villa Collemandina,10-10-2024,151,0,0,0,1
+Sillano Giuncugnano,Villa Collemandina,07-09-2024,118,0,0,1,1
+Sillano Giuncugnano,Villa Collemandina,07-09-2024,115,0,0,1,1
+Sillano Giuncugnano,Villa Collemandina,07-05-2024,118,0,0,1,1
+Sillano Giuncugnano,Villa Collemandina,07-05-2024,115,0,0,1,1
+Sillano Giuncugnano,Barga,10-01-2024,76,0,0,1,1
+Sillano Giuncugnano,Barga,10-01-2024,93,0,0,1,1
+Sillano Giuncugnano,Barga,10-01-2024,123,0,0,0,1
+Sillano Giuncugnano,Barga,10-01-2024,130,0,0,0,1
+Sillano Giuncugnano,Barga,10-10-2024,76,0,0,1,1
+Sillano Giuncugnano,Barga,10-10-2024,93,0,0,1,1
+Sillano Giuncugnano,Barga,10-10-2024,123,0,0,0,1
+Sillano Giuncugnano,Barga,10-10-2024,130,0,0,0,1
+Sillano Giuncugnano,Barga,07-09-2024,132,0,0,0,1
+Sillano Giuncugnano,Barga,07-09-2024,75,0,0,1,1
+Sillano Giuncugnano,Barga,07-05-2024,132,0,0,0,1
+Sillano Giuncugnano,Barga,07-05-2024,75,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,10-01-2024,86,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,10-01-2024,95,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,10-01-2024,135,0,0,0,1
+Sillano Giuncugnano,Borgo a Mozzano,10-01-2024,112,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,10-10-2024,86,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,10-10-2024,95,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,10-10-2024,135,0,0,0,1
+Sillano Giuncugnano,Borgo a Mozzano,10-10-2024,112,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,07-09-2024,133,0,0,0,1
+Sillano Giuncugnano,Borgo a Mozzano,07-09-2024,81,0,0,1,1
+Sillano Giuncugnano,Borgo a Mozzano,07-05-2024,133,0,0,0,1
+Sillano Giuncugnano,Borgo a Mozzano,07-05-2024,81,0,0,1,1
+Sillano Giuncugnano,Pescaglia,10-01-2024,239,0,0,0,1
+Sillano Giuncugnano,Pescaglia,10-01-2024,273,0,0,0,1
+Sillano Giuncugnano,Pescaglia,10-10-2024,239,0,0,0,1
+Sillano Giuncugnano,Pescaglia,10-10-2024,273,0,0,0,1
+Sillano Giuncugnano,Pescaglia,07-09-2024,306,0,0,0,1
+Sillano Giuncugnano,Pescaglia,07-09-2024,434,0,0,0,1
+Sillano Giuncugnano,Pescaglia,07-05-2024,306,0,0,0,1
+Sillano Giuncugnano,Pescaglia,07-05-2024,434,0,0,0,1
+Sillano Giuncugnano,Lucca,10-01-2024,115,0,0,1,1
+Sillano Giuncugnano,Lucca,10-01-2024,127,0,0,0,1
+Sillano Giuncugnano,Lucca,10-01-2024,121,0,0,0,1
+Sillano Giuncugnano,Lucca,10-01-2024,145,0,0,0,1
+Sillano Giuncugnano,Lucca,10-01-2024,117,0,0,1,1
+Sillano Giuncugnano,Lucca,10-10-2024,115,0,0,1,1
+Sillano Giuncugnano,Lucca,10-10-2024,127,0,0,0,1
+Sillano Giuncugnano,Lucca,10-10-2024,121,0,0,0,1
+Sillano Giuncugnano,Lucca,10-10-2024,145,0,0,0,1
+Sillano Giuncugnano,Lucca,10-10-2024,117,0,0,1,1
+Sillano Giuncugnano,Lucca,07-09-2024,138,0,0,0,1
+Sillano Giuncugnano,Lucca,07-09-2024,113,0,0,1,1
+Sillano Giuncugnano,Lucca,07-05-2024,138,0,0,0,1
+Sillano Giuncugnano,Lucca,07-05-2024,113,0,0,1,1
+Villa Collemandina,Camporgiano,10-01-2024,49,0,1,1,1
+Villa Collemandina,Camporgiano,10-01-2024,78,0,0,1,1
+Villa Collemandina,Camporgiano,10-01-2024,51,0,1,1,1
+Villa Collemandina,Camporgiano,10-01-2024,52,0,1,1,1
+Villa Collemandina,Camporgiano,10-10-2024,49,0,1,1,1
+Villa Collemandina,Camporgiano,10-10-2024,78,0,0,1,1
+Villa Collemandina,Camporgiano,10-10-2024,51,0,1,1,1
+Villa Collemandina,Camporgiano,10-10-2024,52,0,1,1,1
+Villa Collemandina,Camporgiano,07-09-2024,60,0,0,1,1
+Villa Collemandina,Camporgiano,07-05-2024,60,0,0,1,1
+Villa Collemandina,Castelnuovo di Garfagnana,10-01-2024,38,0,1,1,1
+Villa Collemandina,Castelnuovo di Garfagnana,10-01-2024,28,1,1,1,1
+Villa Collemandina,Castelnuovo di Garfagnana,10-10-2024,38,0,1,1,1
+Villa Collemandina,Castelnuovo di Garfagnana,10-10-2024,28,1,1,1,1
+Villa Collemandina,Castiglione di Garfagnana,10-01-2024,6,1,1,1,1
+Villa Collemandina,Castiglione di Garfagnana,10-10-2024,6,1,1,1,1
+Villa Collemandina,Fabbriche di Vergemoli,10-01-2024,148,0,0,0,1
+Villa Collemandina,Fabbriche di Vergemoli,10-10-2024,181,0,0,0,1
+Villa Collemandina,Fabbriche di Vergemoli,10-10-2024,148,0,0,0,1
+Villa Collemandina,Gallicano,10-01-2024,61,0,0,1,1
+Villa Collemandina,Gallicano,10-01-2024,58,0,1,1,1
+Villa Collemandina,Gallicano,10-10-2024,61,0,0,1,1
+Villa Collemandina,Gallicano,10-10-2024,58,0,1,1,1
+Villa Collemandina,Gallicano,07-09-2024,73,0,0,1,1
+Villa Collemandina,Gallicano,07-05-2024,73,0,0,1,1
+Villa Collemandina,Minucciano,10-01-2024,156,0,0,0,1
+Villa Collemandina,Minucciano,10-01-2024,178,0,0,0,1
+Villa Collemandina,Minucciano,10-10-2024,156,0,0,0,1
+Villa Collemandina,Minucciano,10-10-2024,178,0,0,0,1
+Villa Collemandina,Minucciano,07-09-2024,132,0,0,0,1
+Villa Collemandina,Minucciano,07-05-2024,132,0,0,0,1
+Villa Collemandina,Piazza al Serchio,10-01-2024,53,0,1,1,1
+Villa Collemandina,Piazza al Serchio,10-01-2024,57,0,1,1,1
+Villa Collemandina,Piazza al Serchio,10-10-2024,53,0,1,1,1
+Villa Collemandina,Piazza al Serchio,10-10-2024,57,0,1,1,1
+Villa Collemandina,Piazza al Serchio,07-09-2024,92,0,0,1,1
+Villa Collemandina,Piazza al Serchio,07-09-2024,63,0,0,1,1
+Villa Collemandina,Piazza al Serchio,07-05-2024,92,0,0,1,1
+Villa Collemandina,Piazza al Serchio,07-05-2024,63,0,0,1,1
+Villa Collemandina,San Romano in Garfagnana,07-09-2024,77,0,0,1,1
+Villa Collemandina,San Romano in Garfagnana,07-09-2024,78,0,0,1,1
+Villa Collemandina,San Romano in Garfagnana,07-05-2024,77,0,0,1,1
+Villa Collemandina,San Romano in Garfagnana,07-05-2024,78,0,0,1,1
+Villa Collemandina,Sillano Giuncugnano,10-01-2024,96,0,0,1,1
+Villa Collemandina,Sillano Giuncugnano,10-01-2024,139,0,0,0,1
+Villa Collemandina,Sillano Giuncugnano,10-10-2024,116,0,0,1,1
+Villa Collemandina,Sillano Giuncugnano,10-10-2024,139,0,0,0,1
+Villa Collemandina,Sillano Giuncugnano,07-09-2024,144,0,0,0,1
+Villa Collemandina,Sillano Giuncugnano,07-09-2024,96,0,0,1,1
+Villa Collemandina,Sillano Giuncugnano,07-05-2024,144,0,0,0,1
+Villa Collemandina,Sillano Giuncugnano,07-05-2024,96,0,0,1,1
+Villa Collemandina,Barga,10-01-2024,53,0,1,1,1
+Villa Collemandina,Barga,10-01-2024,63,0,0,1,1
+Villa Collemandina,Barga,10-01-2024,91,0,0,1,1
+Villa Collemandina,Barga,10-10-2024,53,0,1,1,1
+Villa Collemandina,Barga,10-10-2024,63,0,0,1,1
+Villa Collemandina,Barga,10-10-2024,91,0,0,1,1
+Villa Collemandina,Barga,07-09-2024,88,0,0,1,1
+Villa Collemandina,Barga,07-05-2024,88,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,10-01-2024,89,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,10-01-2024,70,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,10-10-2024,89,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,10-10-2024,70,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,07-09-2024,87,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,07-09-2024,104,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,07-05-2024,87,0,0,1,1
+Villa Collemandina,Borgo a Mozzano,07-05-2024,104,0,0,1,1
+Villa Collemandina,Pescaglia,07-09-2024,111,0,0,1,1
+Villa Collemandina,Pescaglia,07-09-2024,165,0,0,0,1
+Villa Collemandina,Pescaglia,07-05-2024,111,0,0,1,1
+Villa Collemandina,Pescaglia,07-05-2024,165,0,0,0,1
+Villa Collemandina,Lucca,10-01-2024,94,0,0,1,1
+Villa Collemandina,Lucca,10-01-2024,102,0,0,1,1
+Villa Collemandina,Lucca,10-10-2024,94,0,0,1,1
+Villa Collemandina,Lucca,10-10-2024,102,0,0,1,1
+Bagni di Lucca,Camporgiano,10-01-2024,68,0,0,1,1
+Bagni di Lucca,Camporgiano,10-01-2024,66,0,0,1,1
+Bagni di Lucca,Camporgiano,10-10-2024,68,0,0,1,1
+Bagni di Lucca,Camporgiano,10-10-2024,66,0,0,1,1
+Bagni di Lucca,Camporgiano,07-09-2024,68,0,0,1,1
+Bagni di Lucca,Camporgiano,07-09-2024,74,0,0,1,1
+Bagni di Lucca,Camporgiano,07-05-2024,68,0,0,1,1
+Bagni di Lucca,Camporgiano,07-05-2024,74,0,0,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,10-01-2024,59,0,1,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,10-01-2024,53,0,1,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,10-01-2024,61,0,0,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,10-10-2024,59,0,1,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,10-10-2024,53,0,1,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,10-10-2024,61,0,0,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,07-09-2024,62,0,0,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,07-09-2024,65,0,0,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,07-05-2024,62,0,0,1,1
+Bagni di Lucca,Castelnuovo di Garfagnana,07-05-2024,65,0,0,1,1
+Bagni di Lucca,Castiglione di Garfagnana,07-09-2024,105,0,0,1,1
+Bagni di Lucca,Castiglione di Garfagnana,07-05-2024,105,0,0,1,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-01-2024,58,0,1,1,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-01-2024,99,0,0,1,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-01-2024,151,0,0,0,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-01-2024,128,0,0,0,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-10-2024,58,0,1,1,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-10-2024,99,0,0,1,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-10-2024,151,0,0,0,1
+Bagni di Lucca,Fabbriche di Vergemoli,10-10-2024,128,0,0,0,1
+Bagni di Lucca,Fabbriche di Vergemoli,07-09-2024,121,0,0,0,1
+Bagni di Lucca,Fabbriche di Vergemoli,07-05-2024,121,0,0,0,1
+Bagni di Lucca,Gallicano,10-01-2024,46,0,1,1,1
+Bagni di Lucca,Gallicano,10-10-2024,46,0,1,1,1
+Bagni di Lucca,Gallicano,07-09-2024,59,0,1,1,1
+Bagni di Lucca,Gallicano,07-09-2024,54,0,1,1,1
+Bagni di Lucca,Gallicano,07-09-2024,39,0,1,1,1
+Bagni di Lucca,Gallicano,07-05-2024,59,0,1,1,1
+Bagni di Lucca,Gallicano,07-05-2024,54,0,1,1,1
+Bagni di Lucca,Gallicano,07-05-2024,39,0,1,1,1
+Bagni di Lucca,Minucciano,10-01-2024,192,0,0,0,1
+Bagni di Lucca,Minucciano,10-10-2024,192,0,0,0,1
+Bagni di Lucca,Molazzana,07-09-2024,73,0,0,1,1
+Bagni di Lucca,Molazzana,07-05-2024,73,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,10-01-2024,71,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,10-01-2024,70,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,10-10-2024,71,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,10-10-2024,70,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,07-09-2024,73,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,07-09-2024,77,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,07-05-2024,73,0,0,1,1
+Bagni di Lucca,Piazza al Serchio,07-05-2024,77,0,0,1,1
+Bagni di Lucca,San Romano in Garfagnana,10-01-2024,74,0,0,1,1
+Bagni di Lucca,San Romano in Garfagnana,10-10-2024,74,0,0,1,1
+Bagni di Lucca,San Romano in Garfagnana,07-09-2024,78,0,0,1,1
+Bagni di Lucca,San Romano in Garfagnana,07-09-2024,87,0,0,1,1
+Bagni di Lucca,San Romano in Garfagnana,07-05-2024,78,0,0,1,1
+Bagni di Lucca,San Romano in Garfagnana,07-05-2024,87,0,0,1,1
+Bagni di Lucca,Sillano Giuncugnano,10-01-2024,114,0,0,1,1
+Bagni di Lucca,Sillano Giuncugnano,10-10-2024,134,0,0,0,1
+Bagni di Lucca,Villa Collemandina,10-01-2024,163,0,0,0,1
+Bagni di Lucca,Villa Collemandina,10-10-2024,163,0,0,0,1
+Bagni di Lucca,Barga,10-01-2024,40,0,1,1,1
+Bagni di Lucca,Barga,10-01-2024,47,0,1,1,1
+Bagni di Lucca,Barga,10-01-2024,59,0,1,1,1
+Bagni di Lucca,Barga,10-10-2024,40,0,1,1,1
+Bagni di Lucca,Barga,10-10-2024,47,0,1,1,1
+Bagni di Lucca,Barga,10-10-2024,59,0,1,1,1
+Bagni di Lucca,Barga,07-09-2024,87,0,0,1,1
+Bagni di Lucca,Barga,07-09-2024,40,0,1,1,1
+Bagni di Lucca,Barga,07-05-2024,87,0,0,1,1
+Bagni di Lucca,Barga,07-05-2024,40,0,1,1,1
+Bagni di Lucca,Borgo a Mozzano,10-01-2024,28,1,1,1,1
+Bagni di Lucca,Borgo a Mozzano,10-01-2024,26,1,1,1,1
+Bagni di Lucca,Borgo a Mozzano,10-10-2024,28,1,1,1,1
+Bagni di Lucca,Borgo a Mozzano,10-10-2024,26,1,1,1,1
+Bagni di Lucca,Borgo a Mozzano,07-09-2024,28,1,1,1,1
+Bagni di Lucca,Borgo a Mozzano,07-09-2024,30,0,1,1,1
+Bagni di Lucca,Borgo a Mozzano,07-09-2024,29,1,1,1,1
+Bagni di Lucca,Borgo a Mozzano,07-05-2024,28,1,1,1,1
+Bagni di Lucca,Borgo a Mozzano,07-05-2024,30,0,1,1,1
+Bagni di Lucca,Borgo a Mozzano,07-05-2024,29,1,1,1,1
+Bagni di Lucca,Pescaglia,10-01-2024,52,0,1,1,1
+Bagni di Lucca,Pescaglia,10-01-2024,81,0,0,1,1
+Bagni di Lucca,Pescaglia,10-01-2024,95,0,0,1,1
+Bagni di Lucca,Pescaglia,10-10-2024,52,0,1,1,1
+Bagni di Lucca,Pescaglia,10-10-2024,81,0,0,1,1
+Bagni di Lucca,Pescaglia,10-10-2024,95,0,0,1,1
+Bagni di Lucca,Pescaglia,07-09-2024,57,0,1,1,1
+Bagni di Lucca,Pescaglia,07-05-2024,57,0,1,1,1
+Bagni di Lucca,Lucca,10-01-2024,60,0,0,1,1
+Bagni di Lucca,Lucca,10-01-2024,57,0,1,1,1
+Bagni di Lucca,Lucca,10-10-2024,60,0,0,1,1
+Bagni di Lucca,Lucca,10-10-2024,57,0,1,1,1
+Bagni di Lucca,Lucca,07-09-2024,60,0,0,1,1
+Bagni di Lucca,Lucca,07-09-2024,57,0,1,1,1
+Bagni di Lucca,Lucca,07-05-2024,60,0,0,1,1
+Bagni di Lucca,Lucca,07-05-2024,57,0,1,1,1
+Barga,Camporgiano,10-01-2024,45,0,1,1,1
+Barga,Camporgiano,10-01-2024,56,0,1,1,1
+Barga,Camporgiano,10-01-2024,62,0,0,1,1
+Barga,Camporgiano,10-10-2024,45,0,1,1,1
+Barga,Camporgiano,10-10-2024,56,0,1,1,1
+Barga,Camporgiano,10-10-2024,62,0,0,1,1
+Barga,Camporgiano,07-09-2024,55,0,1,1,1
+Barga,Camporgiano,07-09-2024,62,0,0,1,1
+Barga,Camporgiano,07-09-2024,61,0,0,1,1
+Barga,Camporgiano,07-09-2024,68,0,0,1,1
+Barga,Camporgiano,07-05-2024,55,0,1,1,1
+Barga,Camporgiano,07-05-2024,62,0,0,1,1
+Barga,Camporgiano,07-05-2024,61,0,0,1,1
+Barga,Camporgiano,07-05-2024,68,0,0,1,1
+Barga,Castelnuovo di Garfagnana,10-01-2024,35,0,1,1,1
+Barga,Castelnuovo di Garfagnana,10-01-2024,42,0,1,1,1
+Barga,Castelnuovo di Garfagnana,10-01-2024,48,0,1,1,1
+Barga,Castelnuovo di Garfagnana,10-01-2024,37,0,1,1,1
+Barga,Castelnuovo di Garfagnana,10-10-2024,35,0,1,1,1
+Barga,Castelnuovo di Garfagnana,10-10-2024,42,0,1,1,1
+Barga,Castelnuovo di Garfagnana,10-10-2024,48,0,1,1,1
+Barga,Castelnuovo di Garfagnana,10-10-2024,37,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-09-2024,52,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-09-2024,43,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-09-2024,56,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-09-2024,53,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-05-2024,52,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-05-2024,43,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-05-2024,56,0,1,1,1
+Barga,Castelnuovo di Garfagnana,07-05-2024,53,0,1,1,1
+Barga,Castiglione di Garfagnana,10-01-2024,55,0,1,1,1
+Barga,Castiglione di Garfagnana,10-10-2024,55,0,1,1,1
+Barga,Castiglione di Garfagnana,07-09-2024,63,0,0,1,1
+Barga,Castiglione di Garfagnana,07-09-2024,93,0,0,1,1
+Barga,Castiglione di Garfagnana,07-09-2024,108,0,0,1,1
+Barga,Castiglione di Garfagnana,07-05-2024,63,0,0,1,1
+Barga,Castiglione di Garfagnana,07-05-2024,93,0,0,1,1
+Barga,Castiglione di Garfagnana,07-05-2024,108,0,0,1,1
+Barga,Fabbriche di Vergemoli,10-01-2024,53,0,1,1,1
+Barga,Fabbriche di Vergemoli,10-01-2024,139,0,0,0,1
+Barga,Fabbriche di Vergemoli,10-01-2024,131,0,0,0,1
+Barga,Fabbriche di Vergemoli,10-10-2024,53,0,1,1,1
+Barga,Fabbriche di Vergemoli,10-10-2024,139,0,0,0,1
+Barga,Fabbriche di Vergemoli,10-10-2024,131,0,0,0,1
+Barga,Fabbriche di Vergemoli,07-09-2024,161,0,0,0,1
+Barga,Fabbriche di Vergemoli,07-05-2024,161,0,0,0,1
+Barga,Gallicano,10-01-2024,17,1,1,1,1
+Barga,Gallicano,10-01-2024,31,0,1,1,1
+Barga,Gallicano,10-10-2024,17,1,1,1,1
+Barga,Gallicano,10-10-2024,31,0,1,1,1
+Barga,Gallicano,07-09-2024,17,1,1,1,1
+Barga,Gallicano,07-09-2024,26,1,1,1,1
+Barga,Gallicano,07-05-2024,17,1,1,1,1
+Barga,Gallicano,07-05-2024,26,1,1,1,1
+Barga,Minucciano,10-01-2024,100,0,0,1,1
+Barga,Minucciano,10-01-2024,120,0,0,0,1
+Barga,Minucciano,10-01-2024,189,0,0,0,1
+Barga,Minucciano,10-01-2024,229,0,0,0,1
+Barga,Minucciano,10-10-2024,100,0,0,1,1
+Barga,Minucciano,10-10-2024,120,0,0,0,1
+Barga,Minucciano,10-10-2024,189,0,0,0,1
+Barga,Minucciano,10-10-2024,229,0,0,0,1
+Barga,Minucciano,07-09-2024,150,0,0,0,1
+Barga,Minucciano,07-09-2024,200,0,0,0,1
+Barga,Minucciano,07-05-2024,150,0,0,0,1
+Barga,Minucciano,07-05-2024,200,0,0,0,1
+Barga,Molazzana,10-01-2024,39,0,1,1,1
+Barga,Molazzana,10-01-2024,60,0,0,1,1
+Barga,Molazzana,10-10-2024,39,0,1,1,1
+Barga,Molazzana,10-10-2024,60,0,0,1,1
+Barga,Molazzana,07-09-2024,63,0,0,1,1
+Barga,Molazzana,07-05-2024,63,0,0,1,1
+Barga,Piazza al Serchio,10-01-2024,50,0,1,1,1
+Barga,Piazza al Serchio,10-01-2024,61,0,0,1,1
+Barga,Piazza al Serchio,10-01-2024,60,0,0,1,1
+Barga,Piazza al Serchio,10-01-2024,67,0,0,1,1
+Barga,Piazza al Serchio,10-10-2024,50,0,1,1,1
+Barga,Piazza al Serchio,10-10-2024,61,0,0,1,1
+Barga,Piazza al Serchio,10-10-2024,60,0,0,1,1
+Barga,Piazza al Serchio,10-10-2024,67,0,0,1,1
+Barga,Piazza al Serchio,07-09-2024,60,0,0,1,1
+Barga,Piazza al Serchio,07-09-2024,67,0,0,1,1
+Barga,Piazza al Serchio,07-09-2024,65,0,0,1,1
+Barga,Piazza al Serchio,07-09-2024,73,0,0,1,1
+Barga,Piazza al Serchio,07-05-2024,60,0,0,1,1
+Barga,Piazza al Serchio,07-05-2024,67,0,0,1,1
+Barga,Piazza al Serchio,07-05-2024,65,0,0,1,1
+Barga,Piazza al Serchio,07-05-2024,73,0,0,1,1
+Barga,San Romano in Garfagnana,10-01-2024,53,0,1,1,1
+Barga,San Romano in Garfagnana,10-01-2024,58,0,1,1,1
+Barga,San Romano in Garfagnana,10-01-2024,70,0,0,1,1
+Barga,San Romano in Garfagnana,10-01-2024,77,0,0,1,1
+Barga,San Romano in Garfagnana,10-10-2024,53,0,1,1,1
+Barga,San Romano in Garfagnana,10-10-2024,58,0,1,1,1
+Barga,San Romano in Garfagnana,10-10-2024,70,0,0,1,1
+Barga,San Romano in Garfagnana,10-10-2024,77,0,0,1,1
+Barga,San Romano in Garfagnana,07-09-2024,63,0,0,1,1
+Barga,San Romano in Garfagnana,07-09-2024,90,0,0,1,1
+Barga,San Romano in Garfagnana,07-05-2024,63,0,0,1,1
+Barga,San Romano in Garfagnana,07-05-2024,90,0,0,1,1
+Barga,Sillano Giuncugnano,10-01-2024,126,0,0,0,1
+Barga,Sillano Giuncugnano,10-01-2024,104,0,0,1,1
+Barga,Sillano Giuncugnano,10-01-2024,159,0,0,0,1
+Barga,Sillano Giuncugnano,10-10-2024,146,0,0,0,1
+Barga,Sillano Giuncugnano,10-10-2024,104,0,0,1,1
+Barga,Sillano Giuncugnano,10-10-2024,159,0,0,0,1
+Barga,Sillano Giuncugnano,07-09-2024,78,0,0,1,1
+Barga,Sillano Giuncugnano,07-09-2024,165,0,0,0,1
+Barga,Sillano Giuncugnano,07-05-2024,78,0,0,1,1
+Barga,Sillano Giuncugnano,07-05-2024,165,0,0,0,1
+Barga,Villa Collemandina,10-01-2024,61,0,0,1,1
+Barga,Villa Collemandina,10-01-2024,109,0,0,1,1
+Barga,Villa Collemandina,10-10-2024,61,0,0,1,1
+Barga,Villa Collemandina,10-10-2024,109,0,0,1,1
+Barga,Villa Collemandina,07-09-2024,96,0,0,1,1
+Barga,Villa Collemandina,07-09-2024,131,0,0,0,1
+Barga,Villa Collemandina,07-05-2024,96,0,0,1,1
+Barga,Villa Collemandina,07-05-2024,131,0,0,0,1
+Barga,Bagni di Lucca,10-01-2024,38,0,1,1,1
+Barga,Bagni di Lucca,10-01-2024,54,0,1,1,1
+Barga,Bagni di Lucca,10-01-2024,41,0,1,1,1
+Barga,Bagni di Lucca,10-01-2024,58,0,1,1,1
+Barga,Bagni di Lucca,10-01-2024,78,0,0,1,1
+Barga,Bagni di Lucca,10-10-2024,38,0,1,1,1
+Barga,Bagni di Lucca,10-10-2024,54,0,1,1,1
+Barga,Bagni di Lucca,10-10-2024,41,0,1,1,1
+Barga,Bagni di Lucca,10-10-2024,58,0,1,1,1
+Barga,Bagni di Lucca,10-10-2024,78,0,0,1,1
+Barga,Bagni di Lucca,07-09-2024,78,0,0,1,1
+Barga,Bagni di Lucca,07-09-2024,46,0,1,1,1
+Barga,Bagni di Lucca,07-09-2024,40,0,1,1,1
+Barga,Bagni di Lucca,07-05-2024,78,0,0,1,1
+Barga,Bagni di Lucca,07-05-2024,46,0,1,1,1
+Barga,Bagni di Lucca,07-05-2024,40,0,1,1,1
+Barga,Borgo a Mozzano,10-01-2024,40,0,1,1,1
+Barga,Borgo a Mozzano,10-01-2024,66,0,0,1,1
+Barga,Borgo a Mozzano,10-01-2024,44,0,1,1,1
+Barga,Borgo a Mozzano,10-10-2024,40,0,1,1,1
+Barga,Borgo a Mozzano,10-10-2024,66,0,0,1,1
+Barga,Borgo a Mozzano,10-10-2024,44,0,1,1,1
+Barga,Borgo a Mozzano,07-09-2024,40,0,1,1,1
+Barga,Borgo a Mozzano,07-09-2024,41,0,1,1,1
+Barga,Borgo a Mozzano,07-09-2024,42,0,1,1,1
+Barga,Borgo a Mozzano,07-05-2024,40,0,1,1,1
+Barga,Borgo a Mozzano,07-05-2024,41,0,1,1,1
+Barga,Borgo a Mozzano,07-05-2024,42,0,1,1,1
+Barga,Pescaglia,10-01-2024,70,0,0,1,1
+Barga,Pescaglia,10-01-2024,121,0,0,0,1
+Barga,Pescaglia,10-01-2024,178,0,0,0,1
+Barga,Pescaglia,10-01-2024,153,0,0,0,1
+Barga,Pescaglia,10-10-2024,70,0,0,1,1
+Barga,Pescaglia,10-10-2024,121,0,0,0,1
+Barga,Pescaglia,10-10-2024,178,0,0,0,1
+Barga,Pescaglia,10-10-2024,153,0,0,0,1
+Barga,Pescaglia,07-09-2024,104,0,0,1,1
+Barga,Pescaglia,07-09-2024,105,0,0,1,1
+Barga,Pescaglia,07-05-2024,104,0,0,1,1
+Barga,Pescaglia,07-05-2024,105,0,0,1,1
+Barga,Lucca,10-01-2024,71,0,0,1,1
+Barga,Lucca,10-01-2024,93,0,0,1,1
+Barga,Lucca,10-01-2024,78,0,0,1,1
+Barga,Lucca,10-10-2024,71,0,0,1,1
+Barga,Lucca,10-10-2024,93,0,0,1,1
+Barga,Lucca,10-10-2024,78,0,0,1,1
+Barga,Lucca,07-09-2024,71,0,0,1,1
+Barga,Lucca,07-09-2024,80,0,0,1,1
+Barga,Lucca,07-09-2024,88,0,0,1,1
+Barga,Lucca,07-05-2024,71,0,0,1,1
+Barga,Lucca,07-05-2024,80,0,0,1,1
+Barga,Lucca,07-05-2024,88,0,0,1,1
+Borgo a Mozzano,Camporgiano,10-01-2024,58,0,1,1,1
+Borgo a Mozzano,Camporgiano,10-01-2024,59,0,1,1,1
+Borgo a Mozzano,Camporgiano,10-01-2024,62,0,0,1,1
+Borgo a Mozzano,Camporgiano,10-01-2024,64,0,0,1,1
+Borgo a Mozzano,Camporgiano,10-01-2024,66,0,0,1,1
+Borgo a Mozzano,Camporgiano,10-10-2024,58,0,1,1,1
+Borgo a Mozzano,Camporgiano,10-10-2024,59,0,1,1,1
+Borgo a Mozzano,Camporgiano,10-10-2024,62,0,0,1,1
+Borgo a Mozzano,Camporgiano,10-10-2024,64,0,0,1,1
+Borgo a Mozzano,Camporgiano,10-10-2024,66,0,0,1,1
+Borgo a Mozzano,Camporgiano,07-09-2024,58,0,1,1,1
+Borgo a Mozzano,Camporgiano,07-09-2024,59,0,1,1,1
+Borgo a Mozzano,Camporgiano,07-09-2024,62,0,0,1,1
+Borgo a Mozzano,Camporgiano,07-09-2024,64,0,0,1,1
+Borgo a Mozzano,Camporgiano,07-09-2024,66,0,0,1,1
+Borgo a Mozzano,Camporgiano,07-05-2024,58,0,1,1,1
+Borgo a Mozzano,Camporgiano,07-05-2024,59,0,1,1,1
+Borgo a Mozzano,Camporgiano,07-05-2024,62,0,0,1,1
+Borgo a Mozzano,Camporgiano,07-05-2024,64,0,0,1,1
+Borgo a Mozzano,Camporgiano,07-05-2024,66,0,0,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2024,52,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2024,53,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2024,54,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2024,50,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2024,61,0,0,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-01-2024,57,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2024,52,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2024,53,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2024,54,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2024,50,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2024,61,0,0,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,10-10-2024,57,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2024,52,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2024,54,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2024,55,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2024,61,0,0,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-09-2024,58,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2024,52,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2024,54,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2024,55,0,1,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2024,61,0,0,1,1
+Borgo a Mozzano,Castelnuovo di Garfagnana,07-05-2024,58,0,1,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,10-01-2024,66,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,10-01-2024,118,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,10-10-2024,66,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,10-10-2024,118,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-09-2024,65,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-09-2024,106,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-09-2024,93,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-09-2024,81,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-05-2024,65,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-05-2024,106,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-05-2024,93,0,0,1,1
+Borgo a Mozzano,Castiglione di Garfagnana,07-05-2024,81,0,0,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-01-2024,36,0,1,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-01-2024,50,0,1,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-01-2024,102,0,0,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-01-2024,89,0,0,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2024,36,0,1,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2024,44,0,1,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2024,50,0,1,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2024,102,0,0,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,10-10-2024,89,0,0,1,1
+Borgo a Mozzano,Fabbriche di Vergemoli,07-09-2024,217,0,0,0,1
+Borgo a Mozzano,Fabbriche di Vergemoli,07-05-2024,217,0,0,0,1
+Borgo a Mozzano,Fosciandora,07-09-2024,62,0,0,1,1
+Borgo a Mozzano,Fosciandora,07-05-2024,62,0,0,1,1
+Borgo a Mozzano,Gallicano,10-01-2024,35,0,1,1,1
+Borgo a Mozzano,Gallicano,10-01-2024,39,0,1,1,1
+Borgo a Mozzano,Gallicano,10-10-2024,35,0,1,1,1
+Borgo a Mozzano,Gallicano,10-10-2024,39,0,1,1,1
+Borgo a Mozzano,Gallicano,07-09-2024,35,0,1,1,1
+Borgo a Mozzano,Gallicano,07-09-2024,39,0,1,1,1
+Borgo a Mozzano,Gallicano,07-05-2024,35,0,1,1,1
+Borgo a Mozzano,Gallicano,07-05-2024,39,0,1,1,1
+Borgo a Mozzano,Minucciano,10-01-2024,123,0,0,0,1
+Borgo a Mozzano,Minucciano,10-01-2024,131,0,0,0,1
+Borgo a Mozzano,Minucciano,10-01-2024,116,0,0,1,1
+Borgo a Mozzano,Minucciano,10-01-2024,190,0,0,0,1
+Borgo a Mozzano,Minucciano,10-01-2024,203,0,0,0,1
+Borgo a Mozzano,Minucciano,10-10-2024,123,0,0,0,1
+Borgo a Mozzano,Minucciano,10-10-2024,131,0,0,0,1
+Borgo a Mozzano,Minucciano,10-10-2024,116,0,0,1,1
+Borgo a Mozzano,Minucciano,10-10-2024,190,0,0,0,1
+Borgo a Mozzano,Minucciano,10-10-2024,203,0,0,0,1
+Borgo a Mozzano,Minucciano,07-09-2024,163,0,0,0,1
+Borgo a Mozzano,Minucciano,07-09-2024,207,0,0,0,1
+Borgo a Mozzano,Minucciano,07-09-2024,156,0,0,0,1
+Borgo a Mozzano,Minucciano,07-09-2024,138,0,0,0,1
+Borgo a Mozzano,Minucciano,07-05-2024,163,0,0,0,1
+Borgo a Mozzano,Minucciano,07-05-2024,207,0,0,0,1
+Borgo a Mozzano,Minucciano,07-05-2024,156,0,0,0,1
+Borgo a Mozzano,Minucciano,07-05-2024,138,0,0,0,1
+Borgo a Mozzano,Molazzana,10-01-2024,57,0,1,1,1
+Borgo a Mozzano,Molazzana,10-10-2024,57,0,1,1,1
+Borgo a Mozzano,Molazzana,07-09-2024,54,0,1,1,1
+Borgo a Mozzano,Molazzana,07-05-2024,54,0,1,1,1
+Borgo a Mozzano,Piazza al Serchio,10-01-2024,63,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-01-2024,64,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-01-2024,78,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-01-2024,76,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-01-2024,69,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-01-2024,70,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-01-2024,67,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-10-2024,63,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-10-2024,64,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-10-2024,78,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-10-2024,76,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-10-2024,69,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-10-2024,70,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,10-10-2024,67,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-09-2024,63,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-09-2024,64,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-09-2024,78,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-09-2024,76,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-09-2024,69,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-09-2024,70,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-09-2024,67,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-05-2024,63,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-05-2024,64,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-05-2024,78,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-05-2024,76,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-05-2024,69,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-05-2024,70,0,0,1,1
+Borgo a Mozzano,Piazza al Serchio,07-05-2024,67,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,10-01-2024,69,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,10-01-2024,76,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,10-01-2024,72,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,10-10-2024,69,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,10-10-2024,76,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,10-10-2024,72,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-09-2024,74,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-09-2024,88,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-09-2024,87,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-09-2024,75,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-09-2024,72,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-05-2024,74,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-05-2024,88,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-05-2024,87,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-05-2024,75,0,0,1,1
+Borgo a Mozzano,San Romano in Garfagnana,07-05-2024,72,0,0,1,1
+Borgo a Mozzano,Sillano Giuncugnano,10-01-2024,110,0,0,1,1
+Borgo a Mozzano,Sillano Giuncugnano,10-01-2024,120,0,0,0,1
+Borgo a Mozzano,Sillano Giuncugnano,10-01-2024,122,0,0,0,1
+Borgo a Mozzano,Sillano Giuncugnano,10-10-2024,130,0,0,0,1
+Borgo a Mozzano,Sillano Giuncugnano,10-10-2024,120,0,0,0,1
+Borgo a Mozzano,Sillano Giuncugnano,10-10-2024,122,0,0,0,1
+Borgo a Mozzano,Sillano Giuncugnano,07-09-2024,77,0,0,1,1
+Borgo a Mozzano,Sillano Giuncugnano,07-09-2024,103,0,0,1,1
+Borgo a Mozzano,Sillano Giuncugnano,07-05-2024,77,0,0,1,1
+Borgo a Mozzano,Sillano Giuncugnano,07-05-2024,103,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,10-01-2024,72,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,10-01-2024,163,0,0,0,1
+Borgo a Mozzano,Villa Collemandina,10-01-2024,95,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,10-10-2024,72,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,10-10-2024,163,0,0,0,1
+Borgo a Mozzano,Villa Collemandina,10-10-2024,95,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,07-09-2024,109,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,07-09-2024,84,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,07-05-2024,109,0,0,1,1
+Borgo a Mozzano,Villa Collemandina,07-05-2024,84,0,0,1,1
+Borgo a Mozzano,Bagni di Lucca,10-01-2024,26,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,10-01-2024,27,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,10-10-2024,26,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,10-10-2024,27,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-09-2024,25,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-09-2024,27,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-09-2024,35,0,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-09-2024,32,0,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-05-2024,25,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-05-2024,27,1,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-05-2024,35,0,1,1,1
+Borgo a Mozzano,Bagni di Lucca,07-05-2024,32,0,1,1,1
+Borgo a Mozzano,Barga,10-01-2024,41,0,1,1,1
+Borgo a Mozzano,Barga,10-01-2024,44,0,1,1,1
+Borgo a Mozzano,Barga,10-10-2024,41,0,1,1,1
+Borgo a Mozzano,Barga,10-10-2024,44,0,1,1,1
+Borgo a Mozzano,Barga,07-09-2024,41,0,1,1,1
+Borgo a Mozzano,Barga,07-09-2024,42,0,1,1,1
+Borgo a Mozzano,Barga,07-05-2024,41,0,1,1,1
+Borgo a Mozzano,Barga,07-05-2024,42,0,1,1,1
+Borgo a Mozzano,Pescaglia,10-01-2024,39,0,1,1,1
+Borgo a Mozzano,Pescaglia,10-01-2024,57,0,1,1,1
+Borgo a Mozzano,Pescaglia,10-01-2024,150,0,0,0,1
+Borgo a Mozzano,Pescaglia,10-01-2024,79,0,0,1,1
+Borgo a Mozzano,Pescaglia,10-10-2024,39,0,1,1,1
+Borgo a Mozzano,Pescaglia,10-10-2024,57,0,1,1,1
+Borgo a Mozzano,Pescaglia,10-10-2024,150,0,0,0,1
+Borgo a Mozzano,Pescaglia,10-10-2024,79,0,0,1,1
+Borgo a Mozzano,Pescaglia,07-09-2024,39,0,1,1,1
+Borgo a Mozzano,Pescaglia,07-09-2024,55,0,1,1,1
+Borgo a Mozzano,Pescaglia,07-09-2024,57,0,1,1,1
+Borgo a Mozzano,Pescaglia,07-05-2024,39,0,1,1,1
+Borgo a Mozzano,Pescaglia,07-05-2024,55,0,1,1,1
+Borgo a Mozzano,Pescaglia,07-05-2024,57,0,1,1,1
+Borgo a Mozzano,Lucca,10-01-2024,44,0,1,1,1
+Borgo a Mozzano,Lucca,10-01-2024,42,0,1,1,1
+Borgo a Mozzano,Lucca,10-01-2024,51,0,1,1,1
+Borgo a Mozzano,Lucca,10-01-2024,49,0,1,1,1
+Borgo a Mozzano,Lucca,10-01-2024,43,0,1,1,1
+Borgo a Mozzano,Lucca,10-01-2024,41,0,1,1,1
+Borgo a Mozzano,Lucca,10-01-2024,45,0,1,1,1
+Borgo a Mozzano,Lucca,10-10-2024,44,0,1,1,1
+Borgo a Mozzano,Lucca,10-10-2024,42,0,1,1,1
+Borgo a Mozzano,Lucca,10-10-2024,51,0,1,1,1
+Borgo a Mozzano,Lucca,10-10-2024,49,0,1,1,1
+Borgo a Mozzano,Lucca,10-10-2024,43,0,1,1,1
+Borgo a Mozzano,Lucca,10-10-2024,41,0,1,1,1
+Borgo a Mozzano,Lucca,10-10-2024,45,0,1,1,1
+Borgo a Mozzano,Lucca,07-09-2024,47,0,1,1,1
+Borgo a Mozzano,Lucca,07-09-2024,42,0,1,1,1
+Borgo a Mozzano,Lucca,07-09-2024,45,0,1,1,1
+Borgo a Mozzano,Lucca,07-09-2024,51,0,1,1,1
+Borgo a Mozzano,Lucca,07-09-2024,49,0,1,1,1
+Borgo a Mozzano,Lucca,07-09-2024,43,0,1,1,1
+Borgo a Mozzano,Lucca,07-09-2024,41,0,1,1,1
+Borgo a Mozzano,Lucca,07-05-2024,47,0,1,1,1
+Borgo a Mozzano,Lucca,07-05-2024,42,0,1,1,1
+Borgo a Mozzano,Lucca,07-05-2024,45,0,1,1,1
+Borgo a Mozzano,Lucca,07-05-2024,51,0,1,1,1
+Borgo a Mozzano,Lucca,07-05-2024,49,0,1,1,1
+Borgo a Mozzano,Lucca,07-05-2024,43,0,1,1,1
+Borgo a Mozzano,Lucca,07-05-2024,41,0,1,1,1
+Pescaglia,Camporgiano,10-01-2024,127,0,0,0,1
+Pescaglia,Camporgiano,10-01-2024,132,0,0,0,1
+Pescaglia,Camporgiano,10-01-2024,291,0,0,0,1
+Pescaglia,Camporgiano,10-01-2024,89,0,0,1,1
+Pescaglia,Camporgiano,10-01-2024,256,0,0,0,1
+Pescaglia,Camporgiano,10-10-2024,127,0,0,0,1
+Pescaglia,Camporgiano,10-10-2024,132,0,0,0,1
+Pescaglia,Camporgiano,10-10-2024,291,0,0,0,1
+Pescaglia,Camporgiano,10-10-2024,89,0,0,1,1
+Pescaglia,Camporgiano,10-10-2024,256,0,0,0,1
+Pescaglia,Camporgiano,07-09-2024,89,0,0,1,1
+Pescaglia,Camporgiano,07-09-2024,135,0,0,0,1
+Pescaglia,Camporgiano,07-05-2024,89,0,0,1,1
+Pescaglia,Camporgiano,07-05-2024,135,0,0,0,1
+Pescaglia,Castelnuovo di Garfagnana,10-01-2024,106,0,0,1,1
+Pescaglia,Castelnuovo di Garfagnana,10-01-2024,202,0,0,0,1
+Pescaglia,Castelnuovo di Garfagnana,10-01-2024,76,0,0,1,1
+Pescaglia,Castelnuovo di Garfagnana,10-01-2024,174,0,0,0,1
+Pescaglia,Castelnuovo di Garfagnana,10-10-2024,106,0,0,1,1
+Pescaglia,Castelnuovo di Garfagnana,10-10-2024,202,0,0,0,1
+Pescaglia,Castelnuovo di Garfagnana,10-10-2024,76,0,0,1,1
+Pescaglia,Castelnuovo di Garfagnana,10-10-2024,174,0,0,0,1
+Pescaglia,Castelnuovo di Garfagnana,07-09-2024,84,0,0,1,1
+Pescaglia,Castelnuovo di Garfagnana,07-09-2024,132,0,0,0,1
+Pescaglia,Castelnuovo di Garfagnana,07-09-2024,81,0,0,1,1
+Pescaglia,Castelnuovo di Garfagnana,07-05-2024,84,0,0,1,1
+Pescaglia,Castelnuovo di Garfagnana,07-05-2024,132,0,0,0,1
+Pescaglia,Castelnuovo di Garfagnana,07-05-2024,81,0,0,1,1
+Pescaglia,Castiglione di Garfagnana,10-01-2024,307,0,0,0,1
+Pescaglia,Castiglione di Garfagnana,10-10-2024,307,0,0,0,1
+Pescaglia,Castiglione di Garfagnana,07-09-2024,137,0,0,0,1
+Pescaglia,Castiglione di Garfagnana,07-09-2024,119,0,0,1,1
+Pescaglia,Castiglione di Garfagnana,07-05-2024,137,0,0,0,1
+Pescaglia,Castiglione di Garfagnana,07-05-2024,119,0,0,1,1
+Pescaglia,Fabbriche di Vergemoli,10-01-2024,94,0,0,1,1
+Pescaglia,Fabbriche di Vergemoli,10-01-2024,122,0,0,0,1
+Pescaglia,Fabbriche di Vergemoli,10-01-2024,119,0,0,1,1
+Pescaglia,Fabbriche di Vergemoli,10-10-2024,122,0,0,0,1
+Pescaglia,Fosciandora,07-09-2024,192,0,0,0,1
+Pescaglia,Fosciandora,07-05-2024,192,0,0,0,1
+Pescaglia,Gallicano,10-01-2024,84,0,0,1,1
+Pescaglia,Gallicano,10-01-2024,174,0,0,0,1
+Pescaglia,Gallicano,10-01-2024,55,0,1,1,1
+Pescaglia,Gallicano,10-01-2024,119,0,0,1,1
+Pescaglia,Gallicano,10-10-2024,84,0,0,1,1
+Pescaglia,Gallicano,10-10-2024,174,0,0,0,1
+Pescaglia,Gallicano,10-10-2024,55,0,1,1,1
+Pescaglia,Gallicano,10-10-2024,119,0,0,1,1
+Pescaglia,Gallicano,07-09-2024,87,0,0,1,1
+Pescaglia,Gallicano,07-05-2024,87,0,0,1,1
+Pescaglia,Minucciano,10-01-2024,234,0,0,0,1
+Pescaglia,Minucciano,10-01-2024,258,0,0,0,1
+Pescaglia,Minucciano,10-01-2024,216,0,0,0,1
+Pescaglia,Minucciano,10-01-2024,393,0,0,0,1
+Pescaglia,Minucciano,10-10-2024,234,0,0,0,1
+Pescaglia,Minucciano,10-10-2024,258,0,0,0,1
+Pescaglia,Minucciano,10-10-2024,216,0,0,0,1
+Pescaglia,Minucciano,10-10-2024,393,0,0,0,1
+Pescaglia,Minucciano,07-09-2024,301,0,0,0,1
+Pescaglia,Minucciano,07-09-2024,336,0,0,0,1
+Pescaglia,Minucciano,07-05-2024,301,0,0,0,1
+Pescaglia,Minucciano,07-05-2024,336,0,0,0,1
+Pescaglia,Piazza al Serchio,10-01-2024,130,0,0,0,1
+Pescaglia,Piazza al Serchio,10-01-2024,137,0,0,0,1
+Pescaglia,Piazza al Serchio,10-01-2024,296,0,0,0,1
+Pescaglia,Piazza al Serchio,10-01-2024,94,0,0,1,1
+Pescaglia,Piazza al Serchio,10-01-2024,259,0,0,0,1
+Pescaglia,Piazza al Serchio,10-10-2024,130,0,0,0,1
+Pescaglia,Piazza al Serchio,10-10-2024,137,0,0,0,1
+Pescaglia,Piazza al Serchio,10-10-2024,296,0,0,0,1
+Pescaglia,Piazza al Serchio,10-10-2024,94,0,0,1,1
+Pescaglia,Piazza al Serchio,10-10-2024,259,0,0,0,1
+Pescaglia,Piazza al Serchio,07-09-2024,94,0,0,1,1
+Pescaglia,Piazza al Serchio,07-09-2024,140,0,0,0,1
+Pescaglia,Piazza al Serchio,07-05-2024,94,0,0,1,1
+Pescaglia,Piazza al Serchio,07-05-2024,140,0,0,0,1
+Pescaglia,San Romano in Garfagnana,10-01-2024,98,0,0,1,1
+Pescaglia,San Romano in Garfagnana,10-10-2024,98,0,0,1,1
+Pescaglia,San Romano in Garfagnana,07-09-2024,100,0,0,1,1
+Pescaglia,San Romano in Garfagnana,07-09-2024,101,0,0,1,1
+Pescaglia,San Romano in Garfagnana,07-05-2024,100,0,0,1,1
+Pescaglia,San Romano in Garfagnana,07-05-2024,101,0,0,1,1
+Pescaglia,Sillano Giuncugnano,10-01-2024,173,0,0,0,1
+Pescaglia,Sillano Giuncugnano,10-01-2024,312,0,0,0,1
+Pescaglia,Sillano Giuncugnano,10-10-2024,194,0,0,0,1
+Pescaglia,Sillano Giuncugnano,10-10-2024,312,0,0,0,1
+Pescaglia,Sillano Giuncugnano,07-09-2024,268,0,0,0,1
+Pescaglia,Sillano Giuncugnano,07-09-2024,401,0,0,0,1
+Pescaglia,Sillano Giuncugnano,07-05-2024,268,0,0,0,1
+Pescaglia,Sillano Giuncugnano,07-05-2024,401,0,0,0,1
+Pescaglia,Villa Collemandina,10-01-2024,291,0,0,0,1
+Pescaglia,Villa Collemandina,10-10-2024,291,0,0,0,1
+Pescaglia,Villa Collemandina,07-09-2024,246,0,0,0,1
+Pescaglia,Villa Collemandina,07-05-2024,246,0,0,0,1
+Pescaglia,Bagni di Lucca,10-01-2024,98,0,0,1,1
+Pescaglia,Bagni di Lucca,10-10-2024,98,0,0,1,1
+Pescaglia,Bagni di Lucca,07-09-2024,102,0,0,1,1
+Pescaglia,Bagni di Lucca,07-09-2024,57,0,1,1,1
+Pescaglia,Bagni di Lucca,07-05-2024,102,0,0,1,1
+Pescaglia,Bagni di Lucca,07-05-2024,57,0,1,1,1
+Pescaglia,Barga,10-01-2024,77,0,0,1,1
+Pescaglia,Barga,10-01-2024,245,0,0,0,1
+Pescaglia,Barga,10-01-2024,58,0,1,1,1
+Pescaglia,Barga,10-01-2024,112,0,0,1,1
+Pescaglia,Barga,10-01-2024,100,0,0,1,1
+Pescaglia,Barga,10-10-2024,77,0,0,1,1
+Pescaglia,Barga,10-10-2024,245,0,0,0,1
+Pescaglia,Barga,10-10-2024,58,0,1,1,1
+Pescaglia,Barga,10-10-2024,112,0,0,1,1
+Pescaglia,Barga,10-10-2024,100,0,0,1,1
+Pescaglia,Barga,07-09-2024,80,0,0,1,1
+Pescaglia,Barga,07-09-2024,100,0,0,1,1
+Pescaglia,Barga,07-09-2024,112,0,0,1,1
+Pescaglia,Barga,07-05-2024,80,0,0,1,1
+Pescaglia,Barga,07-05-2024,100,0,0,1,1
+Pescaglia,Barga,07-05-2024,112,0,0,1,1
+Pescaglia,Borgo a Mozzano,10-01-2024,56,0,1,1,1
+Pescaglia,Borgo a Mozzano,10-01-2024,188,0,0,0,1
+Pescaglia,Borgo a Mozzano,10-01-2024,33,0,1,1,1
+Pescaglia,Borgo a Mozzano,10-01-2024,91,0,0,1,1
+Pescaglia,Borgo a Mozzano,10-01-2024,79,0,0,1,1
+Pescaglia,Borgo a Mozzano,10-10-2024,56,0,1,1,1
+Pescaglia,Borgo a Mozzano,10-10-2024,188,0,0,0,1
+Pescaglia,Borgo a Mozzano,10-10-2024,33,0,1,1,1
+Pescaglia,Borgo a Mozzano,10-10-2024,91,0,0,1,1
+Pescaglia,Borgo a Mozzano,10-10-2024,79,0,0,1,1
+Pescaglia,Borgo a Mozzano,07-09-2024,41,0,1,1,1
+Pescaglia,Borgo a Mozzano,07-09-2024,59,0,1,1,1
+Pescaglia,Borgo a Mozzano,07-09-2024,34,0,1,1,1
+Pescaglia,Borgo a Mozzano,07-05-2024,41,0,1,1,1
+Pescaglia,Borgo a Mozzano,07-05-2024,59,0,1,1,1
+Pescaglia,Borgo a Mozzano,07-05-2024,34,0,1,1,1
+Pescaglia,Lucca,10-01-2024,84,0,0,1,1
+Pescaglia,Lucca,10-01-2024,60,0,0,1,1
+Pescaglia,Lucca,10-01-2024,69,0,0,1,1
+Pescaglia,Lucca,10-01-2024,99,0,0,1,1
+Pescaglia,Lucca,10-10-2024,84,0,0,1,1
+Pescaglia,Lucca,10-10-2024,60,0,0,1,1
+Pescaglia,Lucca,10-10-2024,69,0,0,1,1
+Pescaglia,Lucca,10-10-2024,99,0,0,1,1
+Pescaglia,Lucca,07-09-2024,75,0,0,1,1
+Pescaglia,Lucca,07-09-2024,60,0,0,1,1
+Pescaglia,Lucca,07-09-2024,102,0,0,1,1
+Pescaglia,Lucca,07-05-2024,75,0,0,1,1
+Pescaglia,Lucca,07-05-2024,60,0,0,1,1
+Pescaglia,Lucca,07-05-2024,102,0,0,1,1
+Lucca,Camporgiano,10-01-2024,91,0,0,1,1
+Lucca,Camporgiano,10-01-2024,93,0,0,1,1
+Lucca,Camporgiano,10-01-2024,88,0,0,1,1
+Lucca,Camporgiano,10-01-2024,99,0,0,1,1
+Lucca,Camporgiano,10-01-2024,92,0,0,1,1
+Lucca,Camporgiano,10-10-2024,91,0,0,1,1
+Lucca,Camporgiano,10-10-2024,93,0,0,1,1
+Lucca,Camporgiano,10-10-2024,88,0,0,1,1
+Lucca,Camporgiano,10-10-2024,99,0,0,1,1
+Lucca,Camporgiano,10-10-2024,92,0,0,1,1
+Lucca,Camporgiano,07-09-2024,91,0,0,1,1
+Lucca,Camporgiano,07-09-2024,93,0,0,1,1
+Lucca,Camporgiano,07-09-2024,88,0,0,1,1
+Lucca,Camporgiano,07-09-2024,99,0,0,1,1
+Lucca,Camporgiano,07-09-2024,92,0,0,1,1
+Lucca,Camporgiano,07-05-2024,91,0,0,1,1
+Lucca,Camporgiano,07-05-2024,93,0,0,1,1
+Lucca,Camporgiano,07-05-2024,88,0,0,1,1
+Lucca,Camporgiano,07-05-2024,99,0,0,1,1
+Lucca,Camporgiano,07-05-2024,92,0,0,1,1
+Lucca,Castelnuovo di Garfagnana,10-01-2024,87,0,0,1,1
+Lucca,Castelnuovo di Garfagnana,10-01-2024,78,0,0,1,1
+Lucca,Castelnuovo di Garfagnana,10-10-2024,87,0,0,1,1
+Lucca,Castelnuovo di Garfagnana,10-10-2024,78,0,0,1,1
+Lucca,Castiglione di Garfagnana,10-01-2024,91,0,0,1,1
+Lucca,Castiglione di Garfagnana,10-01-2024,144,0,0,0,1
+Lucca,Castiglione di Garfagnana,10-10-2024,91,0,0,1,1
+Lucca,Castiglione di Garfagnana,10-10-2024,144,0,0,0,1
+Lucca,Castiglione di Garfagnana,07-09-2024,100,0,0,1,1
+Lucca,Castiglione di Garfagnana,07-09-2024,131,0,0,0,1
+Lucca,Castiglione di Garfagnana,07-09-2024,120,0,0,0,1
+Lucca,Castiglione di Garfagnana,07-09-2024,107,0,0,1,1
+Lucca,Castiglione di Garfagnana,07-05-2024,100,0,0,1,1
+Lucca,Castiglione di Garfagnana,07-05-2024,131,0,0,0,1
+Lucca,Castiglione di Garfagnana,07-05-2024,120,0,0,0,1
+Lucca,Castiglione di Garfagnana,07-05-2024,107,0,0,1,1
+Lucca,Fabbriche di Vergemoli,10-01-2024,90,0,0,1,1
+Lucca,Fabbriche di Vergemoli,10-01-2024,139,0,0,0,1
+Lucca,Fabbriche di Vergemoli,10-01-2024,183,0,0,0,1
+Lucca,Fabbriche di Vergemoli,10-10-2024,90,0,0,1,1
+Lucca,Fabbriche di Vergemoli,10-10-2024,139,0,0,0,1
+Lucca,Fabbriche di Vergemoli,10-10-2024,183,0,0,0,1
+Lucca,Fabbriche di Vergemoli,07-09-2024,249,0,0,0,1
+Lucca,Fabbriche di Vergemoli,07-05-2024,249,0,0,0,1
+Lucca,Gallicano,10-01-2024,68,0,0,1,1
+Lucca,Gallicano,10-01-2024,67,0,0,1,1
+Lucca,Gallicano,10-01-2024,71,0,0,1,1
+Lucca,Gallicano,10-10-2024,68,0,0,1,1
+Lucca,Gallicano,10-10-2024,67,0,0,1,1
+Lucca,Gallicano,10-10-2024,71,0,0,1,1
+Lucca,Gallicano,07-09-2024,73,0,0,1,1
+Lucca,Gallicano,07-09-2024,79,0,0,1,1
+Lucca,Gallicano,07-05-2024,73,0,0,1,1
+Lucca,Gallicano,07-05-2024,79,0,0,1,1
+Lucca,Minucciano,10-01-2024,149,0,0,0,1
+Lucca,Minucciano,10-01-2024,143,0,0,0,1
+Lucca,Minucciano,10-01-2024,201,0,0,0,1
+Lucca,Minucciano,10-01-2024,230,0,0,0,1
+Lucca,Minucciano,10-01-2024,157,0,0,0,1
+Lucca,Minucciano,10-10-2024,149,0,0,0,1
+Lucca,Minucciano,10-10-2024,143,0,0,0,1
+Lucca,Minucciano,10-10-2024,201,0,0,0,1
+Lucca,Minucciano,10-10-2024,230,0,0,0,1
+Lucca,Minucciano,10-10-2024,157,0,0,0,1
+Lucca,Minucciano,07-09-2024,189,0,0,0,1
+Lucca,Minucciano,07-09-2024,243,0,0,0,1
+Lucca,Minucciano,07-09-2024,187,0,0,0,1
+Lucca,Minucciano,07-09-2024,165,0,0,0,1
+Lucca,Minucciano,07-05-2024,189,0,0,0,1
+Lucca,Minucciano,07-05-2024,243,0,0,0,1
+Lucca,Minucciano,07-05-2024,187,0,0,0,1
+Lucca,Minucciano,07-05-2024,165,0,0,0,1
+Lucca,Molazzana,10-01-2024,90,0,0,1,1
+Lucca,Molazzana,10-01-2024,168,0,0,0,1
+Lucca,Molazzana,10-10-2024,90,0,0,1,1
+Lucca,Molazzana,10-10-2024,168,0,0,0,1
+Lucca,Piazza al Serchio,10-01-2024,96,0,0,1,1
+Lucca,Piazza al Serchio,10-01-2024,98,0,0,1,1
+Lucca,Piazza al Serchio,10-01-2024,93,0,0,1,1
+Lucca,Piazza al Serchio,10-01-2024,102,0,0,1,1
+Lucca,Piazza al Serchio,10-10-2024,96,0,0,1,1
+Lucca,Piazza al Serchio,10-10-2024,98,0,0,1,1
+Lucca,Piazza al Serchio,10-10-2024,93,0,0,1,1
+Lucca,Piazza al Serchio,10-10-2024,102,0,0,1,1
+Lucca,Piazza al Serchio,07-09-2024,96,0,0,1,1
+Lucca,Piazza al Serchio,07-09-2024,98,0,0,1,1
+Lucca,Piazza al Serchio,07-09-2024,93,0,0,1,1
+Lucca,Piazza al Serchio,07-09-2024,102,0,0,1,1
+Lucca,Piazza al Serchio,07-05-2024,96,0,0,1,1
+Lucca,Piazza al Serchio,07-05-2024,98,0,0,1,1
+Lucca,Piazza al Serchio,07-05-2024,93,0,0,1,1
+Lucca,Piazza al Serchio,07-05-2024,102,0,0,1,1
+Lucca,San Romano in Garfagnana,10-01-2024,101,0,0,1,1
+Lucca,San Romano in Garfagnana,10-01-2024,94,0,0,1,1
+Lucca,San Romano in Garfagnana,10-01-2024,99,0,0,1,1
+Lucca,San Romano in Garfagnana,10-10-2024,101,0,0,1,1
+Lucca,San Romano in Garfagnana,10-10-2024,94,0,0,1,1
+Lucca,San Romano in Garfagnana,10-10-2024,99,0,0,1,1
+Lucca,San Romano in Garfagnana,07-09-2024,102,0,0,1,1
+Lucca,San Romano in Garfagnana,07-09-2024,119,0,0,1,1
+Lucca,San Romano in Garfagnana,07-09-2024,98,0,0,1,1
+Lucca,San Romano in Garfagnana,07-05-2024,102,0,0,1,1
+Lucca,San Romano in Garfagnana,07-05-2024,119,0,0,1,1
+Lucca,San Romano in Garfagnana,07-05-2024,98,0,0,1,1
+Lucca,Sillano Giuncugnano,10-01-2024,145,0,0,0,1
+Lucca,Sillano Giuncugnano,10-01-2024,147,0,0,0,1
+Lucca,Sillano Giuncugnano,10-01-2024,148,0,0,0,1
+Lucca,Sillano Giuncugnano,10-10-2024,165,0,0,0,1
+Lucca,Sillano Giuncugnano,10-10-2024,147,0,0,0,1
+Lucca,Sillano Giuncugnano,10-10-2024,148,0,0,0,1
+Lucca,Sillano Giuncugnano,07-09-2024,114,0,0,1,1
+Lucca,Sillano Giuncugnano,07-09-2024,129,0,0,0,1
+Lucca,Sillano Giuncugnano,07-05-2024,114,0,0,1,1
+Lucca,Sillano Giuncugnano,07-05-2024,129,0,0,0,1
+Lucca,Villa Collemandina,10-01-2024,97,0,0,1,1
+Lucca,Villa Collemandina,10-01-2024,198,0,0,0,1
+Lucca,Villa Collemandina,10-10-2024,97,0,0,1,1
+Lucca,Villa Collemandina,10-10-2024,198,0,0,0,1
+Lucca,Villa Collemandina,07-09-2024,134,0,0,0,1
+Lucca,Villa Collemandina,07-09-2024,110,0,0,1,1
+Lucca,Villa Collemandina,07-05-2024,134,0,0,0,1
+Lucca,Villa Collemandina,07-05-2024,110,0,0,1,1
+Lucca,Bagni di Lucca,10-01-2024,55,0,1,1,1
+Lucca,Bagni di Lucca,10-01-2024,58,0,1,1,1
+Lucca,Bagni di Lucca,10-01-2024,53,0,1,1,1
+Lucca,Bagni di Lucca,10-10-2024,55,0,1,1,1
+Lucca,Bagni di Lucca,10-10-2024,58,0,1,1,1
+Lucca,Bagni di Lucca,10-10-2024,53,0,1,1,1
+Lucca,Bagni di Lucca,07-09-2024,58,0,1,1,1
+Lucca,Bagni di Lucca,07-09-2024,62,0,0,1,1
+Lucca,Bagni di Lucca,07-09-2024,61,0,0,1,1
+Lucca,Bagni di Lucca,07-09-2024,59,0,1,1,1
+Lucca,Bagni di Lucca,07-05-2024,58,0,1,1,1
+Lucca,Bagni di Lucca,07-05-2024,62,0,0,1,1
+Lucca,Bagni di Lucca,07-05-2024,61,0,0,1,1
+Lucca,Bagni di Lucca,07-05-2024,59,0,1,1,1
+Lucca,Barga,10-01-2024,70,0,0,1,1
+Lucca,Barga,10-01-2024,72,0,0,1,1
+Lucca,Barga,10-01-2024,79,0,0,1,1
+Lucca,Barga,10-10-2024,70,0,0,1,1
+Lucca,Barga,10-10-2024,72,0,0,1,1
+Lucca,Barga,10-10-2024,79,0,0,1,1
+Lucca,Barga,07-09-2024,72,0,0,1,1
+Lucca,Barga,07-09-2024,109,0,0,1,1
+Lucca,Barga,07-09-2024,102,0,0,1,1
+Lucca,Barga,07-05-2024,72,0,0,1,1
+Lucca,Barga,07-05-2024,109,0,0,1,1
+Lucca,Barga,07-05-2024,102,0,0,1,1
+Lucca,Borgo a Mozzano,10-01-2024,40,0,1,1,1
+Lucca,Borgo a Mozzano,10-01-2024,41,0,1,1,1
+Lucca,Borgo a Mozzano,10-01-2024,42,0,1,1,1
+Lucca,Borgo a Mozzano,10-10-2024,40,0,1,1,1
+Lucca,Borgo a Mozzano,10-10-2024,41,0,1,1,1
+Lucca,Borgo a Mozzano,10-10-2024,42,0,1,1,1
+Lucca,Borgo a Mozzano,07-09-2024,40,0,1,1,1
+Lucca,Borgo a Mozzano,07-09-2024,41,0,1,1,1
+Lucca,Borgo a Mozzano,07-09-2024,42,0,1,1,1
+Lucca,Borgo a Mozzano,07-05-2024,40,0,1,1,1
+Lucca,Borgo a Mozzano,07-05-2024,41,0,1,1,1
+Lucca,Borgo a Mozzano,07-05-2024,42,0,1,1,1
+Lucca,Pescaglia,10-01-2024,61,0,0,1,1
+Lucca,Pescaglia,10-01-2024,57,0,1,1,1
+Lucca,Pescaglia,10-01-2024,63,0,0,1,1
+Lucca,Pescaglia,10-01-2024,49,0,1,1,1
+Lucca,Pescaglia,10-01-2024,131,0,0,0,1
+Lucca,Pescaglia,10-10-2024,61,0,0,1,1
+Lucca,Pescaglia,10-10-2024,57,0,1,1,1
+Lucca,Pescaglia,10-10-2024,63,0,0,1,1
+Lucca,Pescaglia,10-10-2024,49,0,1,1,1
+Lucca,Pescaglia,10-10-2024,131,0,0,0,1
+Lucca,Pescaglia,07-09-2024,61,0,0,1,1
+Lucca,Pescaglia,07-09-2024,57,0,1,1,1
+Lucca,Pescaglia,07-09-2024,66,0,0,1,1
+Lucca,Pescaglia,07-05-2024,61,0,0,1,1
+Lucca,Pescaglia,07-05-2024,57,0,1,1,1
+Lucca,Pescaglia,07-05-2024,66,0,0,1,1
